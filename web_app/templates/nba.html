@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA</title>
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='favicon.png') }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ url_for('static', filename='apple-touch-icon-180x180.png') }}">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ url_for('static', filename='apple-touch-icon-120x120.png') }}">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ url_for('static', filename='apple-touch-icon-76x76.png') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Orbitron">
+
+    <!-- Google Analytics tracking code goes here -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LMWQVV0KCX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+    
+        gtag('config', 'G-LMWQVV0KCX');
+    </script>
+    
+</head>
+<body>
+    <div class="emoji-header" style="font-family: 'Orbitron', sans-serif;">
+        <a href="/" style="text-decoration: none; color: inherit;">
+            🔮 playprophet
+        </a>
+    </div>
+
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/nfl">NFL</a></li>
+            <li><a href="/nba" class="active">NBA</a></li>
+            <li><a href="/nhl">NHL</a></li>
+        </ul>
+    </nav>
+
+    <!-- {% for record in csv_data %}
+    <table>
+        <colgroup>
+            <col style="width:50%">
+            <col style="width:25%">
+            <col style="width:25%">
+        </colgroup>
+        <thead>
+            <tr>
+                <th colspan="3">
+                    <img src="{{ url_for('static', filename='nba_logos/' + record['team_name_1'] + '.png') }}" alt="{{ record['team_name_1'] }} Logo" class="header-logo">
+                    vs.
+                    <img src="{{ url_for('static', filename='nba_logos/' + record['team_name_2'] + '.png') }}" alt="{{ record['team_name_2'] }} Logo" class="header-logo">
+                </th>
+            </tr>
+            <tr>
+                <th>Team</th>
+                <th>Winner</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <img src="{{ url_for('static', filename='nba_logos/' + record['team_name_1'] + '.png') }}" alt="{{ record['team_name_1'] }} Logo" class="team-logo">
+                    {{ record['team_name_1'] }}
+                </td>
+                <td {% if record['team_1_win_percentage'] > record['team_2_win_percentage'] %}class="higher-percentage"{% endif %}>
+                    {{ record['team_1_win_percentage'] }}
+                </td>
+                <td rowspan="2" class="total-points" style="vertical-align: middle;">{{ record['total_adj_points'] }}</td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="{{ url_for('static', filename='nba_logos/' + record['team_name_2'] + '.png') }}" alt="{{ record['team_name_2'] }} Logo" class="team-logo">
+                    {{ record['team_name_2'] }} <img src="{{ url_for('static', filename='homeicon.png') }}" alt="Home Icon" class="home-icon">
+                </td>
+                <td {% if record['team_2_win_percentage'] > record['team_1_win_percentage'] %}class="higher-percentage"{% endif %}>
+                    {{ record['team_2_win_percentage'] }}
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    {% endfor %} -->
+
+        <!-- Content Section -->
+        <section class="home-content">
+            <h1>Season Concluded.</h1>
+            <li>Tune back in next season! 🎉</li>
+        </section>
+
+<footer>
+    <p class ="footer-text">
+        playprophet.ai is an independent simulation and is not affiliated with, endorsed by, or sponsored by the National Football League (NFL), the National Basketball Association (NBA), or the National Hockey League (NHL). All NFL, NBA, and NHL team names, logos, and related marks are trademarks of their respective owners, and the use of such trademarks on this website does not imply any affiliation with or endorsement by their respective owners.
+    </p>
+</footer>
+
+</body>
+</html>

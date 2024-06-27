@@ -1,0 +1,43 @@
+name: Execute NHL tweet.
+
+on:
+  schedule:
+    - cron: "0 14 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11.1' # install the python version needed
+
+      - name: install python packages
+        run: |
+          pip install pandas seaborn matplotlib tweepy python-dotenv
+
+      - name: execute py script # run main.py
+        run: |
+          python social/nhl_tweet.py
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET_KEY: ${{ secrets.X_API_SECRET_KEY }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+
+      - name: Pull latest changes from remote
+        run: git pull origin main
+
+      - name: commit files
+        run: |
+          git config user.name "jonasnatividad"
+          git config user.email "jonas.natividad.ii@gmail.com"
+          git add .
+          git commit -m "Daily NHL tweet." || echo "No changes to commit"
+          git push origin main

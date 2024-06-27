@@ -1,0 +1,1034 @@
+team_name_1,team_name_2,timestamp,team_1_adj_pts,team_2_adj_pts,total_adj_pts,team_1_win_percentage,team_2_win_percentage,team_1_actual_points,team_2_actual_points,total_actual_points,moneyline_prediction,actual_winner,moneyline_result,total_o_u_points,o_u_prediction,o_u_result
+Boston,Tampa Bay,2023-11-20 09:15:01,3.524,2.646,6.17,0.525,0.475,4,5,9,Boston,Tampa Bay,Loss,6.5,Under,Loss
+Edmonton,Florida,2023-11-20 09:15:01,2.823,3.414,6.237,0.484,0.516,3,5,8,Florida,Florida,Win,7.0,Under,Loss
+Colorado,Nashville,2023-11-20 09:15:01,3.589,3.03,6.618,0.515,0.485,3,4,7,Colorado,Nashville,Loss,6.0,Over,Win
+NY Rangers,Dallas,2023-11-20 09:15:01,3.058,2.727,5.785,0.509,0.491,3,6,9,NY Rangers,Dallas,Loss,6.0,Under,Loss
+LA Kings,Arizona,2023-11-20 09:15:01,3.506,2.919,6.425,0.517,0.483,4,1,5,LA Kings,LA Kings,Win,6.5,Under,Win
+Calgary,Seattle,2023-11-20 09:15:01,3.128,2.968,6.096,0.504,0.496,4,3,7,Calgary,Calgary,Win,6.0,Over,Win
+San Jose,Vancouver,2023-11-20 09:15:01,1.956,4.205,6.161,0.438,0.562,1,3,4,Vancouver,Vancouver,Win,6.5,Under,Win
+Boston,Florida,2023-11-21 10:44:41,3.072,2.629,5.701,0.513,0.487,0,0,0,Boston,Tie,Loss,6.0,Under,Win
+Buffalo,Washington,2023-11-21 10:44:41,2.749,2.798,5.547,0.499,0.501,0,0,0,Washington,Tie,Loss,6.5,Under,Win
+Edmonton,Carolina,2023-11-21 10:44:41,3.058,3.546,6.603,0.487,0.513,0,0,0,Carolina,Tie,Loss,6.5,Over,Loss
+Chicago,Columbus,2023-11-21 10:44:41,3.012,3.063,6.075,0.499,0.501,0,0,0,Columbus,Tie,Loss,6.5,Under,Win
+New Jersey,Detroit,2023-11-21 10:44:41,3.516,3.698,7.214,0.495,0.505,0,0,0,Detroit,Tie,Loss,7.0,Over,Loss
+NY Rangers,Pittsburgh,2023-11-21 10:44:41,3.027,2.885,5.911,0.504,0.496,0,0,0,NY Rangers,Tie,Loss,6.5,Under,Win
+Winnipeg,Tampa Bay,2023-11-21 10:44:41,3.67,3.342,7.012,0.509,0.491,0,0,0,Winnipeg,Tie,Loss,6.5,Over,Loss
+Philadelphia,NY Islanders,2023-11-21 10:44:41,3.285,2.704,5.989,0.516,0.484,0,0,0,Philadelphia,Tie,Loss,6.0,Under,Win
+Calgary,Nashville,2023-11-21 10:44:41,3.112,3.192,6.304,0.497,0.503,0,0,0,Nashville,Tie,Loss,6.0,Over,Loss
+Las Vegas,Dallas,2023-11-21 10:44:41,3.05,2.953,6.003,0.504,0.496,0,0,0,Las Vegas,Tie,Loss,6.0,Over,Loss
+Vancouver,Colorado,2023-11-21 10:44:41,3.581,3.016,6.597,0.516,0.484,0,0,0,Vancouver,Tie,Loss,6.5,Over,Loss
+San Jose,Seattle,2023-11-21 10:44:41,2.291,3.324,5.616,0.471,0.529,0,0,0,Seattle,Tie,Loss,6.5,Under,Win
+Boston,Florida,2023-11-22 10:41:27,3.072,2.629,5.701,0.513,0.487,3,1,4,Boston,Boston,Win,6.0,Under,Win
+Buffalo,Washington,2023-11-22 10:41:27,2.749,2.798,5.547,0.499,0.501,3,4,7,Washington,Washington,Win,6.0,Under,Loss
+Edmonton,Carolina,2023-11-22 10:41:27,3.058,3.546,6.603,0.486,0.514,3,6,9,Carolina,Carolina,Win,6.5,Over,Win
+Chicago,Columbus,2023-11-22 10:41:27,3.012,3.063,6.075,0.498,0.502,3,7,10,Columbus,Columbus,Win,6.5,Under,Loss
+New Jersey,Detroit,2023-11-22 10:41:27,3.516,3.698,7.214,0.495,0.505,0,4,4,Detroit,Detroit,Win,6.5,Over,Loss
+NY Rangers,Pittsburgh,2023-11-22 10:41:27,3.027,2.885,5.911,0.504,0.496,1,0,1,NY Rangers,NY Rangers,Win,6.5,Under,Win
+Winnipeg,Tampa Bay,2023-11-22 10:41:27,3.67,3.342,7.012,0.508,0.492,3,2,5,Winnipeg,Winnipeg,Win,6.5,Over,Loss
+Philadelphia,NY Islanders,2023-11-22 10:41:27,3.285,2.704,5.989,0.516,0.484,2,3,5,Philadelphia,NY Islanders,Loss,6.0,Under,Win
+Calgary,Nashville,2023-11-22 10:41:27,3.112,3.192,6.304,0.498,0.502,2,4,6,Nashville,Nashville,Win,6.0,Over,Tie
+Las Vegas,Dallas,2023-11-22 10:41:27,3.05,2.953,6.003,0.504,0.496,2,1,3,Las Vegas,Las Vegas,Win,6.0,Over,Loss
+Vancouver,Colorado,2023-11-22 10:41:27,3.581,3.016,6.597,0.516,0.484,2,5,7,Vancouver,Colorado,Loss,6.5,Over,Win
+San Jose,Seattle,2023-11-22 10:41:27,2.291,3.324,5.616,0.471,0.529,1,7,8,Seattle,Seattle,Win,6.0,Under,Loss
+Detroit,Boston,2023-11-24 10:40:04,2.76,3.302,6.062,0.485,0.515,5,2,7,Boston,Detroit,Loss,6.0,Over,Win
+NY Rangers,Philadelphia,2023-11-24 10:40:04,3.06,2.732,5.792,0.509,0.491,3,1,4,NY Rangers,NY Rangers,Win,6.0,Under,Win
+Toronto,Chicago,2023-11-24 10:40:04,3.619,2.937,6.556,0.519,0.481,3,4,7,Toronto,Chicago,Loss,6.5,Over,Win
+Columbus,New Jersey,2023-11-24 10:40:04,3.328,3.534,6.863,0.494,0.506,2,1,3,New Jersey,Columbus,Loss,6.5,Over,Loss
+Edmonton,Washington,2023-11-24 10:40:04,2.812,3.2,6.012,0.489,0.511,5,0,5,Washington,Edmonton,Loss,6.5,Under,Win
+LA Kings,Anaheim,2023-11-24 10:40:04,3.529,2.681,6.209,0.524,0.476,5,2,7,LA Kings,LA Kings,Win,6.0,Over,Win
+Pittsburgh,Buffalo,2023-11-24 10:40:04,3.215,2.723,5.938,0.514,0.486,2,3,5,Pittsburgh,Buffalo,Loss,6.5,Under,Win
+NY Islanders,Ottawa,2023-11-24 10:40:04,2.893,3.439,6.332,0.485,0.515,5,3,8,Ottawa,NY Islanders,Loss,6.0,Over,Win
+Tampa Bay,Carolina,2023-11-24 10:40:04,3.331,3.493,6.824,0.494,0.506,8,2,10,Carolina,Tampa Bay,Loss,6.5,Over,Win
+Winnipeg,Florida,2023-11-24 10:40:04,3.171,3.055,6.226,0.503,0.497,3,0,3,Winnipeg,Winnipeg,Win,6.5,Under,Win
+Calgary,Dallas,2023-11-24 10:40:04,2.779,3.38,6.159,0.484,0.516,7,4,11,Dallas,Calgary,Loss,6.0,Over,Win
+Colorado,Minnesota,2023-11-24 10:40:04,3.914,3.09,7.004,0.523,0.477,3,2,5,Colorado,Colorado,Win,6.5,Over,Loss
+Vancouver,Seattle,2023-11-24 10:40:04,3.677,2.701,6.378,0.527,0.473,5,1,6,Vancouver,Vancouver,Win,6.5,Under,Win
+Boston,NY Rangers,2023-11-25 10:38:52,2.735,2.698,5.433,0.5,0.5,4,7,11,Boston,NY Rangers,Loss,6.0,Under,Loss
+Buffalo,New Jersey,2023-11-25 10:38:52,3.256,3.239,6.495,0.5,0.5,2,7,9,Buffalo,New Jersey,Loss,6.5,Under,Loss
+Toronto,Pittsburgh,2023-11-25 10:38:52,3.034,3.297,6.331,0.492,0.508,2,3,5,Pittsburgh,Pittsburgh,Win,6.5,Under,Win
+Philadelphia,NY Islanders,2023-11-25 10:38:52,3.155,2.788,5.943,0.51,0.49,1,0,1,Philadelphia,Philadelphia,Win,6.0,Under,Win
+Arizona,Las Vegas,2023-11-25 10:38:52,2.776,3.31,6.086,0.486,0.514,2,0,2,Las Vegas,Arizona,Loss,6.0,Over,Loss
+Calgary,Colorado,2023-11-25 10:38:52,3.025,3.59,6.615,0.484,0.516,1,3,4,Colorado,Colorado,Win,6.5,Over,Loss
+Vancouver,San Jose,2023-11-25 10:38:52,4.124,1.929,6.053,0.562,0.438,3,4,7,Vancouver,San Jose,Loss,6.5,Under,Loss
+Minnesota,Detroit,2023-11-26 10:39:02,3.085,3.808,6.893,0.48,0.52,1,4,5,Detroit,Detroit,Win,6.5,Over,Loss
+Columbus,Carolina,2023-11-26 10:39:02,3.127,3.399,6.527,0.493,0.507,2,3,5,Carolina,Carolina,Win,6.5,Over,Loss
+Winnipeg,Nashville,2023-11-26 10:39:02,3.44,3.121,6.561,0.509,0.491,2,3,5,Winnipeg,Nashville,Loss,6.0,Over,Loss
+Anaheim,Edmonton,2023-11-26 10:39:02,3.258,3.148,6.406,0.504,0.496,2,8,10,Anaheim,Edmonton,Loss,6.5,Under,Loss
+Boston,Columbus,2023-11-27 10:40:50,3.425,2.655,6.08,0.521,0.479,2,5,7,Boston,Columbus,Loss,6.0,Over,Win
+Buffalo,NY Rangers,2023-11-27 10:40:50,2.553,3.375,5.928,0.477,0.523,5,1,6,NY Rangers,Buffalo,Loss,6.5,Under,Win
+Florida,Ottawa,2023-11-27 10:40:50,3.131,3.186,6.316,0.499,0.501,5,0,5,Ottawa,Florida,Loss,6.5,Under,Win
+Tampa Bay,Colorado,2023-11-27 10:40:50,3.28,3.633,6.913,0.49,0.51,1,4,5,Colorado,Colorado,Win,6.5,Over,Loss
+Las Vegas,Calgary,2023-11-27 10:40:50,3.258,2.65,5.908,0.518,0.482,1,2,3,Las Vegas,Calgary,Loss,6.0,Under,Win
+Washington,San Jose,2023-11-27 10:40:50,3.159,2.137,5.296,0.529,0.471,1,2,3,Washington,San Jose,Loss,6.0,Under,Win
+Florida,Toronto,2023-11-28 10:40:41,3.203,2.993,6.197,0.505,0.495,1,2,3,Florida,Toronto,Loss,6.5,Under,Win
+NY Islanders,New Jersey,2023-11-28 10:40:41,3.042,3.254,6.297,0.494,0.506,4,5,9,New Jersey,New Jersey,Win,6.5,Under,Loss
+Carolina,Philadelphia,2023-11-28 10:40:41,3.018,3.17,6.188,0.496,0.504,4,1,5,Philadelphia,Carolina,Loss,6.0,Over,Loss
+Dallas,Winnipeg,2023-11-28 10:40:41,3.149,3.236,6.385,0.498,0.502,2,0,2,Winnipeg,Dallas,Loss,6.0,Over,Loss
+Pittsburgh,Nashville,2023-11-28 10:40:41,3.175,2.951,6.126,0.507,0.493,2,3,5,Pittsburgh,Nashville,Loss,6.5,Under,Win
+Seattle,Chicago,2023-11-28 10:40:41,3.193,2.983,6.176,0.505,0.495,3,4,7,Seattle,Chicago,Loss,6.5,Under,Loss
+Tampa Bay,Arizona,2023-11-28 10:40:41,3.363,3.344,6.707,0.501,0.499,1,3,4,Tampa Bay,Arizona,Loss,6.5,Over,Loss
+Las Vegas,Edmonton,2023-11-28 10:40:41,3.359,2.791,6.15,0.516,0.484,4,5,9,Las Vegas,Edmonton,Loss,6.5,Under,Loss
+Anaheim,Vancouver,2023-11-28 10:40:41,2.653,3.731,6.384,0.47,0.53,1,3,4,Vancouver,Vancouver,Win,6.5,Under,Win
+Detroit,NY Rangers,2023-11-29 10:40:26,3.011,3.146,6.157,0.497,0.503,2,3,5,NY Rangers,NY Rangers,Win,6.0,Over,Loss
+Washington,LA Kings,2023-11-29 10:40:26,2.35,3.335,5.685,0.472,0.528,2,1,3,LA Kings,Washington,Loss,6.0,Under,Win
+San Jose,Boston,2023-11-30 10:40:06,2.073,3.65,5.723,0.456,0.544,0,3,3,Boston,Boston,Win,6.0,Under,Win
+Chicago,Detroit,2023-11-30 10:40:06,2.82,3.635,6.455,0.477,0.523,1,5,6,Detroit,Detroit,Win,6.5,Under,Win
+New Jersey,Philadelphia,2023-11-30 10:40:06,3.186,3.259,6.445,0.498,0.502,4,3,7,Philadelphia,New Jersey,Loss,6.5,Under,Loss
+Pittsburgh,Tampa Bay,2023-11-30 10:40:06,3.303,3.02,6.323,0.509,0.491,4,2,6,Pittsburgh,Pittsburgh,Win,6.5,Under,Win
+Seattle,Toronto,2023-11-30 10:40:06,3.029,3.389,6.418,0.49,0.51,3,4,7,Toronto,Toronto,Win,6.5,Under,Loss
+NY Islanders,Carolina,2023-11-30 10:40:06,2.914,3.213,6.126,0.492,0.508,5,4,9,Carolina,NY Islanders,Loss,6.0,Over,Win
+Edmonton,Winnipeg,2023-11-30 10:40:06,3.086,3.541,6.627,0.488,0.512,3,1,4,Winnipeg,Edmonton,Loss,6.5,Over,Loss
+Minnesota,Nashville,2023-11-30 10:40:06,3.044,3.557,6.601,0.486,0.514,6,1,7,Nashville,Minnesota,Loss,6.0,Over,Win
+Colorado,Arizona,2023-11-30 10:40:06,3.386,2.97,6.357,0.511,0.489,3,4,7,Colorado,Arizona,Loss,6.5,Under,Loss
+Dallas,Calgary,2023-11-30 10:40:06,3.31,2.854,6.164,0.514,0.486,3,4,7,Dallas,Calgary,Loss,6.0,Over,Win
+Washington,Anaheim,2023-11-30 10:40:06,2.829,2.68,5.509,0.503,0.497,5,4,9,Washington,Washington,Win,6.0,Under,Loss
+Las Vegas,Vancouver,2023-11-30 10:40:06,2.768,3.102,5.87,0.49,0.51,4,1,5,Vancouver,Las Vegas,Loss,6.5,Under,Win
+Ottawa,Columbus,2023-12-01 10:40:14,3.445,3.161,6.606,0.508,0.492,2,4,6,Ottawa,Columbus,Loss,7.0,Under,Win
+San Jose,New Jersey,2023-12-01 10:40:14,2.384,3.786,6.17,0.46,0.54,6,3,9,New Jersey,San Jose,Loss,6.5,Under,Loss
+Tampa Bay,Dallas,2023-12-02 10:38:57,3.127,3.433,6.561,0.491,0.509,1,8,9,Dallas,Dallas,Win,6.0,Over,Win
+Chicago,Winnipeg,2023-12-02 10:38:57,2.711,3.483,6.194,0.478,0.522,1,3,4,Winnipeg,Winnipeg,Win,6.5,Under,Win
+NY Rangers,Nashville,2023-12-02 10:38:57,3.28,2.802,6.082,0.513,0.487,4,3,7,NY Rangers,NY Rangers,Win,6.0,Over,Win
+NY Islanders,Florida,2023-12-02 10:38:57,2.602,3.069,5.671,0.487,0.513,4,3,7,Florida,NY Islanders,Loss,6.0,Under,Loss
+Boston,Toronto,2023-12-02 10:38:57,3.305,2.868,6.173,0.512,0.488,4,3,7,Boston,Boston,Win,6.0,Over,Win
+Buffalo,Carolina,2023-12-02 10:38:57,3.135,3.355,6.49,0.495,0.505,2,6,8,Carolina,Carolina,Win,6.5,Under,Loss
+Seattle,Ottawa,2023-12-02 10:38:57,3.125,3.425,6.55,0.492,0.508,0,2,2,Ottawa,Ottawa,Win,6.5,Over,Loss
+Philadelphia,Pittsburgh,2023-12-02 10:38:57,2.745,3.002,5.747,0.493,0.507,4,3,7,Pittsburgh,Philadelphia,Loss,6.0,Under,Loss
+Colorado,Anaheim,2023-12-02 10:38:57,3.623,2.799,6.423,0.523,0.477,3,4,7,Colorado,Anaheim,Loss,6.5,Under,Loss
+Vancouver,Calgary,2023-12-02 10:38:57,3.534,2.742,6.275,0.522,0.478,4,3,7,Vancouver,Vancouver,Win,6.5,Under,Loss
+Washington,Las Vegas,2023-12-02 10:38:57,2.415,2.934,5.349,0.485,0.515,1,4,5,Las Vegas,Las Vegas,Win,6.0,Under,Win
+Chicago,Minnesota,2023-12-03 10:39:13,3.029,3.378,6.407,0.489,0.511,1,4,5,Minnesota,Minnesota,Win,6.5,Under,Win
+San Jose,NY Rangers,2023-12-03 10:39:13,2.071,3.608,5.678,0.456,0.544,5,6,11,NY Rangers,NY Rangers,Win,6.0,Under,Loss
+Columbus,Boston,2023-12-03 10:39:13,2.713,3.355,6.068,0.482,0.518,1,3,4,Boston,Boston,Win,6.5,Under,Win
+Nashville,Buffalo,2023-12-03 10:39:13,3.338,3.104,6.442,0.506,0.494,2,1,3,Nashville,Nashville,Win,6.5,Under,Win
+Colorado,LA Kings,2023-12-03 10:39:13,2.949,3.324,6.273,0.49,0.51,1,4,5,LA Kings,LA Kings,Win,6.5,Under,Win
+Dallas,Tampa Bay,2023-12-04 10:41:11,3.634,3.033,6.667,0.517,0.483,0,4,4,Dallas,Tampa Bay,Loss,6.5,Over,Loss
+Pittsburgh,Philadelphia,2023-12-04 10:41:11,3.002,2.761,5.763,0.507,0.493,1,2,3,Pittsburgh,Philadelphia,Loss,6.5,Under,Win
+Carolina,Winnipeg,2023-12-04 10:41:11,3.11,3.26,6.37,0.497,0.503,1,2,3,Winnipeg,Winnipeg,Win,6.5,Under,Win
+Washington,Arizona,2023-12-04 10:41:11,2.654,3.008,5.662,0.49,0.51,0,6,6,Arizona,Arizona,Win,6.0,Under,Tie
+LA Kings,Columbus,2023-12-05 10:40:54,3.596,2.555,6.151,0.53,0.47,4,3,7,LA Kings,LA Kings,Win,6.5,Under,Loss
+NY Rangers,Ottawa,2023-12-05 10:40:54,3.375,2.921,6.296,0.513,0.487,2,6,8,NY Rangers,Ottawa,Loss,6.5,Under,Loss
+Detroit,Buffalo,2023-12-05 10:40:54,3.566,2.899,6.465,0.519,0.481,5,3,8,Detroit,Detroit,Win,6.5,Under,Loss
+San Jose,NY Islanders,2023-12-05 10:40:54,2.426,3.335,5.76,0.475,0.525,5,4,9,NY Islanders,San Jose,Loss,6.0,Under,Loss
+Nashville,Chicago,2023-12-05 10:40:54,3.425,2.793,6.218,0.517,0.483,4,3,7,Nashville,Nashville,Win,6.5,Under,Loss
+Anaheim,Colorado,2023-12-05 10:40:54,2.834,3.54,6.373,0.48,0.52,2,3,5,Colorado,Colorado,Win,6.5,Under,Win
+Minnesota,Calgary,2023-12-05 10:40:54,3.214,3.242,6.456,0.5,0.5,5,2,7,Calgary,Minnesota,Loss,6.0,Over,Win
+New Jersey,Vancouver,2023-12-05 10:40:54,3.032,3.785,6.816,0.477,0.523,6,5,11,Vancouver,New Jersey,Loss,7.0,Under,Loss
+Dallas,Florida,2023-12-06 10:40:16,2.934,2.914,5.848,0.501,0.499,4,5,9,Dallas,Florida,Loss,6.0,Under,Loss
+Pittsburgh,Tampa Bay,2023-12-06 10:40:16,3.299,2.94,6.239,0.509,0.491,1,3,4,Pittsburgh,Tampa Bay,Loss,6.5,Under,Win
+Carolina,Edmonton,2023-12-06 10:40:16,3.483,3.265,6.748,0.506,0.494,1,6,7,Carolina,Edmonton,Loss,6.5,Over,Win
+Buffalo,Boston,2023-12-07 10:40:49,2.648,3.394,6.042,0.479,0.521,3,1,4,Boston,Buffalo,Loss,6.0,Over,Loss
+San Jose,Detroit,2023-12-07 10:40:49,2.433,3.894,6.327,0.459,0.541,6,5,11,Detroit,San Jose,Loss,6.5,Under,Loss
+Toronto,Ottawa,2023-12-07 10:40:49,3.26,3.384,6.644,0.496,0.504,4,3,7,Ottawa,Toronto,Loss,6.5,Over,Win
+Columbus,NY Islanders,2023-12-07 10:40:49,3.025,3.088,6.113,0.498,0.502,3,7,10,NY Islanders,NY Islanders,Win,6.0,Over,Win
+Dallas,Washington,2023-12-07 10:40:49,3.176,2.575,5.751,0.517,0.483,5,4,9,Dallas,Dallas,Win,6.0,Under,Loss
+Tampa Bay,Nashville,2023-12-07 10:40:49,3.264,3.316,6.58,0.498,0.502,1,5,6,Nashville,Nashville,Win,6.5,Over,Loss
+Anaheim,Chicago,2023-12-07 10:40:49,3.159,2.926,6.085,0.507,0.493,0,1,1,Anaheim,Chicago,Loss,6.5,Under,Win
+Philadelphia,Arizona,2023-12-07 10:40:49,2.855,3.054,5.908,0.494,0.506,4,1,5,Arizona,Philadelphia,Loss,6.0,Under,Win
+Carolina,Calgary,2023-12-07 10:40:49,3.32,3.114,6.433,0.505,0.495,2,3,5,Carolina,Calgary,Loss,6.5,Under,Win
+Winnipeg,Colorado,2023-12-07 10:40:49,3.041,3.106,6.147,0.499,0.501,4,2,6,Colorado,Winnipeg,Loss,6.0,Over,Tie
+Minnesota,Vancouver,2023-12-07 10:40:49,2.943,3.675,6.618,0.479,0.521,0,2,2,Vancouver,Vancouver,Win,6.5,Over,Loss
+New Jersey,Seattle,2023-12-07 10:40:49,3.557,3.165,6.722,0.511,0.489,2,1,3,New Jersey,New Jersey,Win,6.5,Over,Loss
+Pittsburgh,Florida,2023-12-08 10:40:06,2.774,2.83,5.604,0.498,0.502,1,3,4,Florida,Florida,Win,6.5,Under,Win
+Minnesota,Edmonton,2023-12-08 10:40:06,3.274,3.425,6.699,0.497,0.503,3,4,7,Edmonton,Edmonton,Win,6.5,Over,Win
+Arizona,Boston,2023-12-09 10:39:23,2.835,3.055,5.889,0.494,0.506,3,5,8,Boston,Boston,Win,6.0,Under,Loss
+New Jersey,Calgary,2023-12-09 10:39:23,3.466,3.274,6.74,0.506,0.494,4,2,6,New Jersey,New Jersey,Win,6.5,Over,Loss
+Las Vegas,Dallas,2023-12-09 10:39:23,3.073,2.831,5.904,0.508,0.492,6,1,7,Las Vegas,Las Vegas,Win,6.0,Under,Loss
+Ottawa,Detroit,2023-12-09 10:39:23,3.25,3.554,6.805,0.491,0.509,5,1,6,Detroit,Ottawa,Loss,6.5,Over,Loss
+Nashville,Toronto,2023-12-09 10:39:23,3.265,3.209,6.474,0.502,0.498,0,4,4,Nashville,Toronto,Loss,6.5,Under,Win
+NY Rangers,Washington,2023-12-09 10:39:23,3.184,2.524,5.708,0.519,0.481,0,4,4,NY Rangers,Washington,Loss,6.0,Under,Win
+LA Kings,NY Islanders,2023-12-09 10:39:23,3.519,2.581,6.1,0.526,0.474,2,3,5,LA Kings,NY Islanders,Loss,6.0,Over,Loss
+Philadelphia,Colorado,2023-12-09 10:39:23,2.92,3.091,6.011,0.495,0.505,5,2,7,Colorado,Philadelphia,Loss,6.0,Over,Win
+Carolina,Vancouver,2023-12-09 10:39:23,2.892,3.551,6.444,0.482,0.518,3,4,7,Vancouver,Vancouver,Win,6.5,Under,Loss
+Tampa Bay,Seattle,2023-12-09 10:39:23,3.309,3.028,6.337,0.507,0.493,4,3,7,Tampa Bay,Tampa Bay,Win,6.5,Under,Loss
+Florida,Columbus,2023-12-10 10:38:59,3.26,2.728,5.988,0.515,0.485,5,2,7,Florida,Florida,Win,6.5,Under,Loss
+New Jersey,Edmonton,2023-12-10 10:38:59,3.549,3.529,7.078,0.501,0.499,1,4,5,New Jersey,Edmonton,Loss,7.0,Over,Loss
+Washington,Chicago,2023-12-10 10:38:59,2.877,2.64,5.517,0.507,0.493,4,2,6,Washington,Washington,Win,6.0,Under,Tie
+LA Kings,NY Rangers,2023-12-10 10:38:59,3.234,2.7,5.934,0.515,0.485,1,4,5,LA Kings,NY Rangers,Loss,6.0,Under,Win
+Winnipeg,Anaheim,2023-12-10 10:38:59,3.309,2.65,5.959,0.519,0.481,4,2,6,Winnipeg,Winnipeg,Win,6.0,Under,Tie
+Minnesota,Seattle,2023-12-10 10:38:59,3.231,2.996,6.228,0.506,0.494,3,0,3,Minnesota,Minnesota,Win,6.5,Under,Win
+San Jose,Las Vegas,2023-12-10 10:38:59,2.219,3.646,5.865,0.46,0.54,4,5,9,Las Vegas,Las Vegas,Win,6.0,Under,Loss
+Arizona,Buffalo,2023-12-11 10:42:24,3.275,2.889,6.164,0.511,0.489,2,5,7,Arizona,Buffalo,Loss,6.5,Under,Loss
+Toronto,NY Islanders,2023-12-11 10:42:24,3.239,3.084,6.323,0.503,0.497,3,4,7,Toronto,NY Islanders,Loss,6.0,Over,Win
+Detroit,Dallas,2023-12-11 10:42:24,3.389,3.248,6.638,0.504,0.496,3,6,9,Detroit,Dallas,Loss,6.0,Over,Win
+Calgary,Colorado,2023-12-11 10:42:24,2.944,3.385,6.329,0.487,0.513,5,6,11,Colorado,Colorado,Win,6.5,Under,Loss
+Arizona,Pittsburgh,2023-12-12 10:40:51,2.891,2.959,5.85,0.497,0.503,2,4,6,Pittsburgh,Pittsburgh,Win,6.5,Under,Win
+Carolina,Ottawa,2023-12-12 10:40:51,3.2,3.414,6.614,0.494,0.506,4,1,5,Ottawa,Carolina,Loss,6.5,Over,Loss
+Toronto,NY Rangers,2023-12-12 10:40:51,2.988,3.235,6.223,0.493,0.507,7,3,10,NY Rangers,Toronto,Loss,6.0,Over,Win
+Philadelphia,Nashville,2023-12-12 10:40:51,3.035,2.879,5.914,0.504,0.496,2,3,5,Philadelphia,Nashville,Loss,6.0,Under,Win
+Calgary,Las Vegas,2023-12-12 10:40:51,2.632,3.369,6.001,0.479,0.521,4,5,9,Las Vegas,Las Vegas,Win,6.0,Over,Win
+Chicago,Edmonton,2023-12-12 10:40:51,2.846,3.46,6.306,0.483,0.517,1,4,5,Edmonton,Edmonton,Win,6.5,Under,Win
+Florida,Seattle,2023-12-12 10:40:51,3.263,2.52,5.783,0.521,0.479,0,4,4,Florida,Seattle,Loss,6.5,Under,Win
+Tampa Bay,Vancouver,2023-12-12 10:40:51,2.926,3.667,6.593,0.479,0.521,1,4,5,Vancouver,Vancouver,Win,6.5,Over,Loss
+Winnipeg,San Jose,2023-12-12 10:40:51,3.635,2.42,6.055,0.534,0.466,1,2,3,Winnipeg,San Jose,Loss,6.5,Under,Win
+Anaheim,NY Islanders,2023-12-13 10:40:15,2.856,3.22,6.076,0.49,0.51,3,4,7,NY Islanders,NY Islanders,Win,6.0,Over,Win
+Boston,New Jersey,2023-12-13 10:40:15,3.462,2.975,6.436,0.514,0.486,1,2,3,Boston,New Jersey,Loss,6.0,Over,Loss
+Buffalo,Colorado,2023-12-13 10:40:15,2.984,3.408,6.391,0.488,0.512,1,5,6,Colorado,Colorado,Win,6.5,Under,Win
+Winnipeg,LA Kings,2023-12-13 10:40:15,2.72,3.111,5.831,0.488,0.512,5,2,7,LA Kings,Winnipeg,Loss,6.0,Under,Loss
+Columbus,Toronto,2023-12-14 10:40:44,3.042,3.48,6.521,0.488,0.512,6,5,11,Toronto,Columbus,Loss,6.5,Over,Win
+Washington,Philadelphia,2023-12-14 10:40:44,2.592,2.899,5.492,0.491,0.509,3,4,7,Philadelphia,Philadelphia,Win,5.5,Under,Loss
+Carolina,Detroit,2023-12-14 10:40:44,3.27,3.51,6.78,0.493,0.507,2,1,3,Detroit,Carolina,Loss,6.5,Over,Loss
+Calgary,Minnesota,2023-12-14 10:40:44,3.151,3.274,6.425,0.496,0.504,2,3,5,Minnesota,Minnesota,Win,6.0,Over,Loss
+Tampa Bay,Edmonton,2023-12-14 10:40:44,3.235,3.515,6.75,0.491,0.509,7,4,11,Edmonton,Tampa Bay,Loss,6.5,Over,Win
+Chicago,Seattle,2023-12-14 10:40:44,2.778,2.982,5.76,0.494,0.506,1,7,8,Seattle,Seattle,Win,6.0,Under,Loss
+Florida,Vancouver,2023-12-14 10:40:44,2.784,3.137,5.922,0.49,0.51,0,4,4,Vancouver,Vancouver,Win,6.5,Under,Win
+Anaheim,NY Rangers,2023-12-15 10:40:14,2.727,3.344,6.071,0.484,0.516,1,5,6,NY Rangers,NY Rangers,Win,6.0,Over,Tie
+Boston,NY Islanders,2023-12-15 10:40:14,3.18,2.759,5.939,0.511,0.489,5,4,9,Boston,Boston,Win,5.5,Over,Win
+Nashville,Carolina,2023-12-15 10:40:14,3.12,3.119,6.238,0.499,0.501,6,5,11,Nashville,Nashville,Win,6.0,Over,Win
+Ottawa,Dallas,2023-12-15 10:40:14,3.197,3.344,6.541,0.496,0.504,4,5,9,Dallas,Dallas,Win,6.5,Over,Win
+San Jose,Arizona,2023-12-15 10:40:14,2.605,3.513,6.118,0.474,0.526,0,1,1,Arizona,Arizona,Win,6.5,Under,Win
+Buffalo,Las Vegas,2023-12-15 10:40:14,2.606,3.35,5.956,0.479,0.521,5,2,7,Las Vegas,Buffalo,Loss,6.5,Under,Loss
+Vancouver,Minnesota,2023-12-16 10:38:52,3.534,2.74,6.274,0.523,0.477,1,2,3,Vancouver,Minnesota,Loss,6.0,Over,Loss
+NY Rangers,Boston,2023-12-16 10:38:52,2.904,3.011,5.915,0.497,0.503,2,1,3,Boston,NY Rangers,Loss,6.0,Under,Win
+Colorado,Winnipeg,2023-12-16 10:38:52,3.061,3.122,6.184,0.498,0.502,2,6,8,Winnipeg,Winnipeg,Win,6.0,Over,Win
+New Jersey,Columbus,2023-12-16 10:38:52,3.515,3.25,6.764,0.508,0.492,6,3,9,New Jersey,New Jersey,Win,6.5,Over,Win
+Detroit,Philadelphia,2023-12-16 10:38:52,3.168,3.102,6.27,0.502,0.498,0,1,1,Detroit,Philadelphia,Loss,6.0,Over,Loss
+Pittsburgh,Toronto,2023-12-16 10:38:52,3.11,3.031,6.141,0.503,0.497,0,7,7,Pittsburgh,Toronto,Loss,6.5,Under,Loss
+Washington,Nashville,2023-12-16 10:38:52,2.784,3.006,5.79,0.494,0.506,1,3,4,Nashville,Nashville,Win,6.5,Under,Win
+Buffalo,Arizona,2023-12-16 10:38:52,2.935,3.178,6.113,0.493,0.507,0,2,2,Arizona,Arizona,Win,6.5,Under,Win
+Tampa Bay,Calgary,2023-12-16 10:38:52,3.375,3.247,6.622,0.504,0.496,2,4,6,Tampa Bay,Calgary,Loss,6.5,Over,Loss
+Florida,Edmonton,2023-12-16 10:38:52,3.161,3.037,6.198,0.503,0.497,5,1,6,Florida,Florida,Win,6.5,Under,Win
+LA Kings,Seattle,2023-12-16 10:38:52,3.398,2.561,5.959,0.525,0.475,3,2,5,LA Kings,LA Kings,Win,6.0,Under,Win
+Vancouver,Chicago,2023-12-17 10:39:05,3.664,2.364,6.029,0.537,0.463,4,3,7,Vancouver,Vancouver,Win,6.5,Under,Loss
+Washington,Carolina,2023-12-17 10:39:05,2.825,3.053,5.877,0.493,0.507,2,1,3,Carolina,Washington,Loss,6.0,Under,Win
+Anaheim,New Jersey,2023-12-17 10:39:05,2.987,3.525,6.512,0.484,0.516,5,1,6,New Jersey,Anaheim,Loss,6.5,Over,Loss
+San Jose,Colorado,2023-12-17 10:39:05,2.57,3.677,6.247,0.469,0.531,2,6,8,Colorado,Colorado,Win,6.5,Under,Loss
+Ottawa,Las Vegas,2023-12-17 10:39:05,2.887,3.32,6.207,0.488,0.512,3,6,9,Las Vegas,Las Vegas,Win,6.5,Under,Loss
+Anaheim,Detroit,2023-12-18 10:41:13,2.887,3.484,6.371,0.484,0.516,4,3,7,Detroit,Anaheim,Loss,6.5,Under,Loss
+Minnesota,Pittsburgh,2023-12-18 10:41:13,2.858,3.0,5.858,0.496,0.504,3,4,7,Pittsburgh,Pittsburgh,Win,6.0,Under,Loss
+Seattle,Dallas,2023-12-18 10:41:13,2.906,3.316,6.222,0.488,0.512,3,4,7,Dallas,Dallas,Win,6.0,Over,Win
+Florida,Calgary,2023-12-18 10:41:13,3.189,2.777,5.966,0.512,0.488,1,3,4,Florida,Calgary,Loss,6.5,Under,Win
+Minnesota,Boston,2023-12-19 10:39:58,2.736,3.19,5.926,0.487,0.513,4,3,7,Boston,Minnesota,Loss,6.0,Under,Loss
+Columbus,Buffalo,2023-12-19 10:39:58,3.122,3.194,6.316,0.498,0.502,9,4,13,Buffalo,Columbus,Loss,6.5,Under,Loss
+Las Vegas,Carolina,2023-12-19 10:39:58,3.298,2.824,6.122,0.514,0.486,3,6,9,Las Vegas,Carolina,Loss,6.0,Over,Win
+Philadelphia,New Jersey,2023-12-19 10:39:58,3.209,3.025,6.234,0.505,0.495,3,2,5,Philadelphia,Philadelphia,Win,6.5,Under,Win
+NY Rangers,Toronto,2023-12-19 10:39:58,3.23,3.147,6.376,0.503,0.497,5,2,7,NY Rangers,NY Rangers,Win,6.5,Under,Loss
+Edmonton,NY Islanders,2023-12-19 10:39:58,3.328,3.275,6.604,0.501,0.499,1,3,4,Edmonton,NY Islanders,Loss,6.5,Over,Loss
+Vancouver,Nashville,2023-12-19 10:39:58,3.371,2.777,6.148,0.517,0.483,5,2,7,Vancouver,Vancouver,Win,6.0,Over,Win
+Colorado,Chicago,2023-12-19 10:39:58,3.605,2.67,6.275,0.527,0.473,2,3,5,Colorado,Chicago,Loss,6.5,Under,Win
+Ottawa,Arizona,2023-12-19 10:39:58,3.101,3.219,6.32,0.496,0.504,3,4,7,Arizona,Arizona,Win,6.5,Under,Loss
+LA Kings,San Jose,2023-12-19 10:39:58,3.726,2.266,5.992,0.541,0.459,4,1,5,LA Kings,LA Kings,Win,6.0,Under,Win
+Detroit,Winnipeg,2023-12-20 10:39:14,3.038,3.245,6.283,0.495,0.505,2,5,7,Winnipeg,Winnipeg,Win,6.5,Under,Loss
+NY Islanders,Washington,2023-12-20 10:39:14,2.941,2.748,5.689,0.505,0.495,2,3,5,NY Islanders,Washington,Loss,5.5,Over,Loss
+Seattle,LA Kings,2023-12-20 10:39:14,2.524,3.369,5.894,0.477,0.523,2,1,3,LA Kings,Seattle,Loss,6.0,Under,Win
+Toronto,Buffalo,2023-12-21 10:39:36,3.504,3.039,6.543,0.513,0.487,3,9,12,Toronto,Buffalo,Loss,6.5,Over,Win
+Carolina,Pittsburgh,2023-12-21 10:39:36,3.014,3.026,6.04,0.499,0.501,1,2,3,Pittsburgh,Pittsburgh,Win,6.0,Over,Loss
+Washington,Columbus,2023-12-21 10:39:36,2.962,2.963,5.924,0.501,0.499,3,2,5,Columbus,Washington,Loss,6.0,Under,Win
+Nashville,Philadelphia,2023-12-21 10:39:36,2.858,2.993,5.852,0.496,0.504,4,2,6,Philadelphia,Nashville,Loss,6.0,Under,Tie
+Las Vegas,Tampa Bay,2023-12-21 10:39:36,3.435,2.961,6.396,0.513,0.487,4,5,9,Las Vegas,Tampa Bay,Loss,6.5,Under,Loss
+Edmonton,New Jersey,2023-12-21 10:39:36,3.434,3.44,6.874,0.499,0.501,6,3,9,New Jersey,Edmonton,Loss,7.0,Under,Loss
+Vancouver,Dallas,2023-12-21 10:39:36,3.444,2.91,6.355,0.514,0.486,3,4,7,Vancouver,Dallas,Loss,6.5,Under,Loss
+Ottawa,Colorado,2023-12-21 10:39:36,3.192,3.499,6.692,0.491,0.509,4,6,10,Colorado,Colorado,Win,6.5,Over,Win
+Calgary,Anaheim,2023-12-21 10:39:36,3.189,2.978,6.167,0.506,0.494,3,0,3,Calgary,Calgary,Win,6.0,Over,Loss
+Arizona,San Jose,2023-12-21 10:39:36,3.459,2.449,5.908,0.527,0.473,5,2,7,Arizona,Arizona,Win,6.0,Under,Loss
+Philadelphia,Detroit,2023-12-22 10:38:59,3.059,3.051,6.111,0.499,0.501,6,7,13,Philadelphia,Detroit,Loss,6.0,Over,Win
+Edmonton,NY Rangers,2023-12-22 10:38:59,3.043,3.38,6.423,0.491,0.509,4,3,7,NY Rangers,Edmonton,Loss,6.5,Under,Loss
+Boston,Winnipeg,2023-12-22 10:38:59,2.86,2.934,5.794,0.497,0.503,1,5,6,Winnipeg,Winnipeg,Win,5.5,Over,Win
+Dallas,Nashville,2023-12-23 10:39:14,3.282,3.14,6.422,0.504,0.496,3,2,5,Dallas,Dallas,Win,6.0,Over,Loss
+Las Vegas,Florida,2023-12-23 10:39:14,2.995,2.778,5.773,0.506,0.494,2,4,6,Las Vegas,Florida,Loss,6.5,Under,Win
+Boston,Minnesota,2023-12-23 10:39:14,3.145,2.834,5.978,0.509,0.491,2,3,5,Boston,Minnesota,Loss,6.0,Under,Win
+Toronto,Columbus,2023-12-23 10:39:14,3.595,3.287,6.882,0.509,0.491,4,1,5,Toronto,Toronto,Win,7.0,Under,Win
+Detroit,New Jersey,2023-12-23 10:39:14,3.595,3.375,6.97,0.506,0.494,2,3,5,Detroit,New Jersey,Loss,6.5,Over,Loss
+Pittsburgh,Ottawa,2023-12-23 10:39:14,3.154,3.018,6.171,0.505,0.495,4,5,9,Pittsburgh,Ottawa,Loss,6.5,Under,Loss
+Tampa Bay,Washington,2023-12-23 10:39:14,3.051,2.916,5.967,0.504,0.496,2,1,3,Tampa Bay,Tampa Bay,Win,6.5,Under,Win
+Buffalo,NY Rangers,2023-12-23 10:39:14,2.881,3.365,6.246,0.486,0.514,3,4,7,NY Rangers,NY Rangers,Win,6.5,Under,Loss
+NY Islanders,Carolina,2023-12-23 10:39:14,3.09,3.185,6.275,0.498,0.502,5,4,9,Carolina,NY Islanders,Loss,6.0,Over,Win
+Seattle,Anaheim,2023-12-23 10:39:14,3.01,2.843,5.852,0.505,0.495,3,2,5,Seattle,Seattle,Win,6.0,Under,Win
+Arizona,Colorado,2023-12-23 10:39:14,3.11,3.215,6.325,0.497,0.503,1,4,5,Colorado,Colorado,Win,6.5,Under,Win
+Calgary,LA Kings,2023-12-23 10:39:14,2.65,3.342,5.992,0.48,0.52,3,5,8,LA Kings,LA Kings,Win,6.0,Under,Loss
+San Jose,Vancouver,2023-12-23 10:39:14,2.272,3.849,6.121,0.455,0.545,4,7,11,Vancouver,Vancouver,Win,6.5,Under,Loss
+Columbus,New Jersey,2023-12-26 10:39:26,3.317,3.518,6.835,0.494,0.506,0,0,0,New Jersey,Tie,Loss,7.0,Under,Win
+Florida,Tampa Bay,2023-12-26 10:39:26,3.159,2.953,6.112,0.506,0.494,0,0,0,Florida,Tie,Loss,6.5,Under,Win
+Washington,NY Rangers,2023-12-26 10:39:26,2.564,2.992,5.556,0.489,0.511,0,0,0,NY Rangers,Tie,Loss,6.0,Under,Win
+Ottawa,Toronto,2023-12-26 10:39:26,3.38,3.565,6.945,0.495,0.505,0,0,0,Toronto,Tie,Loss,7.0,Under,Win
+Boston,Buffalo,2023-12-26 10:39:26,3.24,2.839,6.079,0.511,0.489,0,0,0,Boston,Tie,Loss,6.0,Over,Loss
+Pittsburgh,NY Islanders,2023-12-26 10:39:26,3.005,2.945,5.95,0.503,0.497,0,0,0,Pittsburgh,Tie,Loss,6.0,Under,Win
+Carolina,Nashville,2023-12-26 10:39:26,3.149,3.15,6.299,0.5,0.5,0,0,0,Nashville,Tie,Loss,6.0,Over,Loss
+Detroit,Minnesota,2023-12-26 10:39:26,3.34,3.172,6.512,0.504,0.496,0,0,0,Detroit,Tie,Loss,6.5,Over,Loss
+Colorado,Arizona,2023-12-26 10:39:26,3.242,3.045,6.287,0.505,0.495,0,0,0,Colorado,Tie,Loss,6.5,Under,Win
+Winnipeg,Chicago,2023-12-26 10:39:26,3.552,2.474,6.026,0.531,0.469,0,0,0,Winnipeg,Tie,Loss,6.0,Over,Loss
+Seattle,Calgary,2023-12-26 10:39:26,2.961,3.045,6.006,0.498,0.502,0,0,0,Calgary,Tie,Loss,6.0,Over,Loss
+Las Vegas,Anaheim,2023-12-26 10:39:26,3.365,2.644,6.009,0.52,0.48,0,0,0,Las Vegas,Tie,Loss,6.0,Over,Loss
+San Jose,LA Kings,2023-12-26 10:39:26,2.257,3.772,6.029,0.459,0.541,0,0,0,LA Kings,Tie,Loss,6.5,Under,Win
+Columbus,New Jersey,2023-12-27 10:39:09,3.317,3.518,6.835,0.494,0.506,3,4,7,New Jersey,New Jersey,Win,7.0,Under,Tie
+Florida,Tampa Bay,2023-12-27 10:39:09,3.159,2.953,6.112,0.506,0.494,3,2,5,Florida,Florida,Win,6.5,Under,Win
+Washington,NY Rangers,2023-12-27 10:39:09,2.564,2.992,5.556,0.488,0.512,1,5,6,NY Rangers,NY Rangers,Win,6.0,Under,Tie
+Ottawa,Toronto,2023-12-27 10:39:09,3.38,3.565,6.945,0.495,0.505,4,2,6,Toronto,Ottawa,Loss,7.0,Under,Win
+Boston,Buffalo,2023-12-27 10:39:09,3.24,2.839,6.079,0.512,0.488,4,1,5,Boston,Boston,Win,6.0,Over,Loss
+Pittsburgh,NY Islanders,2023-12-27 10:39:09,3.005,2.945,5.95,0.501,0.499,7,0,7,Pittsburgh,Pittsburgh,Win,6.0,Under,Loss
+Carolina,Nashville,2023-12-27 10:39:09,3.149,3.15,6.299,0.5,0.5,5,2,7,Nashville,Carolina,Loss,6.0,Over,Win
+Detroit,Minnesota,2023-12-27 10:39:09,3.34,3.172,6.512,0.505,0.495,3,6,9,Detroit,Minnesota,Loss,6.5,Over,Win
+Colorado,Arizona,2023-12-27 10:39:09,3.242,3.045,6.287,0.506,0.494,4,5,9,Colorado,Arizona,Loss,6.5,Under,Loss
+Winnipeg,Chicago,2023-12-27 10:39:09,3.552,2.474,6.026,0.53,0.47,1,2,3,Winnipeg,Chicago,Loss,6.0,Over,Loss
+Seattle,Calgary,2023-12-27 10:39:09,2.961,3.045,6.006,0.497,0.503,2,1,3,Calgary,Seattle,Loss,6.0,Over,Loss
+Las Vegas,Anaheim,2023-12-27 10:39:09,3.365,2.644,6.009,0.52,0.48,2,5,7,Las Vegas,Anaheim,Loss,6.0,Over,Win
+San Jose,LA Kings,2023-12-27 10:39:09,2.257,3.772,6.029,0.457,0.543,1,5,6,LA Kings,LA Kings,Win,6.5,Under,Win
+LA Kings,Las Vegas,2023-12-28 10:39:09,3.155,2.779,5.934,0.51,0.49,2,3,5,LA Kings,Las Vegas,Loss,6.0,Under,Win
+Philadelphia,Vancouver,2023-12-28 10:39:09,2.73,3.264,5.994,0.486,0.514,4,1,5,Vancouver,Philadelphia,Loss,6.0,Under,Win
+Edmonton,San Jose,2023-12-28 10:39:09,3.743,2.686,6.429,0.53,0.47,5,0,5,Edmonton,Edmonton,Win,7.0,Under,Win
+Toronto,Columbus,2023-12-29 10:39:12,3.585,3.227,6.811,0.51,0.49,5,6,11,Toronto,Columbus,Loss,7.0,Under,Loss
+Nashville,Detroit,2023-12-29 10:39:12,3.241,3.304,6.545,0.498,0.502,4,5,9,Detroit,Detroit,Win,6.5,Over,Win
+NY Rangers,Florida,2023-12-29 10:39:12,2.963,2.803,5.766,0.505,0.495,3,4,7,NY Rangers,Florida,Loss,6.0,Under,Loss
+New Jersey,Ottawa,2023-12-29 10:39:12,3.46,3.489,6.949,0.5,0.5,6,2,8,Ottawa,New Jersey,Loss,7.0,Under,Loss
+Washington,NY Islanders,2023-12-29 10:39:12,2.775,2.887,5.661,0.497,0.503,1,5,6,NY Islanders,NY Islanders,Win,5.5,Over,Win
+Chicago,Dallas,2023-12-29 10:39:12,2.716,3.519,6.234,0.477,0.523,4,5,9,Dallas,Dallas,Win,6.0,Over,Win
+Arizona,Anaheim,2023-12-29 10:39:12,3.218,2.777,5.995,0.511,0.489,2,0,2,Arizona,Arizona,Win,6.5,Under,Win
+Philadelphia,Seattle,2023-12-29 10:39:12,3.015,2.69,5.705,0.508,0.492,1,2,3,Philadelphia,Seattle,Loss,6.0,Under,Win
+Minnesota,Winnipeg,2023-12-30 10:39:04,2.804,3.239,6.043,0.487,0.513,2,4,6,Winnipeg,Winnipeg,Win,6.0,Over,Tie
+Columbus,Buffalo,2023-12-30 10:39:04,3.297,3.306,6.603,0.5,0.5,2,3,5,Buffalo,Buffalo,Win,7.0,Under,Win
+New Jersey,Boston,2023-12-30 10:39:04,3.022,3.289,6.311,0.493,0.507,2,5,7,Boston,Boston,Win,6.0,Over,Win
+Carolina,Toronto,2023-12-30 10:39:04,3.389,3.353,6.742,0.5,0.5,3,2,5,Carolina,Carolina,Win,6.5,Over,Loss
+Nashville,Washington,2023-12-30 10:39:04,2.961,2.7,5.662,0.507,0.493,3,2,5,Nashville,Nashville,Win,6.5,Under,Win
+NY Rangers,Tampa Bay,2023-12-30 10:39:04,3.4,3.012,6.411,0.512,0.488,5,1,6,NY Rangers,NY Rangers,Win,6.0,Over,Tie
+Edmonton,LA Kings,2023-12-30 10:39:04,2.862,3.418,6.28,0.485,0.515,3,2,5,LA Kings,Edmonton,Loss,6.5,Under,Win
+Winnipeg,Minnesota,2023-12-31 10:39:16,3.264,2.779,6.043,0.514,0.486,3,2,5,Winnipeg,Winnipeg,Win,6.0,Over,Loss
+Boston,Detroit,2023-12-31 10:39:16,3.282,3.037,6.319,0.507,0.493,5,3,8,Boston,Boston,Win,6.0,Over,Win
+Buffalo,Ottawa,2023-12-31 10:39:16,3.261,3.4,6.661,0.496,0.504,1,5,6,Ottawa,Ottawa,Win,7.0,Under,Win
+NY Islanders,Pittsburgh,2023-12-31 10:39:16,2.878,3.113,5.991,0.493,0.507,1,3,4,Pittsburgh,Pittsburgh,Win,6.0,Under,Win
+Edmonton,Anaheim,2023-12-31 10:39:16,3.369,2.899,6.268,0.513,0.487,7,2,9,Edmonton,Edmonton,Win,6.5,Under,Loss
+Philadelphia,Calgary,2023-12-31 10:39:16,3.082,2.812,5.894,0.508,0.492,3,4,7,Philadelphia,Calgary,Loss,6.0,Under,Loss
+Chicago,Dallas,2023-12-31 10:39:16,2.757,3.564,6.321,0.477,0.523,1,8,9,Dallas,Dallas,Win,6.5,Under,Loss
+San Jose,Colorado,2023-12-31 10:39:16,2.498,3.838,6.336,0.462,0.538,1,3,4,Colorado,Colorado,Win,6.5,Under,Win
+Las Vegas,Seattle,2024-01-01 10:39:38,3.14,2.704,5.845,0.512,0.488,0,3,3,Las Vegas,Seattle,Loss,6.0,Under,Win
+Boston,Columbus,2024-01-02 10:39:40,3.422,2.853,6.275,0.516,0.484,4,1,5,Boston,Boston,Win,6.5,Under,Win
+Carolina,NY Rangers,2024-01-02 10:39:40,2.988,3.266,6.255,0.493,0.507,6,1,7,NY Rangers,Carolina,Loss,6.0,Over,Win
+Washington,Pittsburgh,2024-01-02 10:39:40,2.454,2.893,5.347,0.488,0.512,4,3,7,Pittsburgh,Washington,Loss,6.0,Under,Loss
+Calgary,Minnesota,2024-01-02 10:39:40,3.068,3.139,6.207,0.498,0.502,3,1,4,Minnesota,Calgary,Loss,6.0,Over,Loss
+Chicago,Nashville,2024-01-02 10:39:40,2.757,3.412,6.169,0.482,0.518,0,3,3,Nashville,Nashville,Win,6.5,Under,Win
+Tampa Bay,Winnipeg,2024-01-02 10:39:40,2.849,3.395,6.244,0.485,0.515,2,4,6,Winnipeg,Winnipeg,Win,6.5,Under,Win
+Florida,Arizona,2024-01-02 10:39:40,2.899,2.813,5.712,0.503,0.497,4,1,5,Florida,Florida,Win,6.5,Under,Win
+NY Islanders,Colorado,2024-01-02 10:39:40,3.0,3.4,6.4,0.488,0.512,4,5,9,Colorado,Colorado,Win,6.0,Over,Win
+Philadelphia,Edmonton,2024-01-02 10:39:40,3.086,3.112,6.198,0.499,0.501,2,5,7,Edmonton,Edmonton,Win,6.5,Under,Loss
+Ottawa,Vancouver,2024-01-02 10:39:40,2.968,3.637,6.605,0.481,0.519,3,6,9,Vancouver,Vancouver,Win,6.5,Over,Win
+Detroit,San Jose,2024-01-02 10:39:40,3.786,2.65,6.437,0.532,0.468,5,3,8,Detroit,Detroit,Win,6.5,Under,Loss
+Toronto,LA Kings,2024-01-02 10:39:40,2.868,3.46,6.328,0.484,0.516,3,0,3,LA Kings,Toronto,Loss,6.5,Under,Win
+New Jersey,Washington,2024-01-03 10:39:22,3.113,2.878,5.991,0.507,0.493,6,3,9,New Jersey,New Jersey,Win,6.5,Under,Loss
+Toronto,Anaheim,2024-01-03 10:39:22,3.449,2.924,6.374,0.515,0.485,2,1,3,Toronto,Toronto,Win,6.5,Under,Win
+Pittsburgh,Boston,2024-01-04 10:40:06,2.771,2.932,5.703,0.496,0.504,6,5,11,Boston,Pittsburgh,Loss,6.0,Under,Loss
+Chicago,NY Rangers,2024-01-04 10:40:06,2.556,3.554,6.11,0.472,0.528,1,4,5,NY Rangers,NY Rangers,Win,6.5,Under,Win
+Columbus,Philadelphia,2024-01-04 10:40:06,2.926,3.274,6.2,0.49,0.51,3,2,5,Philadelphia,Columbus,Loss,6.5,Under,Win
+Calgary,Nashville,2024-01-04 10:40:06,3.01,3.12,6.129,0.496,0.504,6,3,9,Nashville,Calgary,Loss,6.0,Over,Win
+Colorado,Dallas,2024-01-04 10:40:06,3.333,3.277,6.61,0.502,0.498,5,4,9,Colorado,Colorado,Win,6.5,Over,Win
+Tampa Bay,Minnesota,2024-01-04 10:40:06,3.2,3.222,6.422,0.499,0.501,4,1,5,Minnesota,Tampa Bay,Loss,6.0,Over,Loss
+NY Islanders,Arizona,2024-01-04 10:40:06,2.953,3.148,6.101,0.494,0.506,5,1,6,Arizona,NY Islanders,Loss,6.0,Over,Tie
+Florida,Las Vegas,2024-01-04 10:40:06,2.877,2.852,5.729,0.502,0.498,4,1,5,Florida,Florida,Win,6.0,Under,Win
+Ottawa,Seattle,2024-01-04 10:40:06,3.144,3.086,6.23,0.501,0.499,1,4,5,Ottawa,Seattle,Loss,6.5,Under,Win
+Detroit,LA Kings,2024-01-04 10:40:06,2.901,3.415,6.315,0.486,0.514,4,3,7,LA Kings,Detroit,Loss,6.5,Under,Loss
+Winnipeg,San Jose,2024-01-04 10:40:06,3.703,2.25,5.953,0.541,0.459,2,1,3,Winnipeg,Winnipeg,Win,6.0,Under,Win
+Carolina,Washington,2024-01-05 10:39:29,3.13,2.683,5.813,0.513,0.487,6,2,8,Carolina,Carolina,Win,6.0,Under,Loss
+Chicago,New Jersey,2024-01-05 10:39:29,2.862,3.643,6.505,0.479,0.521,2,4,6,New Jersey,New Jersey,Win,6.5,Over,Loss
+Winnipeg,Anaheim,2024-01-05 10:39:29,3.335,2.47,5.805,0.524,0.476,3,1,4,Winnipeg,Winnipeg,Win,6.0,Under,Win
+Calgary,Philadelphia,2024-01-06 10:38:56,2.901,3.022,5.923,0.496,0.504,2,3,5,Philadelphia,Philadelphia,Win,6.0,Under,Win
+Florida,Colorado,2024-01-06 10:38:56,3.03,3.011,6.041,0.501,0.499,8,4,12,Florida,Florida,Win,6.5,Under,Loss
+Tampa Bay,Boston,2024-01-06 10:38:56,2.935,3.334,6.269,0.489,0.511,3,7,10,Boston,Boston,Win,6.0,Over,Win
+Buffalo,Pittsburgh,2024-01-06 10:38:56,2.862,3.227,6.088,0.491,0.509,3,1,4,Pittsburgh,Buffalo,Loss,6.5,Under,Win
+Minnesota,Columbus,2024-01-06 10:38:56,3.272,3.119,6.392,0.503,0.497,4,3,7,Minnesota,Minnesota,Win,6.0,Over,Win
+Vancouver,New Jersey,2024-01-06 10:38:56,3.622,3.004,6.627,0.519,0.481,6,4,10,Vancouver,Vancouver,Win,6.5,Over,Win
+Toronto,San Jose,2024-01-06 10:38:56,3.74,2.58,6.32,0.533,0.467,4,1,5,Toronto,Toronto,Win,6.0,Over,Loss
+Nashville,Dallas,2024-01-06 10:38:56,3.095,3.352,6.447,0.493,0.507,4,3,7,Dallas,Nashville,Loss,6.5,Under,Loss
+Ottawa,Edmonton,2024-01-06 10:38:56,3.274,3.595,6.869,0.491,0.509,1,3,4,Edmonton,Edmonton,Win,7.0,Under,Win
+NY Islanders,Las Vegas,2024-01-06 10:38:56,2.946,3.195,6.141,0.493,0.507,2,5,7,Las Vegas,Las Vegas,Win,6.0,Over,Win
+Calgary,Chicago,2024-01-07 10:39:15,3.38,2.697,6.077,0.519,0.481,3,4,7,Calgary,Chicago,Loss,6.0,Over,Win
+LA Kings,Washington,2024-01-07 10:39:15,3.164,2.36,5.524,0.522,0.478,3,4,7,LA Kings,Washington,Loss,5.5,Over,Win
+Winnipeg,Arizona,2024-01-07 10:39:15,3.114,2.664,5.778,0.512,0.488,6,2,8,Winnipeg,Winnipeg,Win,6.0,Under,Loss
+Detroit,Anaheim,2024-01-07 10:39:15,3.448,2.915,6.363,0.516,0.484,3,2,5,Detroit,Detroit,Win,6.5,Under,Win
+Vancouver,NY Rangers,2024-01-08 10:40:33,3.235,2.954,6.19,0.508,0.492,6,3,9,Vancouver,Vancouver,Win,6.5,Under,Loss
+Pittsburgh,Philadelphia,2024-01-08 10:40:33,2.881,2.819,5.7,0.501,0.499,4,1,5,Pittsburgh,Pittsburgh,Win,6.0,Under,Win
+Dallas,Minnesota,2024-01-08 10:40:33,3.374,3.049,6.423,0.509,0.491,4,0,4,Dallas,Dallas,Win,6.5,Under,Win
+Boston,Colorado,2024-01-08 10:40:33,3.258,3.129,6.387,0.503,0.497,3,4,7,Boston,Colorado,Loss,6.0,Over,Win
+Seattle,Buffalo,2024-01-09 10:40:43,2.993,2.924,5.917,0.502,0.498,5,2,7,Seattle,Seattle,Win,6.0,Under,Loss
+LA Kings,Tampa Bay,2024-01-09 10:40:43,3.424,2.8,6.225,0.518,0.482,2,3,5,LA Kings,Tampa Bay,Loss,6.0,Over,Loss
+San Jose,Toronto,2024-01-09 10:40:43,2.538,3.75,6.288,0.466,0.534,1,7,8,Toronto,Toronto,Win,6.0,Over,Win
+Vancouver,NY Islanders,2024-01-09 10:40:43,3.557,2.83,6.386,0.521,0.479,5,2,7,Vancouver,Vancouver,Win,6.0,Over,Win
+Anaheim,Nashville,2024-01-09 10:40:43,2.775,3.213,5.988,0.487,0.513,5,3,8,Nashville,Anaheim,Loss,6.5,Under,Loss
+Columbus,Winnipeg,2024-01-09 10:40:43,2.694,3.503,6.197,0.477,0.523,0,5,5,Winnipeg,Winnipeg,Win,6.5,Under,Win
+Edmonton,Chicago,2024-01-09 10:40:43,3.664,2.716,6.38,0.527,0.473,2,1,3,Edmonton,Edmonton,Win,6.5,Under,Win
+Boston,Arizona,2024-01-09 10:40:43,3.175,2.807,5.981,0.511,0.489,3,4,7,Boston,Arizona,Loss,6.0,Under,Loss
+Ottawa,Calgary,2024-01-09 10:40:43,3.235,3.289,6.523,0.498,0.502,3,6,9,Calgary,Calgary,Win,6.5,Over,Win
+Minnesota,Dallas,2024-01-10 10:40:25,2.974,3.395,6.369,0.488,0.512,2,7,9,Dallas,Dallas,Win,6.5,Under,Loss
+Las Vegas,Colorado,2024-01-10 10:40:25,3.19,3.19,6.38,0.501,0.499,0,3,3,Tie,Colorado,Loss,6.5,Under,Win
+Anaheim,Carolina,2024-01-11 10:40:42,2.746,3.365,6.111,0.481,0.519,3,6,9,Carolina,Carolina,Win,6.5,Under,Loss
+Ottawa,Buffalo,2024-01-11 10:40:42,3.325,3.294,6.618,0.501,0.499,3,5,8,Ottawa,Buffalo,Loss,7.0,Under,Loss
+Edmonton,Detroit,2024-01-11 10:40:42,3.469,3.307,6.776,0.505,0.495,3,2,5,Edmonton,Edmonton,Win,7.0,Under,Win
+LA Kings,Florida,2024-01-11 10:40:42,2.869,2.789,5.658,0.503,0.497,2,3,5,LA Kings,Florida,Loss,6.0,Under,Win
+New Jersey,Tampa Bay,2024-01-11 10:40:42,3.5,3.391,6.891,0.502,0.498,3,4,7,New Jersey,Tampa Bay,Loss,6.5,Over,Win
+Toronto,NY Islanders,2024-01-11 10:40:42,3.437,3.105,6.542,0.511,0.489,3,4,7,Toronto,NY Islanders,Loss,6.5,Over,Win
+Vancouver,Pittsburgh,2024-01-11 10:40:42,3.239,2.811,6.05,0.512,0.488,4,3,7,Vancouver,Vancouver,Win,6.5,Under,Loss
+Seattle,Washington,2024-01-11 10:40:42,2.858,2.601,5.459,0.508,0.492,4,1,5,Seattle,Seattle,Win,6.0,Under,Win
+Chicago,Winnipeg,2024-01-11 10:40:42,2.325,3.567,5.892,0.464,0.536,1,2,3,Winnipeg,Winnipeg,Win,6.0,Under,Win
+Calgary,Arizona,2024-01-11 10:40:42,3.05,3.068,6.118,0.5,0.5,6,2,8,Arizona,Calgary,Loss,6.0,Over,Win
+Boston,Las Vegas,2024-01-11 10:40:42,3.052,2.916,5.968,0.504,0.496,1,2,3,Boston,Las Vegas,Loss,6.0,Under,Win
+Nashville,Dallas,2024-01-12 10:40:14,3.065,3.415,6.48,0.49,0.51,6,3,9,Dallas,Nashville,Loss,6.5,Under,Loss
+Philadelphia,Minnesota,2024-01-12 10:40:14,3.056,2.819,5.875,0.506,0.494,4,3,7,Philadelphia,Philadelphia,Win,6.0,Under,Loss
+NY Rangers,Washington,2024-01-13 10:38:51,3.161,2.607,5.768,0.515,0.485,2,3,5,NY Rangers,Washington,Loss,6.0,Under,Win
+Vancouver,Buffalo,2024-01-13 10:38:51,3.62,2.802,6.422,0.523,0.477,1,0,1,Vancouver,Vancouver,Win,7.0,Under,Win
+San Jose,Ottawa,2024-01-13 10:38:51,2.713,3.639,6.352,0.475,0.525,4,5,9,Ottawa,Ottawa,Win,7.0,Under,Loss
+New Jersey,Florida,2024-01-13 10:38:51,2.951,3.375,6.326,0.489,0.511,4,1,5,Florida,New Jersey,Loss,6.5,Under,Win
+Anaheim,Tampa Bay,2024-01-13 10:38:51,2.956,3.324,6.28,0.491,0.509,1,5,6,Tampa Bay,Tampa Bay,Win,6.5,Under,Win
+Pittsburgh,Carolina,2024-01-13 10:38:51,3.015,3.073,6.088,0.498,0.502,2,3,5,Carolina,Carolina,Win,6.5,Under,Win
+Colorado,Toronto,2024-01-13 10:38:51,3.402,3.306,6.708,0.502,0.498,5,3,8,Colorado,Colorado,Win,6.5,Over,Win
+Seattle,Columbus,2024-01-13 10:38:51,3.194,2.878,6.072,0.508,0.492,7,4,11,Seattle,Seattle,Win,6.0,Over,Win
+LA Kings,Detroit,2024-01-13 10:38:51,3.34,2.932,6.272,0.511,0.489,3,5,8,LA Kings,Detroit,Loss,6.5,Under,Loss
+Philadelphia,Winnipeg,2024-01-13 10:38:51,2.559,3.059,5.618,0.485,0.515,2,0,2,Winnipeg,Philadelphia,Loss,6.0,Under,Win
+Arizona,Minnesota,2024-01-13 10:38:51,3.13,2.978,6.108,0.505,0.495,6,0,6,Arizona,Arizona,Win,6.5,Under,Win
+Dallas,Chicago,2024-01-13 10:38:51,3.665,2.664,6.329,0.528,0.472,3,1,4,Dallas,Dallas,Win,6.5,Under,Win
+NY Islanders,Nashville,2024-01-13 10:38:51,3.12,3.229,6.349,0.496,0.504,1,3,4,Nashville,Nashville,Win,6.5,Under,Win
+Calgary,Las Vegas,2024-01-13 10:38:51,2.947,3.13,6.077,0.496,0.504,3,1,4,Las Vegas,Calgary,Loss,6.0,Over,Loss
+Washington,NY Rangers,2024-01-14 10:38:53,2.618,3.131,5.749,0.486,0.514,1,2,3,NY Rangers,NY Rangers,Win,6.0,Under,Win
+Detroit,Toronto,2024-01-14 10:38:53,3.386,3.464,6.85,0.498,0.502,4,2,6,Toronto,Detroit,Loss,7.0,Under,Win
+San Jose,Buffalo,2024-01-15 10:41:06,2.601,3.465,6.066,0.475,0.525,0,3,3,Buffalo,Buffalo,Win,6.5,Under,Win
+Anaheim,Florida,2024-01-15 10:41:06,2.5,3.282,5.782,0.477,0.523,5,4,9,Florida,Anaheim,Loss,6.5,Under,Loss
+New Jersey,Boston,2024-01-15 10:41:06,3.09,3.404,6.494,0.491,0.509,0,3,3,Boston,Boston,Win,6.0,Over,Loss
+Vancouver,Columbus,2024-01-15 10:41:06,3.79,2.755,6.545,0.529,0.471,3,4,7,Vancouver,Columbus,Loss,6.5,Over,Win
+Seattle,Pittsburgh,2024-01-15 10:41:06,2.804,2.913,5.717,0.497,0.503,0,3,3,Pittsburgh,Pittsburgh,Win,6.0,Under,Win
+LA Kings,Carolina,2024-01-15 10:41:06,3.111,2.943,6.053,0.505,0.495,5,2,7,LA Kings,LA Kings,Win,6.0,Over,Win
+NY Islanders,Minnesota,2024-01-15 10:41:06,3.195,3.041,6.235,0.503,0.497,0,5,5,NY Islanders,Minnesota,Loss,6.5,Under,Win
+Nashville,Las Vegas,2024-01-15 10:41:06,2.943,3.095,6.037,0.496,0.504,1,4,5,Las Vegas,Las Vegas,Win,6.0,Over,Loss
+Anaheim,Washington,2024-01-16 10:40:34,2.748,2.837,5.585,0.497,0.503,0,2,2,Washington,Washington,Win,6.0,Under,Win
+Colorado,Ottawa,2024-01-16 10:40:34,3.67,3.203,6.873,0.515,0.485,7,4,11,Colorado,Colorado,Win,7.0,Under,Loss
+Seattle,NY Rangers,2024-01-16 10:40:34,2.82,3.027,5.847,0.494,0.506,2,5,7,NY Rangers,NY Rangers,Win,6.0,Under,Loss
+LA Kings,Dallas,2024-01-16 10:40:34,3.187,3.017,6.204,0.505,0.495,1,5,6,LA Kings,Dallas,Loss,6.5,Under,Win
+NY Islanders,Winnipeg,2024-01-16 10:40:34,2.599,3.32,5.919,0.48,0.52,2,4,6,Winnipeg,Winnipeg,Win,6.0,Under,Tie
+San Jose,Chicago,2024-01-16 10:40:34,2.702,3.025,5.727,0.491,0.509,1,2,3,Chicago,Chicago,Win,6.0,Under,Win
+Arizona,Calgary,2024-01-16 10:40:34,3.055,3.079,6.134,0.5,0.5,2,3,5,Calgary,Calgary,Win,6.0,Over,Loss
+Toronto,Edmonton,2024-01-16 10:40:34,3.245,3.363,6.608,0.497,0.503,2,4,6,Edmonton,Edmonton,Win,7.0,Under,Win
+Detroit,Florida,2024-01-17 10:40:38,3.019,3.254,6.272,0.494,0.506,3,2,5,Florida,Detroit,Loss,6.5,Under,Win
+Chicago,Buffalo,2024-01-17 10:40:38,2.684,3.254,5.938,0.484,0.516,0,0,0,Buffalo,Tie,Loss,6.5,Under,Win
+Colorado,Boston,2024-01-18 10:41:11,3.132,3.204,6.336,0.497,0.503,2,5,7,Boston,Boston,Win,6.0,Over,Win
+Dallas,Philadelphia,2024-01-18 10:41:11,3.136,2.929,6.065,0.506,0.494,1,5,6,Dallas,Philadelphia,Loss,6.0,Over,Tie
+Minnesota,Tampa Bay,2024-01-18 10:41:11,3.114,3.3,6.414,0.495,0.505,3,7,10,Tampa Bay,Tampa Bay,Win,6.5,Under,Loss
+Chicago,Buffalo,2024-01-18 10:41:11,2.684,3.254,5.938,0.483,0.517,0,3,3,Buffalo,Buffalo,Win,6.0,Under,Win
+Toronto,Calgary,2024-01-18 10:41:11,3.269,3.21,6.478,0.502,0.498,4,3,7,Toronto,Toronto,Win,6.5,Under,Loss
+Seattle,Edmonton,2024-01-18 10:41:11,2.889,3.164,6.052,0.492,0.508,2,4,6,Edmonton,Edmonton,Win,6.5,Under,Win
+Arizona,Vancouver,2024-01-18 10:41:11,2.766,3.385,6.151,0.482,0.518,1,2,3,Vancouver,Vancouver,Win,6.5,Under,Win
+Nashville,LA Kings,2024-01-18 10:41:11,2.822,3.204,6.026,0.489,0.511,2,1,3,LA Kings,Nashville,Loss,6.0,Over,Loss
+NY Rangers,Las Vegas,2024-01-18 10:41:11,2.985,2.947,5.932,0.501,0.499,1,5,6,NY Rangers,Las Vegas,Loss,6.0,Under,Tie
+Detroit,Carolina,2024-01-19 10:40:21,3.263,3.37,6.633,0.497,0.503,2,4,6,Carolina,Carolina,Win,6.5,Over,Loss
+New Jersey,Columbus,2024-01-19 10:40:21,3.577,3.231,6.808,0.51,0.49,4,1,5,New Jersey,New Jersey,Win,6.5,Over,Loss
+Minnesota,Florida,2024-01-19 10:40:21,2.711,3.263,5.974,0.485,0.515,6,4,10,Florida,Minnesota,Loss,6.0,Under,Loss
+NY Islanders,Chicago,2024-01-19 10:40:21,3.239,2.698,5.937,0.516,0.484,3,4,7,NY Islanders,Chicago,Loss,6.0,Under,Loss
+Tampa Bay,Buffalo,2024-01-20 10:39:10,3.268,3.163,6.431,0.503,0.497,3,1,4,Tampa Bay,Tampa Bay,Win,6.5,Under,Win
+Colorado,Philadelphia,2024-01-20 10:39:10,3.125,3.028,6.153,0.503,0.497,7,4,11,Colorado,Colorado,Win,6.0,Over,Win
+Nashville,Arizona,2024-01-20 10:39:10,3.035,3.019,6.054,0.501,0.499,2,3,5,Nashville,Arizona,Loss,6.0,Over,Loss
+Winnipeg,Ottawa,2024-01-20 10:39:10,3.524,2.784,6.309,0.52,0.48,2,1,3,Winnipeg,Winnipeg,Win,6.5,Under,Win
+Dallas,New Jersey,2024-01-20 10:39:10,3.514,3.239,6.753,0.507,0.493,6,2,8,Dallas,Dallas,Win,6.5,Over,Win
+Toronto,Vancouver,2024-01-20 10:39:10,2.96,3.51,6.47,0.484,0.516,4,6,10,Vancouver,Vancouver,Win,6.5,Under,Loss
+Anaheim,San Jose,2024-01-20 10:39:10,3.154,2.598,5.753,0.516,0.484,3,5,8,Anaheim,San Jose,Loss,6.5,Under,Loss
+Edmonton,Calgary,2024-01-20 10:39:10,3.293,3.053,6.347,0.506,0.494,3,1,4,Edmonton,Edmonton,Win,7.0,Under,Win
+Pittsburgh,Las Vegas,2024-01-20 10:39:10,2.84,2.891,5.73,0.499,0.501,2,3,5,Las Vegas,Las Vegas,Win,6.0,Under,Win
+NY Rangers,LA Kings,2024-01-20 10:39:10,2.879,3.03,5.909,0.496,0.504,1,2,3,LA Kings,LA Kings,Win,6.0,Under,Win
+Ottawa,Philadelphia,2024-01-21 10:39:15,3.025,3.284,6.309,0.494,0.506,5,3,8,Philadelphia,Ottawa,Loss,6.5,Under,Loss
+Minnesota,Carolina,2024-01-21 10:39:15,2.955,3.415,6.37,0.487,0.513,5,2,7,Carolina,Minnesota,Loss,6.5,Under,Loss
+Tampa Bay,Detroit,2024-01-21 10:39:15,3.35,3.419,6.769,0.498,0.502,1,2,3,Detroit,Detroit,Win,6.5,Over,Loss
+Dallas,NY Islanders,2024-01-21 10:39:15,3.512,2.975,6.486,0.515,0.485,2,3,5,Dallas,NY Islanders,Loss,6.0,Over,Loss
+NY Rangers,Anaheim,2024-01-21 10:39:15,3.318,2.67,5.988,0.518,0.482,5,2,7,NY Rangers,NY Rangers,Win,6.0,Under,Loss
+Toronto,Seattle,2024-01-21 10:39:15,3.18,3.038,6.218,0.504,0.496,3,1,4,Toronto,Toronto,Win,6.5,Under,Win
+Winnipeg,Boston,2024-01-22 10:41:26,2.952,2.794,5.746,0.504,0.496,1,4,5,Winnipeg,Boston,Loss,5.5,Over,Loss
+Las Vegas,New Jersey,2024-01-22 10:41:26,3.3,3.006,6.306,0.509,0.491,5,6,11,Las Vegas,New Jersey,Loss,6.0,Over,Win
+Florida,Nashville,2024-01-22 10:41:26,3.125,2.847,5.972,0.508,0.492,4,1,5,Florida,Florida,Win,6.5,Under,Win
+Pittsburgh,Arizona,2024-01-22 10:41:26,2.975,2.807,5.781,0.505,0.495,2,5,7,Pittsburgh,Arizona,Loss,6.0,Under,Loss
+Chicago,Vancouver,2024-01-22 10:41:26,2.375,3.698,6.072,0.462,0.538,0,2,2,Vancouver,Vancouver,Win,6.0,Over,Loss
+San Jose,LA Kings,2024-01-22 10:41:26,2.263,3.554,5.817,0.464,0.536,4,3,7,LA Kings,San Jose,Loss,6.0,Under,Loss
+Dallas,Detroit,2024-01-23 09:24:33,3.451,3.242,6.692,0.506,0.494,5,4,9,Dallas,Dallas,Win,6.5,Over,Win
+Tampa Bay,Philadelphia,2024-01-23 09:24:33,3.043,3.115,6.158,0.498,0.502,6,3,9,Philadelphia,Tampa Bay,Loss,6.5,Under,Loss
+Las Vegas,NY Islanders,2024-01-23 09:24:33,3.249,2.823,6.072,0.512,0.488,3,2,5,Las Vegas,Las Vegas,Win,6.0,Over,Loss
+Washington,Minnesota,2024-01-23 09:24:33,2.808,2.919,5.728,0.497,0.503,3,5,8,Minnesota,Minnesota,Win,6.0,Under,Loss
+Columbus,Edmonton,2024-01-23 09:24:33,2.93,3.613,6.543,0.48,0.52,1,4,5,Edmonton,Edmonton,Win,7.0,Under,Win
+Buffalo,Anaheim,2024-01-23 09:24:33,3.182,2.806,5.989,0.512,0.488,2,4,6,Buffalo,Anaheim,Loss,6.5,Under,Win
+NY Rangers,San Jose,2024-01-23 09:24:33,3.573,2.414,5.987,0.533,0.467,2,3,5,NY Rangers,San Jose,Loss,6.0,Under,Win
+Arizona,Florida,2024-01-24 10:40:13,2.798,3.048,5.846,0.493,0.507,2,6,8,Florida,Florida,Win,6.0,Under,Loss
+Winnipeg,Toronto,2024-01-24 10:40:13,3.255,2.827,6.082,0.512,0.488,0,1,1,Winnipeg,Toronto,Loss,6.0,Over,Loss
+Carolina,Boston,2024-01-24 10:40:13,2.979,3.242,6.221,0.493,0.507,3,2,5,Boston,Carolina,Loss,6.0,Over,Loss
+Washington,Colorado,2024-01-24 10:40:13,2.735,3.312,6.047,0.484,0.516,2,6,8,Colorado,Colorado,Win,6.0,Over,Win
+Chicago,Seattle,2024-01-24 10:40:13,2.504,3.11,5.614,0.483,0.517,2,6,8,Seattle,Seattle,Win,5.5,Over,Win
+Buffalo,LA Kings,2024-01-24 10:40:13,2.699,3.175,5.874,0.488,0.512,5,3,8,LA Kings,Buffalo,Loss,6.5,Under,Loss
+Arizona,Tampa Bay,2024-01-25 10:41:50,3.131,3.184,6.316,0.498,0.502,3,6,9,Tampa Bay,Tampa Bay,Win,6.0,Over,Win
+Boston,Ottawa,2024-01-25 10:41:50,3.524,2.985,6.509,0.515,0.485,3,2,5,Boston,Boston,Win,6.5,Over,Loss
+Philadelphia,Detroit,2024-01-25 10:41:50,3.124,3.154,6.278,0.499,0.501,0,3,3,Detroit,Detroit,Win,6.5,Under,Win
+New Jersey,Carolina,2024-01-25 10:41:50,3.226,3.449,6.676,0.494,0.506,2,3,5,Carolina,Carolina,Win,6.5,Over,Loss
+Anaheim,Dallas,2024-01-25 10:41:50,2.773,3.553,6.327,0.478,0.522,3,4,7,Dallas,Dallas,Win,6.5,Under,Loss
+Nashville,Minnesota,2024-01-25 10:41:50,3.185,3.065,6.25,0.504,0.496,3,2,5,Nashville,Nashville,Win,6.0,Over,Loss
+Columbus,Calgary,2024-01-25 10:41:50,3.008,3.41,6.419,0.488,0.512,5,2,7,Calgary,Columbus,Loss,6.5,Under,Loss
+Chicago,Edmonton,2024-01-25 10:41:50,2.491,3.545,6.036,0.471,0.529,0,3,3,Edmonton,Edmonton,Win,6.5,Under,Win
+Boston,Philadelphia,2024-01-27 10:39:02,3.137,2.736,5.873,0.512,0.488,6,2,8,Boston,Boston,Win,6.0,Under,Loss
+Washington,Dallas,2024-01-27 10:39:02,2.673,3.307,5.98,0.482,0.518,4,5,9,Dallas,Dallas,Win,6.0,Under,Loss
+Buffalo,San Jose,2024-01-27 10:39:02,3.386,2.568,5.954,0.523,0.477,5,2,7,Buffalo,Buffalo,Win,6.0,Under,Loss
+Nashville,Edmonton,2024-01-27 10:39:02,2.908,3.283,6.191,0.489,0.511,1,4,5,Edmonton,Edmonton,Win,6.5,Under,Win
+Arizona,Carolina,2024-01-27 10:39:02,2.98,3.216,6.196,0.493,0.507,1,3,4,Carolina,Carolina,Win,6.0,Over,Loss
+New Jersey,Tampa Bay,2024-01-27 10:39:02,3.359,3.465,6.824,0.497,0.503,3,6,9,Tampa Bay,Tampa Bay,Win,6.5,Over,Win
+NY Rangers,Ottawa,2024-01-27 10:39:02,3.384,3.111,6.495,0.507,0.493,7,2,9,NY Rangers,NY Rangers,Win,6.5,Under,Loss
+Toronto,Winnipeg,2024-01-27 10:39:02,2.784,3.185,5.969,0.488,0.512,4,2,6,Winnipeg,Toronto,Loss,6.0,Under,Tie
+Florida,NY Islanders,2024-01-27 10:39:02,3.269,2.745,6.014,0.515,0.485,3,2,5,Florida,Florida,Win,6.0,Over,Loss
+Las Vegas,Detroit,2024-01-27 10:39:02,3.225,3.06,6.285,0.505,0.495,2,5,7,Las Vegas,Detroit,Loss,6.0,Over,Win
+Anaheim,Minnesota,2024-01-27 10:39:02,2.917,3.222,6.139,0.491,0.509,3,2,5,Minnesota,Anaheim,Loss,6.0,Over,Loss
+Chicago,Calgary,2024-01-27 10:39:02,2.584,3.316,5.9,0.48,0.52,0,1,1,Calgary,Calgary,Win,6.0,Under,Win
+Columbus,Vancouver,2024-01-27 10:39:02,2.731,3.735,6.466,0.472,0.528,4,5,9,Vancouver,Vancouver,Win,6.5,Under,Loss
+Columbus,Seattle,2024-01-28 10:38:53,2.94,3.237,6.177,0.492,0.508,2,4,6,Seattle,Seattle,Win,6.5,Under,Win
+Nashville,Ottawa,2024-01-29 10:38:57,3.307,3.213,6.52,0.503,0.497,3,4,7,Nashville,Ottawa,Loss,6.5,Over,Win
+Seattle,San Jose,2024-01-30 10:38:44,3.337,2.448,5.784,0.525,0.475,0,2,2,Seattle,San Jose,Loss,6.0,Under,Win
+Ottawa,Detroit,2024-01-31 10:39:05,3.284,3.579,6.864,0.492,0.508,3,2,5,Detroit,Ottawa,Loss,7.0,Under,Win
+LA Kings,Nashville,2024-01-31 10:39:05,3.125,2.815,5.94,0.509,0.491,4,2,6,LA Kings,LA Kings,Win,6.0,Under,Tie
+San Jose,Anaheim,2024-01-31 10:39:05,2.671,3.129,5.8,0.486,0.514,2,3,5,Anaheim,Anaheim,Win,6.0,Under,Win
+Colorado,NY Rangers,2024-02-04 10:39:06,3.314,3.184,6.498,0.504,0.496,0,0,0,Colorado,Tie,Loss,6.5,Under,Win
+NY Islanders,Toronto,2024-02-04 10:39:06,3.032,3.389,6.421,0.49,0.51,0,0,0,Toronto,Tie,Loss,6.5,Under,Win
+Colorado,NY Rangers,2024-02-05 10:38:34,3.314,3.184,6.498,0.504,0.496,1,2,3,Colorado,NY Rangers,Loss,6.5,Under,Win
+NY Islanders,Toronto,2024-02-05 10:38:34,3.032,3.389,6.421,0.49,0.51,3,2,5,Toronto,NY Islanders,Loss,6.5,Under,Win
+Calgary,Boston,2024-02-06 10:39:10,2.806,3.279,6.085,0.486,0.514,4,1,5,Boston,Calgary,Loss,6.0,Over,Loss
+Dallas,Buffalo,2024-02-06 10:39:10,3.404,3.02,6.424,0.511,0.489,2,1,3,Dallas,Dallas,Win,6.5,Under,Win
+Vancouver,Carolina,2024-02-06 10:39:10,3.342,2.936,6.278,0.511,0.489,3,2,5,Vancouver,Vancouver,Win,6.5,Under,Win
+Philadelphia,Florida,2024-02-06 10:39:10,2.711,3.057,5.768,0.49,0.51,2,1,3,Florida,Philadelphia,Loss,6.0,Under,Win
+Winnipeg,Pittsburgh,2024-02-06 10:39:10,2.916,2.609,5.526,0.509,0.491,0,3,3,Winnipeg,Pittsburgh,Loss,5.5,Over,Loss
+Colorado,New Jersey,2024-02-06 10:39:10,3.663,3.25,6.913,0.511,0.489,3,5,8,Colorado,New Jersey,Loss,6.5,Over,Win
+Edmonton,Las Vegas,2024-02-06 10:39:10,3.101,2.963,6.064,0.504,0.496,1,3,4,Edmonton,Las Vegas,Loss,6.0,Over,Loss
+Dallas,Toronto,2024-02-07 10:38:56,3.406,3.214,6.62,0.505,0.495,4,5,9,Dallas,Toronto,Loss,6.5,Over,Win
+Tampa Bay,NY Rangers,2024-02-07 10:38:56,3.133,3.26,6.393,0.496,0.504,1,3,4,NY Rangers,NY Rangers,Win,6.5,Under,Win
+Minnesota,Chicago,2024-02-07 10:38:56,3.239,2.64,5.878,0.517,0.483,2,1,3,Minnesota,Minnesota,Win,5.5,Over,Loss
+Vancouver,Boston,2024-02-08 10:38:57,3.147,2.956,6.103,0.505,0.495,0,4,4,Vancouver,Boston,Loss,6.0,Over,Loss
+Calgary,New Jersey,2024-02-08 10:38:57,3.291,3.243,6.534,0.502,0.498,5,3,8,Calgary,Calgary,Win,6.5,Over,Win
+Colorado,Carolina,2024-02-08 10:38:57,3.325,3.233,6.558,0.503,0.497,2,5,7,Colorado,Carolina,Loss,6.5,Over,Win
+Washington,Florida,2024-02-08 10:38:57,2.468,3.11,5.578,0.482,0.518,2,4,6,Florida,Florida,Win,5.5,Over,Win
+Winnipeg,Philadelphia,2024-02-08 10:38:57,2.978,2.561,5.54,0.511,0.489,1,4,5,Winnipeg,Philadelphia,Loss,5.5,Over,Loss
+Tampa Bay,NY Islanders,2024-02-08 10:38:57,3.364,3.079,6.444,0.507,0.493,2,6,8,Tampa Bay,NY Islanders,Loss,6.5,Under,Loss
+Las Vegas,Arizona,2024-02-08 10:38:57,3.119,2.823,5.942,0.508,0.492,3,2,5,Las Vegas,Las Vegas,Win,5.5,Over,Loss
+Pittsburgh,Minnesota,2024-02-09 10:38:52,3.125,2.795,5.921,0.51,0.49,2,3,5,Pittsburgh,Minnesota,Loss,6.0,Under,Win
+NY Rangers,Chicago,2024-02-09 10:38:52,3.363,2.393,5.756,0.527,0.473,4,3,7,NY Rangers,NY Rangers,Win,5.5,Over,Win
+Edmonton,Anaheim,2024-02-09 10:38:52,3.43,2.658,6.088,0.521,0.479,5,3,8,Edmonton,Edmonton,Win,6.5,Under,Loss
+Calgary,NY Islanders,2024-02-10 10:38:49,3.184,3.0,6.184,0.506,0.494,5,2,7,Calgary,Calgary,Win,6.5,Under,Loss
+Vancouver,Detroit,2024-02-10 10:38:49,3.456,2.991,6.447,0.513,0.487,3,4,7,Vancouver,Detroit,Loss,6.5,Under,Loss
+Washington,Boston,2024-02-10 10:38:49,2.468,3.26,5.728,0.477,0.523,3,0,3,Boston,Washington,Loss,5.5,Over,Loss
+Colorado,Florida,2024-02-10 10:38:49,3.084,3.165,6.249,0.497,0.503,0,4,4,Florida,Florida,Win,6.5,Under,Win
+New Jersey,Carolina,2024-02-10 10:38:49,3.174,3.474,6.648,0.491,0.509,0,1,1,Carolina,Carolina,Win,6.5,Over,Loss
+Tampa Bay,Columbus,2024-02-10 10:38:49,3.528,3.118,6.646,0.511,0.489,4,2,6,Tampa Bay,Tampa Bay,Win,6.5,Over,Loss
+Toronto,Ottawa,2024-02-10 10:38:49,3.534,3.259,6.793,0.507,0.493,3,5,8,Toronto,Ottawa,Loss,6.5,Over,Win
+Seattle,Philadelphia,2024-02-10 10:38:49,2.815,2.865,5.68,0.5,0.5,2,3,5,Philadelphia,Philadelphia,Win,5.5,Over,Loss
+Pittsburgh,Winnipeg,2024-02-10 10:38:49,2.628,2.838,5.467,0.494,0.506,1,2,3,Winnipeg,Winnipeg,Win,5.5,Under,Win
+Arizona,Nashville,2024-02-10 10:38:49,3.028,3.01,6.038,0.501,0.499,4,5,9,Arizona,Nashville,Loss,6.0,Over,Win
+Edmonton,LA Kings,2024-02-10 10:38:49,3.041,2.954,5.995,0.503,0.497,0,4,4,Edmonton,LA Kings,Loss,6.5,Under,Win
+Vancouver,Washington,2024-02-10 10:38:49,3.38,2.468,5.848,0.525,0.475,3,2,5,Vancouver,Vancouver,Win,6.0,Under,Win
+Arizona,Philadelphia,2024-02-12 10:39:00,2.884,2.983,5.867,0.497,0.503,3,5,8,Philadelphia,Philadelphia,Win,5.5,Over,Win
+Calgary,NY Rangers,2024-02-12 10:39:00,2.955,3.133,6.088,0.495,0.505,0,2,2,NY Rangers,NY Rangers,Win,6.0,Over,Loss
+Seattle,New Jersey,2024-02-12 10:39:00,3.117,3.109,6.226,0.5,0.5,1,3,4,Seattle,New Jersey,Loss,6.5,Under,Win
+Minnesota,Las Vegas,2024-02-12 10:39:00,2.822,3.22,6.041,0.488,0.512,5,3,8,Las Vegas,Minnesota,Loss,6.0,Over,Win
+Tampa Bay,Boston,2024-02-13 10:38:42,2.97,3.34,6.31,0.489,0.511,3,2,5,Boston,Tampa Bay,Loss,6.5,Under,Win
+LA Kings,Buffalo,2024-02-13 10:38:42,3.14,2.741,5.881,0.511,0.489,0,7,7,LA Kings,Buffalo,Loss,6.0,Under,Loss
+Colorado,Washington,2024-02-13 10:38:42,3.325,2.741,6.066,0.517,0.483,6,3,9,Colorado,Colorado,Win,6.5,Under,Loss
+Columbus,Ottawa,2024-02-13 10:38:42,3.231,3.522,6.753,0.492,0.508,3,6,9,Ottawa,Ottawa,Win,6.5,Over,Win
+Seattle,NY Islanders,2024-02-13 10:38:42,3.006,2.905,5.911,0.503,0.497,2,1,3,Seattle,Seattle,Win,6.0,Under,Win
+Carolina,Dallas,2024-02-13 10:38:42,3.182,3.231,6.413,0.498,0.502,2,4,6,Dallas,Dallas,Win,6.5,Under,Win
+New Jersey,Nashville,2024-02-13 10:38:42,3.258,3.226,6.485,0.501,0.499,4,2,6,New Jersey,New Jersey,Win,6.5,Under,Win
+Vancouver,Chicago,2024-02-13 10:38:42,3.589,2.317,5.905,0.535,0.465,4,2,6,Vancouver,Vancouver,Win,6.0,Under,Tie
+Detroit,Edmonton,2024-02-13 10:38:42,3.12,3.318,6.439,0.495,0.505,4,8,12,Edmonton,Edmonton,Win,6.5,Under,Loss
+Florida,Pittsburgh,2024-02-14 10:39:00,2.896,2.693,5.589,0.506,0.494,5,2,7,Florida,Florida,Win,6.0,Under,Loss
+San Jose,Winnipeg,2024-02-14 10:39:00,2.197,3.397,5.593,0.466,0.534,0,1,1,Winnipeg,Winnipeg,Win,5.5,Over,Loss
+Minnesota,Arizona,2024-02-14 10:39:00,3.069,3.101,6.17,0.498,0.502,3,1,4,Arizona,Minnesota,Loss,6.0,Over,Loss
+Anaheim,Ottawa,2024-02-15 10:39:00,3.008,3.445,6.453,0.488,0.512,5,1,6,Ottawa,Anaheim,Loss,6.5,Under,Win
+Seattle,Boston,2024-02-15 10:39:00,2.634,3.084,5.718,0.487,0.513,4,1,5,Boston,Seattle,Loss,5.5,Over,Loss
+Florida,Buffalo,2024-02-15 10:39:00,3.144,2.724,5.868,0.512,0.488,4,0,4,Florida,Florida,Win,6.5,Under,Win
+Colorado,Tampa Bay,2024-02-15 10:39:00,3.484,3.278,6.762,0.506,0.494,3,6,9,Colorado,Tampa Bay,Loss,6.5,Over,Win
+LA Kings,New Jersey,2024-02-15 10:39:00,3.266,3.01,6.275,0.507,0.493,2,1,3,LA Kings,LA Kings,Win,6.5,Under,Win
+Philadelphia,Toronto,2024-02-15 10:39:00,3.042,3.125,6.167,0.497,0.503,3,4,7,Toronto,Toronto,Win,6.0,Over,Win
+Dallas,Nashville,2024-02-15 10:39:00,3.406,3.0,6.406,0.512,0.488,9,2,11,Dallas,Dallas,Win,6.5,Under,Loss
+Pittsburgh,Chicago,2024-02-15 10:39:00,3.179,2.361,5.54,0.524,0.476,4,1,5,Pittsburgh,Pittsburgh,Win,5.5,Over,Loss
+San Jose,Calgary,2024-02-15 10:39:00,2.474,3.408,5.881,0.474,0.526,6,3,9,Calgary,San Jose,Loss,6.0,Under,Loss
+Detroit,Vancouver,2024-02-15 10:39:00,2.999,3.495,6.494,0.485,0.515,1,4,5,Vancouver,Vancouver,Win,6.5,Under,Win
+Carolina,Arizona,2024-02-16 10:38:55,3.219,2.89,6.109,0.509,0.491,5,1,6,Carolina,Carolina,Win,6.0,Over,Tie
+LA Kings,Boston,2024-02-17 10:38:35,2.824,2.962,5.786,0.496,0.504,5,4,9,Boston,LA Kings,Loss,5.5,Over,Win
+Ottawa,Chicago,2024-02-17 10:38:35,3.449,2.731,6.18,0.52,0.48,2,3,5,Ottawa,Chicago,Loss,6.5,Under,Win
+Edmonton,Dallas,2024-02-17 10:38:35,3.24,3.291,6.531,0.498,0.502,4,3,7,Dallas,Edmonton,Loss,6.5,Over,Win
+Detroit,Calgary,2024-02-17 10:38:35,3.249,3.193,6.442,0.502,0.498,5,0,5,Detroit,Detroit,Win,6.5,Under,Win
+Buffalo,Minnesota,2024-02-17 10:38:35,3.071,3.04,6.111,0.501,0.499,3,2,5,Buffalo,Buffalo,Win,6.0,Over,Loss
+Florida,Tampa Bay,2024-02-17 10:38:35,3.255,2.897,6.152,0.51,0.49,9,2,11,Florida,Florida,Win,6.5,Under,Loss
+Anaheim,Toronto,2024-02-17 10:38:35,2.854,3.44,6.294,0.484,0.516,2,9,11,Toronto,Toronto,Win,6.5,Under,Loss
+Philadelphia,New Jersey,2024-02-17 10:38:35,3.155,3.085,6.24,0.502,0.498,3,6,9,Philadelphia,New Jersey,Loss,6.0,Over,Win
+Winnipeg,Vancouver,2024-02-17 10:38:35,2.757,2.894,5.651,0.496,0.504,4,2,6,Vancouver,Winnipeg,Loss,6.0,Under,Tie
+Carolina,Las Vegas,2024-02-17 10:38:35,3.025,3.006,6.031,0.5,0.5,3,1,4,Carolina,Carolina,Win,6.0,Over,Loss
+Columbus,San Jose,2024-02-17 10:38:35,3.298,2.798,6.096,0.514,0.486,4,3,7,Columbus,Columbus,Win,6.5,Under,Loss
+NY Rangers,NY Islanders,2024-02-18 10:38:55,3.28,2.834,6.114,0.513,0.487,6,5,11,NY Rangers,NY Rangers,Win,5.5,Over,Win
+Arizona,Colorado,2024-02-18 10:38:55,3.04,3.42,6.46,0.489,0.511,3,4,7,Colorado,Colorado,Win,6.5,Under,Loss
+LA Kings,Pittsburgh,2024-02-18 10:38:55,2.875,2.783,5.658,0.503,0.497,2,1,3,LA Kings,LA Kings,Win,6.0,Under,Win
+Anaheim,Buffalo,2024-02-19 10:38:55,2.799,3.211,6.01,0.489,0.511,4,3,7,Buffalo,Anaheim,Loss,6.5,Under,Loss
+Dallas,Boston,2024-02-19 10:38:55,3.146,3.171,6.318,0.5,0.5,3,4,7,Boston,Boston,Win,6.0,Over,Win
+Vancouver,Minnesota,2024-02-19 10:38:55,3.433,2.767,6.2,0.518,0.482,7,10,17,Vancouver,Minnesota,Loss,6.5,Under,Loss
+Detroit,Seattle,2024-02-19 10:38:55,3.122,2.978,6.099,0.504,0.496,4,3,7,Detroit,Detroit,Win,6.0,Over,Win
+Edmonton,Arizona,2024-02-19 10:38:55,3.346,2.875,6.221,0.513,0.487,6,3,9,Edmonton,Edmonton,Win,6.5,Under,Loss
+Winnipeg,Calgary,2024-02-19 10:38:55,3.045,2.618,5.663,0.512,0.488,3,6,9,Winnipeg,Calgary,Loss,6.0,Under,Loss
+Las Vegas,San Jose,2024-02-19 10:38:55,3.431,2.416,5.846,0.529,0.471,4,0,4,Las Vegas,Las Vegas,Win,6.0,Under,Win
+Chicago,Carolina,2024-02-19 10:38:55,2.412,3.409,5.821,0.473,0.527,3,6,9,Carolina,Carolina,Win,5.5,Over,Win
+Ottawa,Tampa Bay,2024-02-19 10:38:55,3.365,3.509,6.874,0.497,0.503,4,2,6,Tampa Bay,Ottawa,Loss,7.0,Under,Win
+Dallas,NY Rangers,2024-02-20 10:39:01,3.232,3.181,6.412,0.501,0.499,1,3,4,Dallas,NY Rangers,Loss,6.5,Under,Win
+Ottawa,Florida,2024-02-20 10:39:01,2.868,3.463,6.331,0.484,0.516,2,3,5,Florida,Florida,Win,6.5,Under,Win
+New Jersey,Washington,2024-02-20 10:39:01,3.231,2.873,6.104,0.509,0.491,2,6,8,New Jersey,Washington,Loss,6.5,Under,Loss
+NY Islanders,Pittsburgh,2024-02-20 10:39:01,2.781,3.082,5.863,0.491,0.509,5,4,9,Pittsburgh,NY Islanders,Loss,5.5,Over,Win
+Minnesota,Winnipeg,2024-02-20 10:39:01,2.698,3.142,5.839,0.489,0.511,3,6,9,Winnipeg,Winnipeg,Win,6.0,Under,Loss
+Vancouver,Colorado,2024-02-20 10:39:01,3.456,3.161,6.616,0.509,0.491,1,3,4,Vancouver,Colorado,Loss,6.5,Over,Loss
+Nashville,Las Vegas,2024-02-20 10:39:01,2.841,3.2,6.04,0.491,0.509,5,3,8,Las Vegas,Nashville,Loss,6.0,Over,Win
+Columbus,LA Kings,2024-02-20 10:39:01,2.776,3.381,6.158,0.483,0.517,1,5,6,LA Kings,LA Kings,Win,6.5,Under,Win
+Philadelphia,Chicago,2024-02-21 10:39:12,3.21,2.466,5.676,0.522,0.478,3,1,4,Philadelphia,Philadelphia,Win,5.5,Over,Loss
+Columbus,Anaheim,2024-02-21 10:39:12,3.185,3.098,6.283,0.503,0.497,7,4,11,Columbus,Columbus,Win,6.5,Under,Loss
+Toronto,Arizona,2024-02-21 10:39:12,3.401,2.997,6.398,0.511,0.489,6,3,9,Toronto,Toronto,Win,6.5,Under,Loss
+Boston,Edmonton,2024-02-21 10:39:12,3.092,3.066,6.158,0.5,0.5,6,5,11,Boston,Boston,Win,6.5,Under,Loss
+Florida,Carolina,2024-02-22 10:39:05,3.069,2.866,5.935,0.506,0.494,0,1,1,Florida,Carolina,Loss,6.0,Under,Win
+Colorado,Detroit,2024-02-22 10:39:05,3.458,3.331,6.79,0.503,0.497,1,2,3,Colorado,Detroit,Loss,6.5,Over,Loss
+Dallas,Ottawa,2024-02-22 10:39:05,3.625,3.176,6.801,0.513,0.487,1,4,5,Dallas,Ottawa,Loss,6.5,Over,Loss
+NY Rangers,New Jersey,2024-02-22 10:39:05,3.395,3.051,6.445,0.51,0.49,5,1,6,NY Rangers,NY Rangers,Win,6.5,Under,Win
+Washington,Tampa Bay,2024-02-22 10:39:05,2.9,3.221,6.12,0.491,0.509,5,3,8,Tampa Bay,Washington,Loss,6.5,Under,Loss
+Boston,Calgary,2024-02-22 10:39:05,3.227,2.868,6.095,0.51,0.49,2,3,5,Boston,Calgary,Loss,5.5,Over,Loss
+Vancouver,Seattle,2024-02-22 10:39:05,3.217,2.72,5.937,0.514,0.486,2,5,7,Vancouver,Seattle,Loss,6.0,Under,Loss
+Toronto,Las Vegas,2024-02-22 10:39:05,3.144,3.135,6.279,0.5,0.5,7,3,10,Toronto,Toronto,Win,6.0,Over,Win
+Nashville,LA Kings,2024-02-22 10:39:05,2.817,3.189,6.006,0.49,0.51,4,1,5,LA Kings,Nashville,Loss,6.0,Over,Loss
+Buffalo,Columbus,2024-02-23 10:38:57,3.306,3.005,6.311,0.51,0.49,2,1,3,Buffalo,Buffalo,Win,6.5,Under,Win
+Winnipeg,Chicago,2024-02-23 10:38:57,3.287,2.206,5.492,0.531,0.469,3,2,5,Winnipeg,Winnipeg,Win,5.5,Under,Win
+Minnesota,Edmonton,2024-02-23 10:38:57,3.024,3.458,6.482,0.487,0.513,4,2,6,Edmonton,Minnesota,Loss,6.5,Under,Win
+Tampa Bay,NY Islanders,2024-02-24 10:39:04,3.36,3.161,6.521,0.506,0.494,4,2,6,Tampa Bay,Tampa Bay,Win,6.5,Over,Loss
+NY Rangers,Philadelphia,2024-02-24 10:39:04,3.115,2.824,5.939,0.508,0.492,2,1,3,NY Rangers,NY Rangers,Win,6.0,Under,Win
+Washington,Florida,2024-02-24 10:39:04,2.464,3.163,5.627,0.48,0.52,2,3,5,Florida,Florida,Win,6.5,Under,Win
+Boston,Vancouver,2024-02-24 10:39:04,3.031,3.129,6.16,0.497,0.503,2,3,5,Vancouver,Vancouver,Win,6.0,Over,Loss
+Toronto,Colorado,2024-02-24 10:39:04,3.41,3.375,6.785,0.501,0.499,4,3,7,Toronto,Toronto,Win,6.5,Over,Win
+Las Vegas,Ottawa,2024-02-24 10:39:04,3.325,3.068,6.393,0.507,0.493,3,4,7,Las Vegas,Ottawa,Loss,6.5,Under,Loss
+Dallas,Carolina,2024-02-24 10:39:04,3.175,3.181,6.357,0.499,0.501,2,1,3,Carolina,Dallas,Loss,6.0,Over,Loss
+Calgary,Edmonton,2024-02-24 10:39:04,3.014,3.306,6.32,0.492,0.508,6,3,9,Edmonton,Calgary,Loss,6.5,Under,Loss
+Minnesota,Seattle,2024-02-24 10:39:04,2.956,3.033,5.988,0.498,0.502,5,2,7,Seattle,Minnesota,Loss,6.0,Under,Loss
+Nashville,San Jose,2024-02-24 10:39:04,3.386,2.59,5.977,0.523,0.477,4,2,6,Nashville,Nashville,Win,6.0,Under,Tie
+Anaheim,LA Kings,2024-02-24 10:39:04,2.625,3.321,5.946,0.48,0.52,2,3,5,LA Kings,LA Kings,Win,6.0,Under,Win
+Tampa Bay,New Jersey,2024-02-25 10:38:54,3.43,3.36,6.79,0.503,0.497,4,1,5,Tampa Bay,Tampa Bay,Win,6.5,Over,Loss
+Philadelphia,Pittsburgh,2024-02-25 10:38:54,2.763,2.885,5.647,0.497,0.503,6,7,13,Pittsburgh,Pittsburgh,Win,6.0,Under,Loss
+Arizona,Winnipeg,2024-02-25 10:38:54,2.602,3.168,5.769,0.484,0.516,3,4,7,Winnipeg,Winnipeg,Win,5.5,Over,Win
+Carolina,Buffalo,2024-02-25 10:38:54,3.157,2.829,5.986,0.509,0.491,2,3,5,Carolina,Buffalo,Loss,6.0,Under,Win
+Detroit,Chicago,2024-02-25 10:38:54,3.515,2.566,6.081,0.527,0.473,3,2,5,Detroit,Detroit,Win,6.0,Over,Loss
+NY Rangers,Columbus,2024-02-25 10:38:54,3.515,2.818,6.333,0.521,0.479,2,4,6,NY Rangers,Columbus,Loss,6.5,Under,Win
+Nashville,Anaheim,2024-02-25 10:38:54,3.297,2.88,6.177,0.512,0.488,4,2,6,Nashville,Nashville,Win,6.0,Over,Tie
+Ottawa,Washington,2024-02-26 10:39:03,3.196,2.974,6.171,0.506,0.494,3,6,9,Ottawa,Washington,Loss,6.5,Under,Loss
+NY Islanders,Dallas,2024-02-26 10:39:03,2.955,3.478,6.432,0.485,0.515,3,2,5,Dallas,NY Islanders,Loss,6.0,Over,Loss
+LA Kings,Edmonton,2024-02-26 10:39:03,3.045,3.056,6.1,0.501,0.499,2,4,6,Edmonton,Edmonton,Win,6.5,Under,Win
+Boston,Seattle,2024-02-26 10:39:03,3.071,2.72,5.79,0.51,0.49,3,4,7,Boston,Seattle,Loss,5.5,Over,Win
+Buffalo,Florida,2024-02-27 10:38:56,2.638,3.137,5.775,0.487,0.513,2,3,5,Florida,Florida,Win,6.5,Under,Win
+Washington,Detroit,2024-02-27 10:38:56,2.855,3.267,6.123,0.488,0.512,3,8,11,Detroit,Detroit,Win,6.5,Under,Loss
+Tampa Bay,Philadelphia,2024-02-27 10:38:56,3.156,3.133,6.289,0.501,0.499,2,6,8,Tampa Bay,Philadelphia,Loss,6.5,Under,Loss
+Las Vegas,Toronto,2024-02-27 10:38:56,3.13,3.216,6.346,0.497,0.503,6,2,8,Toronto,Las Vegas,Loss,6.5,Under,Loss
+Carolina,Minnesota,2024-02-27 10:38:56,3.285,2.943,6.228,0.51,0.49,3,2,5,Carolina,Carolina,Win,6.0,Over,Loss
+Ottawa,Nashville,2024-02-27 10:38:56,3.254,3.307,6.561,0.499,0.501,1,4,5,Nashville,Nashville,Win,6.5,Over,Loss
+LA Kings,Calgary,2024-02-27 10:38:56,3.06,2.875,5.935,0.505,0.495,2,4,6,LA Kings,Calgary,Loss,6.0,Under,Tie
+Dallas,Colorado,2024-02-27 10:38:56,3.369,3.3,6.669,0.502,0.498,1,5,6,Dallas,Colorado,Loss,6.5,Over,Loss
+Pittsburgh,Vancouver,2024-02-27 10:38:56,2.852,3.136,5.989,0.492,0.508,4,3,7,Vancouver,Pittsburgh,Loss,6.5,Under,Loss
+New Jersey,San Jose,2024-02-27 10:38:56,3.522,2.697,6.219,0.523,0.477,7,2,9,New Jersey,New Jersey,Win,6.5,Under,Loss
+Columbus,NY Rangers,2024-02-28 10:38:54,2.838,3.491,6.328,0.482,0.518,1,4,5,NY Rangers,NY Rangers,Win,6.5,Under,Win
+Arizona,Toronto,2024-02-29 10:39:06,3.011,3.481,6.492,0.487,0.513,2,4,6,Toronto,Toronto,Win,6.5,Under,Win
+Las Vegas,Boston,2024-02-29 10:39:06,2.935,3.049,5.984,0.497,0.503,4,5,9,Boston,Boston,Win,5.5,Over,Win
+Buffalo,Tampa Bay,2024-02-29 10:39:06,3.125,3.184,6.309,0.499,0.501,3,2,5,Tampa Bay,Buffalo,Loss,6.5,Under,Win
+Carolina,Columbus,2024-02-29 10:39:06,3.464,2.819,6.283,0.518,0.482,4,2,6,Carolina,Carolina,Win,6.5,Under,Win
+NY Islanders,Detroit,2024-02-29 10:39:06,3.028,3.453,6.48,0.488,0.512,5,3,8,Detroit,NY Islanders,Loss,6.0,Over,Win
+Winnipeg,Dallas,2024-02-29 10:39:06,3.06,2.884,5.944,0.504,0.496,1,4,5,Winnipeg,Dallas,Loss,6.0,Under,Win
+Minnesota,Nashville,2024-02-29 10:39:06,3.135,3.194,6.329,0.498,0.502,1,6,7,Nashville,Nashville,Win,6.0,Over,Win
+Colorado,Chicago,2024-02-29 10:39:06,3.579,2.545,6.125,0.529,0.471,5,0,5,Colorado,Colorado,Win,6.0,Over,Loss
+LA Kings,Vancouver,2024-02-29 10:39:06,2.887,3.109,5.996,0.494,0.506,5,1,6,Vancouver,LA Kings,Loss,6.0,Under,Tie
+Pittsburgh,Seattle,2024-02-29 10:39:06,2.919,2.735,5.654,0.505,0.495,0,2,2,Pittsburgh,Seattle,Loss,6.0,Under,Win
+Anaheim,San Jose,2024-02-29 10:39:06,3.145,2.724,5.869,0.512,0.488,6,4,10,Anaheim,Anaheim,Win,6.0,Under,Loss
+Arizona,Ottawa,2024-03-01 10:39:17,3.185,3.31,6.495,0.496,0.504,5,3,8,Ottawa,Arizona,Loss,6.5,Under,Loss
+Philadelphia,Washington,2024-03-01 10:39:17,3.059,2.75,5.809,0.509,0.491,2,5,7,Philadelphia,Washington,Loss,6.0,Under,Loss
+New Jersey,Anaheim,2024-03-01 10:39:17,3.459,3.022,6.481,0.512,0.488,3,4,7,New Jersey,Anaheim,Loss,6.5,Under,Loss
+Winnipeg,Carolina,2024-03-02 10:39:01,2.88,2.794,5.674,0.502,0.498,5,3,8,Winnipeg,Winnipeg,Win,5.5,Over,Win
+Florida,Detroit,2024-03-02 10:39:01,3.225,2.927,6.152,0.51,0.49,4,0,4,Florida,Florida,Win,6.5,Under,Win
+Edmonton,Seattle,2024-03-02 10:39:01,3.148,2.863,6.011,0.508,0.492,2,1,3,Edmonton,Edmonton,Win,6.5,Under,Win
+Colorado,Nashville,2024-03-02 10:39:01,3.373,3.115,6.488,0.508,0.492,1,5,6,Colorado,Nashville,Loss,6.5,Under,Win
+Las Vegas,Buffalo,2024-03-02 10:39:01,3.088,2.855,5.943,0.506,0.494,2,7,9,Las Vegas,Buffalo,Loss,6.0,Under,Loss
+NY Rangers,Toronto,2024-03-02 10:39:01,3.239,3.144,6.382,0.502,0.498,3,4,7,NY Rangers,Toronto,Loss,6.5,Under,Loss
+Ottawa,Philadelphia,2024-03-02 10:39:01,3.115,3.265,6.381,0.495,0.505,2,4,6,Philadelphia,Philadelphia,Win,6.5,Under,Win
+Boston,NY Islanders,2024-03-02 10:39:01,3.33,2.833,6.163,0.514,0.486,0,5,5,Boston,NY Islanders,Loss,5.5,Over,Loss
+Columbus,Chicago,2024-03-02 10:39:01,3.2,2.733,5.933,0.513,0.487,5,2,7,Columbus,Columbus,Win,6.0,Under,Loss
+San Jose,Dallas,2024-03-02 10:39:01,2.522,3.702,6.224,0.467,0.533,2,3,5,Dallas,Dallas,Win,6.5,Under,Win
+Pittsburgh,Calgary,2024-03-02 10:39:01,3.0,2.912,5.911,0.504,0.496,3,4,7,Pittsburgh,Calgary,Loss,6.0,Under,Loss
+Arizona,Washington,2024-03-03 10:38:59,2.998,2.955,5.953,0.501,0.499,5,2,7,Arizona,Arizona,Win,6.0,Under,Loss
+New Jersey,LA Kings,2024-03-03 10:38:59,2.974,3.264,6.238,0.493,0.507,1,5,6,LA Kings,LA Kings,Win,6.5,Under,Win
+Winnipeg,Buffalo,2024-03-03 10:38:59,3.024,2.655,5.68,0.51,0.49,5,2,7,Winnipeg,Winnipeg,Win,6.0,Under,Loss
+San Jose,Minnesota,2024-03-03 10:38:59,2.657,3.429,6.086,0.477,0.523,3,4,7,Minnesota,Minnesota,Win,6.0,Over,Win
+Vancouver,Anaheim,2024-03-03 10:38:59,3.565,2.729,6.294,0.523,0.477,2,1,3,Vancouver,Vancouver,Win,6.5,Under,Win
+Pittsburgh,Edmonton,2024-03-03 10:38:59,2.95,3.094,6.044,0.496,0.504,1,6,7,Edmonton,Edmonton,Win,6.5,Under,Loss
+Columbus,Pittsburgh,2024-03-05 10:38:59,2.878,3.26,6.138,0.49,0.51,3,5,8,Pittsburgh,Pittsburgh,Win,6.5,Under,Loss
+Florida,New Jersey,2024-03-05 10:38:59,3.389,2.789,6.178,0.517,0.483,5,3,8,Florida,Florida,Win,6.5,Under,Loss
+Edmonton,Boston,2024-03-05 10:38:59,3.117,3.114,6.231,0.5,0.5,2,1,3,Edmonton,Edmonton,Win,6.5,Under,Win
+Seattle,Winnipeg,2024-03-05 10:38:59,2.554,2.94,5.493,0.489,0.511,4,3,7,Winnipeg,Seattle,Loss,5.5,Under,Loss
+Chicago,Arizona,2024-03-05 10:38:59,2.569,3.233,5.802,0.482,0.518,5,2,7,Arizona,Chicago,Loss,6.0,Under,Loss
+Dallas,San Jose,2024-03-05 10:38:59,3.672,2.519,6.191,0.532,0.468,7,6,13,Dallas,Dallas,Win,6.0,Over,Win
+Vancouver,LA Kings,2024-03-05 10:38:59,3.054,2.925,5.979,0.503,0.497,2,1,3,Vancouver,Vancouver,Win,6.0,Under,Win
+Buffalo,Toronto,2024-03-06 10:39:34,3.048,3.291,6.339,0.492,0.508,1,2,3,Toronto,Toronto,Win,6.5,Under,Win
+Detroit,Colorado,2024-03-06 10:39:34,3.277,3.418,6.695,0.496,0.504,2,7,9,Colorado,Colorado,Win,6.5,Over,Win
+Ottawa,Anaheim,2024-03-06 10:39:34,3.393,3.079,6.471,0.509,0.491,1,2,3,Ottawa,Anaheim,Loss,6.5,Under,Win
+Toronto,Boston,2024-03-07 10:38:48,3.121,3.204,6.325,0.498,0.502,1,4,5,Boston,Boston,Win,6.0,Over,Loss
+Calgary,Tampa Bay,2024-03-07 10:38:48,3.253,3.207,6.46,0.501,0.499,6,3,9,Calgary,Calgary,Win,6.5,Under,Loss
+Edmonton,Columbus,2024-03-07 10:38:48,3.594,2.93,6.524,0.519,0.481,2,4,6,Edmonton,Columbus,Loss,6.5,Over,Loss
+Philadelphia,Florida,2024-03-07 10:38:48,2.644,3.103,5.747,0.487,0.513,2,1,3,Florida,Philadelphia,Loss,6.0,Under,Win
+Washington,Pittsburgh,2024-03-07 10:38:48,2.699,3.048,5.747,0.49,0.51,6,0,6,Pittsburgh,Washington,Loss,6.5,Under,Win
+Buffalo,Nashville,2024-03-07 10:38:48,2.989,3.074,6.062,0.498,0.502,2,4,6,Nashville,Nashville,Win,6.5,Under,Win
+Minnesota,Arizona,2024-03-07 10:38:48,3.198,3.103,6.301,0.502,0.498,5,2,7,Minnesota,Minnesota,Win,6.0,Over,Win
+Vancouver,Las Vegas,2024-03-07 10:38:48,3.227,2.946,6.173,0.508,0.492,3,1,4,Vancouver,Vancouver,Win,6.0,Over,Loss
+Ottawa,LA Kings,2024-03-07 10:38:48,2.903,3.311,6.214,0.488,0.512,3,4,7,LA Kings,LA Kings,Win,6.5,Under,Loss
+NY Islanders,San Jose,2024-03-07 10:38:48,3.416,2.678,6.094,0.521,0.479,7,2,9,NY Islanders,NY Islanders,Win,6.0,Over,Win
+Detroit,Arizona,2024-03-08 10:39:40,3.414,3.069,6.484,0.508,0.492,0,4,4,Detroit,Arizona,Loss,6.5,Under,Win
+Minnesota,Colorado,2024-03-08 10:39:40,3.08,3.494,6.574,0.488,0.512,1,2,3,Colorado,Colorado,Win,6.5,Over,Loss
+Dallas,Anaheim,2024-03-08 10:39:40,3.53,2.823,6.353,0.52,0.48,6,2,8,Dallas,Dallas,Win,6.5,Under,Loss
+Winnipeg,Seattle,2024-03-08 10:39:40,2.935,2.579,5.514,0.509,0.491,3,0,3,Winnipeg,Winnipeg,Win,5.5,Over,Loss
+Edmonton,Buffalo,2024-03-09 10:39:10,3.245,2.895,6.14,0.51,0.49,2,3,5,Edmonton,Buffalo,Loss,6.5,Under,Win
+Carolina,New Jersey,2024-03-09 10:39:10,3.384,3.011,6.394,0.511,0.489,4,2,6,Carolina,Carolina,Win,6.5,Under,Win
+Nashville,Columbus,2024-03-09 10:39:10,3.403,3.03,6.433,0.511,0.489,2,1,3,Nashville,Nashville,Win,6.5,Under,Win
+Pittsburgh,Boston,2024-03-09 10:39:10,2.793,3.057,5.85,0.493,0.507,1,5,6,Boston,Boston,Win,6.0,Under,Tie
+Calgary,Florida,2024-03-09 10:39:10,2.739,3.168,5.908,0.488,0.512,1,5,6,Florida,Florida,Win,6.0,Under,Tie
+Chicago,Washington,2024-03-09 10:39:10,2.521,3.083,5.604,0.484,0.516,1,4,5,Washington,Washington,Win,6.0,Under,Win
+Ottawa,San Jose,2024-03-09 10:39:10,3.567,2.796,6.364,0.522,0.478,1,2,3,Ottawa,San Jose,Loss,6.5,Under,Win
+Philadelphia,Tampa Bay,2024-03-09 10:39:10,3.171,3.101,6.272,0.501,0.499,0,7,7,Philadelphia,Tampa Bay,Loss,6.5,Under,Loss
+Detroit,Las Vegas,2024-03-09 10:39:10,3.181,3.204,6.385,0.499,0.501,3,5,8,Las Vegas,Las Vegas,Win,6.5,Under,Loss
+Winnipeg,Vancouver,2024-03-09 10:39:10,2.903,2.888,5.791,0.5,0.5,0,5,5,Winnipeg,Vancouver,Loss,5.5,Over,Loss
+Dallas,LA Kings,2024-03-09 10:39:10,3.074,3.05,6.124,0.501,0.499,4,1,5,Dallas,Dallas,Win,6.5,Under,Win
+Edmonton,Pittsburgh,2024-03-10 10:38:28,3.16,2.88,6.04,0.508,0.492,4,0,4,Edmonton,Edmonton,Win,6.5,Under,Win
+Nashville,Minnesota,2024-03-10 10:38:28,3.225,3.055,6.279,0.504,0.496,3,4,7,Nashville,Minnesota,Loss,6.0,Over,Win
+Calgary,Carolina,2024-03-10 10:38:28,2.917,3.198,6.116,0.492,0.508,2,7,9,Carolina,Carolina,Win,6.0,Over,Win
+Arizona,Chicago,2024-03-10 10:38:28,3.219,2.588,5.807,0.518,0.482,4,7,11,Arizona,Chicago,Loss,6.0,Under,Loss
+NY Islanders,Anaheim,2024-03-10 10:38:28,3.282,2.914,6.196,0.511,0.489,6,1,7,NY Islanders,NY Islanders,Win,6.5,Under,Loss
+New Jersey,NY Rangers,2024-03-11 10:38:50,2.974,3.399,6.373,0.488,0.512,1,3,4,NY Rangers,NY Rangers,Win,6.5,Under,Win
+Washington,Winnipeg,2024-03-11 10:38:50,2.546,3.06,5.606,0.485,0.515,0,3,3,Winnipeg,Winnipeg,Win,5.5,Over,Loss
+NY Islanders,LA Kings,2024-03-11 10:38:50,2.86,3.129,5.989,0.492,0.508,0,3,3,LA Kings,LA Kings,Win,6.0,Under,Win
+Detroit,Buffalo,2024-03-12 10:39:00,3.192,3.083,6.275,0.503,0.497,3,7,10,Detroit,Buffalo,Loss,6.5,Under,Loss
+NY Rangers,Carolina,2024-03-12 10:39:00,2.989,2.99,5.979,0.501,0.499,1,0,1,Carolina,NY Rangers,Loss,6.0,Under,Win
+Pittsburgh,Ottawa,2024-03-12 10:39:00,3.17,3.036,6.206,0.504,0.496,1,2,3,Pittsburgh,Ottawa,Loss,6.5,Under,Win
+San Jose,Philadelphia,2024-03-12 10:39:00,2.537,3.353,5.89,0.477,0.523,2,3,5,Philadelphia,Philadelphia,Win,6.0,Under,Win
+Arizona,Minnesota,2024-03-12 10:39:00,3.095,3.217,6.312,0.496,0.504,1,4,5,Minnesota,Minnesota,Win,6.0,Over,Loss
+Florida,Dallas,2024-03-12 10:39:00,3.141,2.91,6.051,0.507,0.493,4,3,7,Florida,Florida,Win,6.0,Over,Win
+Anaheim,Chicago,2024-03-12 10:39:00,3.041,2.741,5.782,0.509,0.491,2,7,9,Anaheim,Chicago,Loss,6.0,Under,Loss
+Colorado,Calgary,2024-03-12 10:39:00,3.41,3.075,6.485,0.509,0.491,6,2,8,Colorado,Colorado,Win,6.5,Under,Loss
+Las Vegas,Seattle,2024-03-12 10:39:00,2.969,2.827,5.796,0.504,0.496,5,4,9,Las Vegas,Las Vegas,Win,6.0,Under,Loss
+Nashville,Winnipeg,2024-03-13 10:38:40,2.747,3.055,5.802,0.491,0.509,4,2,6,Winnipeg,Nashville,Loss,5.5,Over,Win
+Washington,Edmonton,2024-03-13 10:38:40,2.743,3.268,6.011,0.484,0.516,2,7,9,Edmonton,Edmonton,Win,6.5,Under,Loss
+Colorado,Vancouver,2024-03-13 10:38:40,3.147,3.263,6.411,0.496,0.504,4,3,7,Vancouver,Colorado,Loss,6.5,Under,Loss
+Arizona,Detroit,2024-03-14 10:38:59,3.112,3.39,6.501,0.493,0.507,4,1,5,Detroit,Arizona,Loss,6.5,Over,Loss
+NY Islanders,Buffalo,2024-03-14 10:38:59,3.02,3.067,6.087,0.498,0.502,0,4,4,Buffalo,Buffalo,Win,6.0,Over,Loss
+Florida,Carolina,2024-03-14 10:38:59,2.983,2.789,5.772,0.506,0.494,0,4,4,Florida,Carolina,Loss,6.0,Under,Win
+Ottawa,Columbus,2024-03-14 10:38:59,3.378,3.201,6.58,0.505,0.495,3,2,5,Ottawa,Ottawa,Win,6.5,Over,Loss
+NY Rangers,Tampa Bay,2024-03-14 10:38:59,3.325,2.985,6.309,0.509,0.491,3,6,9,NY Rangers,Tampa Bay,Loss,6.0,Over,Win
+San Jose,Pittsburgh,2024-03-14 10:38:59,2.511,3.296,5.807,0.478,0.522,3,6,9,Pittsburgh,Pittsburgh,Win,6.0,Under,Loss
+Toronto,Philadelphia,2024-03-14 10:38:59,3.211,3.008,6.218,0.505,0.495,6,2,8,Toronto,Toronto,Win,6.0,Over,Win
+Anaheim,Minnesota,2024-03-14 10:38:59,2.891,3.355,6.247,0.486,0.514,0,2,2,Minnesota,Minnesota,Win,6.5,Under,Win
+New Jersey,Dallas,2024-03-14 10:38:59,3.127,3.544,6.672,0.488,0.512,6,2,8,Dallas,New Jersey,Loss,6.5,Over,Win
+Las Vegas,Calgary,2024-03-14 10:38:59,3.2,3.039,6.239,0.505,0.495,1,4,5,Las Vegas,Calgary,Loss,6.5,Under,Win
+Washington,Seattle,2024-03-14 10:38:59,2.724,2.923,5.647,0.495,0.505,2,1,3,Seattle,Washington,Loss,6.0,Under,Win
+Anaheim,Winnipeg,2024-03-15 10:38:55,2.474,3.309,5.783,0.476,0.524,0,6,6,Winnipeg,Winnipeg,Win,5.5,Over,Win
+LA Kings,Chicago,2024-03-15 10:38:55,3.274,2.381,5.655,0.524,0.476,5,0,5,LA Kings,LA Kings,Win,5.5,Over,Loss
+Buffalo,Detroit,2024-03-16 10:38:58,3.154,3.152,6.306,0.5,0.5,1,4,5,Buffalo,Detroit,Loss,6.5,Under,Win
+Ottawa,NY Islanders,2024-03-16 10:38:58,3.19,3.242,6.432,0.499,0.501,4,3,7,NY Islanders,Ottawa,Loss,6.5,Under,Loss
+NY Rangers,Pittsburgh,2024-03-16 10:38:58,3.069,2.759,5.827,0.509,0.491,7,4,11,NY Rangers,NY Rangers,Win,6.0,Under,Loss
+New Jersey,Arizona,2024-03-16 10:38:58,3.315,3.169,6.483,0.504,0.496,1,4,5,New Jersey,Arizona,Loss,6.5,Under,Win
+Tampa Bay,Florida,2024-03-16 10:38:58,2.855,3.315,6.17,0.488,0.512,5,3,8,Florida,Tampa Bay,Loss,6.0,Over,Win
+Philadelphia,Boston,2024-03-16 10:38:58,2.778,3.112,5.89,0.49,0.51,5,6,11,Boston,Boston,Win,5.5,Over,Win
+Carolina,Toronto,2024-03-16 10:38:58,3.213,3.07,6.283,0.504,0.496,5,4,9,Carolina,Carolina,Win,6.0,Over,Win
+San Jose,Columbus,2024-03-16 10:38:58,2.806,3.373,6.18,0.484,0.516,2,4,6,Columbus,Columbus,Win,6.5,Under,Win
+LA Kings,Dallas,2024-03-16 10:38:58,3.045,3.032,6.077,0.501,0.499,1,4,5,LA Kings,Dallas,Loss,6.0,Over,Loss
+Colorado,Edmonton,2024-03-16 10:38:58,3.245,3.263,6.508,0.5,0.5,3,2,5,Edmonton,Colorado,Loss,6.5,Over,Loss
+Nashville,Seattle,2024-03-16 10:38:58,2.984,2.866,5.849,0.504,0.496,4,1,5,Nashville,Nashville,Win,5.5,Over,Loss
+Washington,Vancouver,2024-03-16 10:38:58,2.66,3.307,5.967,0.482,0.518,2,1,3,Vancouver,Washington,Loss,6.0,Under,Win
+NY Islanders,NY Rangers,2024-03-17 10:39:06,2.85,3.28,6.13,0.488,0.512,2,5,7,NY Rangers,NY Rangers,Win,5.5,Over,Win
+New Jersey,Las Vegas,2024-03-17 10:39:06,3.122,3.312,6.433,0.494,0.506,1,3,4,Las Vegas,Las Vegas,Win,6.5,Under,Win
+Carolina,Ottawa,2024-03-17 10:39:06,3.404,2.904,6.308,0.515,0.485,7,2,9,Carolina,Carolina,Win,6.5,Under,Loss
+San Jose,Chicago,2024-03-17 10:39:06,2.802,2.899,5.702,0.498,0.502,2,5,7,Chicago,Chicago,Win,6.0,Under,Loss
+Winnipeg,Columbus,2024-03-17 10:39:06,3.312,2.63,5.942,0.52,0.48,6,1,7,Winnipeg,Winnipeg,Win,6.0,Under,Loss
+Detroit,Pittsburgh,2024-03-17 10:39:06,3.157,3.086,6.243,0.502,0.498,3,6,9,Detroit,Pittsburgh,Loss,6.5,Under,Loss
+Washington,Calgary,2024-03-18 10:39:16,2.873,3.105,5.977,0.493,0.507,5,2,7,Calgary,Washington,Loss,6.0,Under,Loss
+Buffalo,Seattle,2024-03-18 10:39:16,2.874,2.817,5.691,0.501,0.499,6,2,8,Buffalo,Buffalo,Win,5.5,Over,Win
+Ottawa,Boston,2024-03-19 10:38:44,2.922,3.413,6.335,0.486,0.514,2,6,8,Boston,Boston,Win,6.0,Over,Win
+Columbus,Detroit,2024-03-19 10:38:44,3.126,3.483,6.61,0.49,0.51,3,4,7,Detroit,Detroit,Win,6.5,Over,Win
+Pittsburgh,New Jersey,2024-03-19 10:38:44,3.173,3.086,6.259,0.502,0.498,2,5,7,Pittsburgh,New Jersey,Loss,6.5,Under,Loss
+Winnipeg,NY Rangers,2024-03-19 10:38:44,2.896,2.8,5.696,0.502,0.498,4,2,6,Winnipeg,Winnipeg,Win,5.5,Over,Win
+Toronto,Philadelphia,2024-03-19 10:38:44,3.283,3.013,6.296,0.508,0.492,3,4,7,Toronto,Philadelphia,Loss,6.5,Under,Loss
+Carolina,NY Islanders,2024-03-19 10:38:44,3.314,2.82,6.134,0.513,0.487,4,1,5,Carolina,Carolina,Win,6.0,Over,Loss
+San Jose,Nashville,2024-03-19 10:38:44,2.563,3.541,6.104,0.473,0.527,2,8,10,Nashville,Nashville,Win,6.0,Over,Win
+Minnesota,Anaheim,2024-03-19 10:38:44,3.338,2.82,6.158,0.514,0.486,4,0,4,Minnesota,Minnesota,Win,6.0,Over,Loss
+Buffalo,Vancouver,2024-03-19 10:38:44,2.821,3.208,6.029,0.489,0.511,2,3,5,Vancouver,Vancouver,Win,6.5,Under,Win
+Chicago,LA Kings,2024-03-19 10:38:44,2.377,3.264,5.641,0.476,0.524,2,6,8,LA Kings,LA Kings,Win,5.5,Over,Win
+Tampa Bay,Las Vegas,2024-03-19 10:38:44,3.2,3.258,6.459,0.499,0.501,5,3,8,Las Vegas,Tampa Bay,Loss,6.5,Under,Loss
+Toronto,Washington,2024-03-20 10:38:32,3.294,2.885,6.18,0.511,0.489,7,3,10,Toronto,Toronto,Win,6.5,Under,Loss
+Arizona,Dallas,2024-03-20 10:38:32,2.97,3.437,6.406,0.487,0.513,2,5,7,Dallas,Dallas,Win,6.5,Under,Loss
+Minnesota,LA Kings,2024-03-20 10:38:32,2.818,3.095,5.913,0.493,0.507,0,6,6,LA Kings,LA Kings,Win,5.5,Over,Win
+NY Rangers,Boston,2024-03-21 10:39:05,2.998,3.003,6.001,0.5,0.5,5,2,7,Boston,NY Rangers,Loss,5.5,Over,Win
+Philadelphia,Carolina,2024-03-21 10:39:05,2.771,3.194,5.965,0.488,0.512,2,3,5,Carolina,Carolina,Win,6.0,Under,Win
+NY Islanders,Detroit,2024-03-21 10:39:05,3.159,3.324,6.483,0.496,0.504,3,6,9,Detroit,Detroit,Win,6.5,Under,Loss
+Winnipeg,New Jersey,2024-03-21 10:39:05,3.287,2.762,6.049,0.514,0.486,1,4,5,Winnipeg,New Jersey,Loss,6.0,Over,Loss
+Nashville,Florida,2024-03-21 10:39:05,2.803,3.122,5.925,0.491,0.509,3,0,3,Florida,Nashville,Loss,6.5,Under,Win
+Buffalo,Edmonton,2024-03-21 10:39:05,2.889,3.217,6.106,0.491,0.509,3,8,11,Edmonton,Edmonton,Win,6.0,Over,Win
+Chicago,Anaheim,2024-03-21 10:39:05,2.823,2.968,5.791,0.496,0.504,0,4,4,Anaheim,Anaheim,Win,6.0,Under,Win
+Tampa Bay,San Jose,2024-03-21 10:39:05,3.732,2.709,6.44,0.529,0.471,4,1,5,Tampa Bay,Tampa Bay,Win,6.5,Under,Win
+Seattle,Las Vegas,2024-03-21 10:39:05,2.825,3.012,5.837,0.495,0.505,1,3,4,Las Vegas,Las Vegas,Win,6.0,Under,Win
+Carolina,Washington,2024-03-22 10:38:49,3.242,2.635,5.877,0.517,0.483,6,7,13,Carolina,Washington,Loss,6.0,Under,Loss
+Pittsburgh,Dallas,2024-03-22 10:38:49,2.95,3.274,6.224,0.491,0.509,2,4,6,Dallas,Dallas,Win,6.5,Under,Win
+Columbus,Colorado,2024-03-22 10:38:49,2.945,3.65,6.594,0.481,0.519,1,6,7,Colorado,Colorado,Win,6.5,Over,Win
+Seattle,Arizona,2024-03-22 10:38:49,2.966,2.89,5.856,0.502,0.498,1,2,3,Seattle,Arizona,Loss,5.5,Over,Loss
+Boston,Philadelphia,2024-03-23 10:38:40,3.161,2.819,5.98,0.509,0.491,2,3,5,Boston,Philadelphia,Loss,6.0,Under,Win
+Winnipeg,NY Islanders,2024-03-23 10:38:40,3.209,2.647,5.856,0.516,0.484,3,6,9,Winnipeg,NY Islanders,Loss,5.5,Over,Win
+Detroit,Nashville,2024-03-23 10:38:40,3.176,3.31,6.485,0.496,0.504,0,1,1,Nashville,Nashville,Win,6.0,Over,Loss
+Edmonton,Toronto,2024-03-23 10:38:40,3.347,3.195,6.543,0.504,0.496,3,6,9,Edmonton,Toronto,Loss,6.5,Over,Win
+Ottawa,New Jersey,2024-03-23 10:38:40,3.257,3.426,6.683,0.495,0.505,5,2,7,New Jersey,Ottawa,Loss,6.5,Over,Win
+Florida,NY Rangers,2024-03-23 10:38:40,2.943,2.852,5.795,0.502,0.498,3,4,7,Florida,NY Rangers,Loss,6.0,Under,Loss
+Calgary,Vancouver,2024-03-23 10:38:40,2.875,3.336,6.211,0.487,0.513,2,4,6,Vancouver,Vancouver,Win,6.0,Over,Tie
+Chicago,San Jose,2024-03-23 10:38:40,2.936,2.791,5.727,0.504,0.496,5,4,9,Chicago,Chicago,Win,6.0,Under,Loss
+Columbus,Las Vegas,2024-03-23 10:38:40,2.915,3.387,6.302,0.487,0.513,2,4,6,Las Vegas,Las Vegas,Win,6.5,Under,Win
+Tampa Bay,LA Kings,2024-03-23 10:38:40,2.977,3.208,6.185,0.493,0.507,3,4,7,LA Kings,LA Kings,Win,6.0,Over,Win
+Winnipeg,Washington,2024-03-24 10:39:00,3.125,2.556,5.681,0.516,0.484,0,3,3,Winnipeg,Washington,Loss,5.5,Over,Loss
+Pittsburgh,Colorado,2024-03-24 10:39:00,2.92,3.344,6.264,0.488,0.512,4,5,9,Colorado,Colorado,Win,6.5,Under,Loss
+New Jersey,NY Islanders,2024-03-24 10:39:00,3.275,3.208,6.483,0.501,0.499,4,0,4,New Jersey,New Jersey,Win,6.5,Under,Win
+Toronto,Carolina,2024-03-24 10:39:00,3.116,3.272,6.388,0.495,0.505,1,2,3,Carolina,Carolina,Win,6.5,Under,Win
+Edmonton,Ottawa,2024-03-24 10:39:00,3.57,3.002,6.572,0.516,0.484,3,5,8,Edmonton,Ottawa,Loss,6.5,Over,Win
+Florida,Philadelphia,2024-03-24 10:39:00,3.103,2.664,5.767,0.512,0.488,4,1,5,Florida,Florida,Win,6.5,Under,Win
+Dallas,Arizona,2024-03-24 10:39:00,3.451,2.945,6.396,0.514,0.486,4,2,6,Dallas,Dallas,Win,6.0,Over,Tie
+Tampa Bay,Anaheim,2024-03-24 10:39:00,3.54,2.88,6.419,0.518,0.482,3,2,5,Tampa Bay,Tampa Bay,Win,6.5,Under,Win
+Buffalo,Calgary,2024-03-24 10:39:00,3.073,3.065,6.137,0.5,0.5,4,1,5,Buffalo,Buffalo,Win,6.0,Over,Loss
+LA Kings,Vancouver,2024-03-25 10:38:55,2.86,2.986,5.846,0.497,0.503,3,2,5,Vancouver,LA Kings,Loss,5.5,Over,Loss
+Boston,Florida,2024-03-26 10:39:44,2.824,2.975,5.799,0.497,0.503,4,3,7,Florida,Boston,Loss,6.0,Under,Loss
+Carolina,Pittsburgh,2024-03-26 10:39:44,3.199,2.767,5.966,0.512,0.488,1,4,5,Carolina,Pittsburgh,Loss,6.5,Under,Win
+Detroit,Washington,2024-03-26 10:39:44,3.237,3.0,6.237,0.506,0.494,3,4,7,Detroit,Washington,Loss,6.0,Over,Win
+Philadelphia,NY Rangers,2024-03-26 10:39:44,2.788,3.175,5.964,0.49,0.51,5,6,11,NY Rangers,NY Rangers,Win,6.0,Under,Loss
+New Jersey,Toronto,2024-03-26 10:39:44,3.184,3.493,6.677,0.491,0.509,6,3,9,Toronto,New Jersey,Loss,6.5,Over,Win
+Edmonton,Winnipeg,2024-03-26 10:39:44,2.939,2.984,5.923,0.498,0.502,4,3,7,Winnipeg,Edmonton,Loss,6.5,Under,Loss
+Las Vegas,Nashville,2024-03-26 10:39:44,3.022,3.071,6.094,0.498,0.502,4,5,9,Nashville,Nashville,Win,6.0,Over,Win
+Calgary,Chicago,2024-03-26 10:39:44,3.331,2.653,5.984,0.519,0.481,1,3,4,Calgary,Chicago,Loss,6.0,Under,Win
+Anaheim,Seattle,2024-03-26 10:39:44,2.677,3.051,5.728,0.489,0.511,0,4,4,Seattle,Seattle,Win,6.0,Under,Win
+Columbus,Arizona,2024-03-26 10:39:44,3.072,3.239,6.311,0.495,0.505,2,6,8,Arizona,Arizona,Win,6.5,Under,Loss
+Dallas,San Jose,2024-03-26 10:39:44,3.811,2.556,6.367,0.536,0.464,6,3,9,Dallas,Dallas,Win,6.5,Under,Loss
+Ottawa,Buffalo,2024-03-27 10:39:02,3.079,3.252,6.33,0.494,0.506,6,2,8,Buffalo,Ottawa,Loss,6.5,Under,Loss
+Boston,Tampa Bay,2024-03-27 10:39:02,3.315,3.088,6.403,0.506,0.494,1,3,4,Boston,Tampa Bay,Loss,6.0,Over,Loss
+Chicago,Ottawa,2024-03-28 10:39:16,2.797,3.38,6.178,0.483,0.517,0,2,2,Ottawa,Ottawa,Win,6.5,Under,Win
+Columbus,Pittsburgh,2024-03-28 10:39:16,2.919,3.274,6.193,0.49,0.51,2,3,5,Pittsburgh,Pittsburgh,Win,6.5,Under,Win
+NY Islanders,Florida,2024-03-28 10:39:16,2.686,3.265,5.951,0.483,0.517,3,2,5,Florida,NY Islanders,Loss,6.0,Under,Win
+Washington,Toronto,2024-03-28 10:39:16,2.932,3.345,6.278,0.488,0.512,1,5,6,Toronto,Toronto,Win,6.5,Under,Win
+Detroit,Carolina,2024-03-28 10:39:16,2.998,3.35,6.348,0.49,0.51,0,4,4,Carolina,Carolina,Win,6.0,Over,Loss
+San Jose,Minnesota,2024-03-28 10:39:16,2.659,3.512,6.171,0.476,0.524,1,3,4,Minnesota,Minnesota,Win,6.0,Over,Loss
+Las Vegas,Winnipeg,2024-03-28 10:39:16,2.781,3.004,5.785,0.494,0.506,4,1,5,Winnipeg,Las Vegas,Loss,6.0,Under,Win
+NY Rangers,Colorado,2024-03-28 10:39:16,3.168,3.181,6.349,0.5,0.5,3,2,5,Colorado,NY Rangers,Loss,6.5,Under,Win
+LA Kings,Edmonton,2024-03-28 10:39:16,3.003,3.011,6.014,0.5,0.5,1,4,5,Edmonton,Edmonton,Win,6.0,Over,Loss
+Anaheim,Seattle,2024-03-28 10:39:16,2.637,3.063,5.7,0.489,0.511,2,4,6,Seattle,Seattle,Win,5.5,Over,Win
+Nashville,Arizona,2024-03-28 10:39:16,3.265,2.925,6.19,0.51,0.49,4,8,12,Nashville,Arizona,Loss,6.0,Over,Win
+Dallas,Vancouver,2024-03-28 10:39:16,3.108,3.22,6.328,0.497,0.503,3,1,4,Vancouver,Dallas,Loss,6.0,Over,Loss
+New Jersey,Buffalo,2024-03-29 10:39:05,3.162,3.158,6.32,0.5,0.5,2,5,7,New Jersey,Buffalo,Loss,6.5,Under,Loss
+Detroit,Florida,2024-03-30 10:38:39,2.85,3.274,6.125,0.488,0.512,2,3,5,Florida,Florida,Win,6.0,Over,Loss
+Las Vegas,Minnesota,2024-03-30 10:38:39,3.175,2.989,6.164,0.505,0.495,2,1,3,Las Vegas,Las Vegas,Win,5.5,Over,Loss
+Anaheim,Edmonton,2024-03-30 10:38:39,2.646,3.585,6.231,0.474,0.526,1,6,7,Edmonton,Edmonton,Win,6.5,Under,Loss
+NY Rangers,Arizona,2024-03-30 10:38:39,3.33,2.851,6.181,0.514,0.486,8,5,13,NY Rangers,NY Rangers,Win,6.0,Over,Win
+Nashville,Colorado,2024-03-30 10:38:39,3.101,3.326,6.427,0.494,0.506,4,7,11,Colorado,Colorado,Win,6.0,Over,Win
+Boston,Washington,2024-03-30 10:38:39,3.204,2.725,5.929,0.514,0.486,3,2,5,Boston,Boston,Win,5.5,Over,Loss
+Toronto,Buffalo,2024-03-30 10:38:39,3.305,3.059,6.365,0.507,0.493,3,0,3,Toronto,Toronto,Win,6.5,Under,Win
+Chicago,Philadelphia,2024-03-30 10:38:39,2.587,3.194,5.781,0.482,0.518,5,1,6,Philadelphia,Chicago,Loss,6.0,Under,Tie
+Pittsburgh,Columbus,2024-03-30 10:38:39,3.269,2.904,6.173,0.511,0.489,3,4,7,Pittsburgh,Columbus,Loss,6.5,Under,Loss
+NY Islanders,Tampa Bay,2024-03-30 10:38:39,3.121,3.379,6.5,0.493,0.507,1,4,5,Tampa Bay,Tampa Bay,Win,6.5,Tie,Tie
+Ottawa,Winnipeg,2024-03-30 10:38:39,2.807,3.257,6.064,0.486,0.514,3,2,5,Winnipeg,Ottawa,Loss,6.0,Over,Loss
+LA Kings,Calgary,2024-03-30 10:38:39,3.149,2.799,5.948,0.51,0.49,2,4,6,LA Kings,Calgary,Loss,5.5,Over,Win
+Dallas,Seattle,2024-03-30 10:38:39,3.214,2.791,6.005,0.512,0.488,3,0,3,Dallas,Dallas,Win,6.0,Over,Loss
+Anaheim,Vancouver,2024-03-31 10:38:43,2.528,3.534,6.062,0.471,0.529,2,3,5,Vancouver,Vancouver,Win,6.0,Over,Loss
+Colorado,Columbus,2024-04-01 10:38:53,3.695,2.899,6.594,0.522,0.478,1,4,5,Colorado,Columbus,Loss,6.5,Over,Loss
+Detroit,Tampa Bay,2024-04-01 10:38:53,3.28,3.399,6.679,0.496,0.504,4,2,6,Tampa Bay,Detroit,Loss,6.5,Over,Loss
+Florida,Toronto,2024-04-01 10:38:53,3.135,2.966,6.1,0.504,0.496,4,6,10,Florida,Toronto,Loss,6.5,Under,Loss
+NY Islanders,Philadelphia,2024-04-01 10:38:53,3.019,3.077,6.097,0.498,0.502,4,3,7,Philadelphia,NY Islanders,Loss,6.0,Over,Win
+Pittsburgh,NY Rangers,2024-04-01 10:38:53,2.829,3.192,6.02,0.489,0.511,5,2,7,NY Rangers,Pittsburgh,Loss,6.0,Over,Win
+LA Kings,Winnipeg,2024-04-01 10:38:53,2.754,2.796,5.55,0.498,0.502,3,4,7,Winnipeg,Winnipeg,Win,5.5,Over,Win
+Seattle,San Jose,2024-04-01 10:38:53,3.209,2.511,5.72,0.519,0.481,4,2,6,Seattle,Seattle,Win,6.0,Under,Tie
+Washington,Buffalo,2024-04-02 10:38:52,2.851,3.029,5.88,0.495,0.505,2,6,8,Buffalo,Buffalo,Win,6.5,Under,Loss
+Pittsburgh,New Jersey,2024-04-02 10:38:52,3.162,3.116,6.278,0.502,0.498,6,3,9,Pittsburgh,Pittsburgh,Win,6.5,Under,Loss
+Chicago,NY Islanders,2024-04-02 10:38:52,2.707,3.219,5.925,0.485,0.515,1,2,3,NY Islanders,NY Islanders,Win,5.5,Over,Loss
+Boston,Nashville,2024-04-02 10:38:52,3.153,2.988,6.141,0.504,0.496,3,0,3,Boston,Boston,Win,6.0,Over,Loss
+Ottawa,Minnesota,2024-04-02 10:38:52,3.17,3.243,6.412,0.498,0.502,2,3,5,Minnesota,Minnesota,Win,6.0,Over,Loss
+Anaheim,Calgary,2024-04-02 10:38:52,2.781,3.329,6.11,0.484,0.516,5,3,8,Calgary,Anaheim,Loss,6.0,Over,Win
+Vancouver,Las Vegas,2024-04-02 10:38:52,3.158,2.888,6.046,0.508,0.492,3,6,9,Vancouver,Las Vegas,Loss,5.5,Over,Win
+New Jersey,NY Rangers,2024-04-03 10:38:43,3.014,3.42,6.434,0.488,0.512,3,4,7,NY Rangers,NY Rangers,Win,6.5,Under,Loss
+Tampa Bay,Toronto,2024-04-03 10:38:43,3.27,3.449,6.719,0.495,0.505,4,1,5,Toronto,Tampa Bay,Loss,6.5,Over,Loss
+Edmonton,Dallas,2024-04-03 10:38:43,3.232,3.221,6.453,0.5,0.5,0,5,5,Edmonton,Dallas,Loss,6.5,Under,Win
+Seattle,LA Kings,2024-04-03 10:38:43,2.605,2.942,5.547,0.49,0.51,2,5,7,LA Kings,LA Kings,Win,5.5,Over,Win
+Vancouver,Arizona,2024-04-03 10:38:43,3.395,2.85,6.244,0.516,0.484,2,1,3,Vancouver,Vancouver,Win,6.0,Over,Loss
+Philadelphia,Buffalo,2024-04-05 10:38:49,2.934,3.049,5.984,0.497,0.503,2,4,6,Buffalo,Buffalo,Win,6.0,Under,Tie
+Washington,Carolina,2024-04-05 10:38:49,2.64,3.249,5.889,0.483,0.517,2,4,6,Carolina,Carolina,Win,6.0,Under,Tie
+NY Rangers,Detroit,2024-04-05 10:38:49,3.365,3.038,6.403,0.509,0.491,4,3,7,NY Rangers,NY Rangers,Win,6.0,Over,Win
+Colorado,Edmonton,2024-04-05 10:38:49,3.273,3.237,6.51,0.501,0.499,2,6,8,Colorado,Edmonton,Loss,6.5,Over,Win
+Seattle,Anaheim,2024-04-05 10:38:49,3.07,2.642,5.712,0.511,0.489,3,1,4,Seattle,Seattle,Win,5.5,Over,Loss
+Las Vegas,Arizona,2024-04-05 10:38:49,3.264,2.944,6.209,0.51,0.49,4,7,11,Las Vegas,Arizona,Loss,6.0,Over,Win
+Tampa Bay,Pittsburgh,2024-04-06 10:38:53,3.207,3.118,6.325,0.502,0.498,4,5,9,Tampa Bay,Pittsburgh,Loss,6.0,Over,Win
+Florida,Boston,2024-04-06 10:38:53,2.942,2.848,5.79,0.503,0.497,2,3,5,Florida,Boston,Loss,5.5,Over,Loss
+Dallas,Chicago,2024-04-06 10:38:53,3.569,2.513,6.082,0.53,0.47,2,3,5,Dallas,Chicago,Loss,6.0,Over,Loss
+Winnipeg,Minnesota,2024-04-06 10:38:53,3.115,2.727,5.841,0.513,0.487,4,2,6,Winnipeg,Winnipeg,Win,5.5,Over,Win
+Philadelphia,Columbus,2024-04-06 10:38:53,3.218,2.977,6.194,0.507,0.493,2,6,8,Philadelphia,Columbus,Loss,6.5,Under,Loss
+New Jersey,Ottawa,2024-04-06 10:38:53,3.383,3.277,6.66,0.503,0.497,4,3,7,New Jersey,New Jersey,Win,6.5,Over,Win
+Nashville,NY Islanders,2024-04-06 10:38:53,3.255,3.0,6.255,0.508,0.492,0,2,2,Nashville,NY Islanders,Loss,5.5,Over,Loss
+Edmonton,Calgary,2024-04-06 10:38:53,3.406,2.959,6.365,0.513,0.487,4,2,6,Edmonton,Edmonton,Win,6.5,Under,Win
+Vancouver,LA Kings,2024-04-06 10:38:53,2.965,2.862,5.827,0.502,0.498,3,6,9,Vancouver,LA Kings,Loss,5.5,Over,Win
+Buffalo,Detroit,2024-04-07 10:39:49,3.156,3.151,6.307,0.5,0.5,1,3,4,Buffalo,Detroit,Loss,6.0,Over,Loss
+Minnesota,Chicago,2024-04-07 10:39:49,3.222,2.647,5.869,0.516,0.484,4,0,4,Minnesota,Minnesota,Win,5.5,Over,Loss
+Columbus,Carolina,2024-04-07 10:39:49,2.736,3.473,6.209,0.48,0.52,0,3,3,Carolina,Carolina,Win,6.0,Over,Loss
+Arizona,San Jose,2024-04-07 10:39:49,3.453,2.717,6.17,0.521,0.479,5,2,7,Arizona,Arizona,Win,6.0,Over,Win
+Ottawa,Washington,2024-04-07 10:39:49,3.15,3.051,6.201,0.504,0.496,3,2,5,Ottawa,Ottawa,Win,6.0,Over,Loss
+Nashville,New Jersey,2024-04-07 10:39:49,3.323,3.157,6.481,0.505,0.495,3,2,5,Nashville,Nashville,Win,6.5,Under,Win
+Dallas,Colorado,2024-04-07 10:39:49,3.305,3.259,6.563,0.501,0.499,7,4,11,Dallas,Dallas,Win,6.0,Over,Win
+Pittsburgh,Toronto,2024-04-08 10:40:05,3.06,3.268,6.328,0.494,0.506,2,3,5,Toronto,Toronto,Win,6.5,Under,Win
+Las Vegas,Vancouver,2024-04-08 10:40:05,2.944,3.176,6.12,0.493,0.507,3,4,7,Vancouver,Vancouver,Win,6.0,Over,Win
+Carolina,Boston,2024-04-09 10:39:55,2.991,2.893,5.884,0.502,0.498,4,1,5,Carolina,Carolina,Win,5.5,Over,Loss
+Columbus,Tampa Bay,2024-04-09 10:39:55,3.048,3.555,6.603,0.486,0.514,2,5,7,Tampa Bay,Tampa Bay,Win,6.5,Over,Win
+Washington,Detroit,2024-04-09 10:39:55,2.953,3.239,6.192,0.491,0.509,2,1,3,Detroit,Washington,Loss,6.0,Over,Loss
+Ottawa,Florida,2024-04-09 10:39:55,2.792,3.347,6.139,0.484,0.516,0,2,2,Florida,Florida,Win,6.5,Under,Win
+Toronto,New Jersey,2024-04-09 10:39:55,3.509,3.174,6.682,0.509,0.491,5,2,7,Toronto,Toronto,Win,6.5,Over,Win
+NY Rangers,NY Islanders,2024-04-09 10:39:55,3.328,2.859,6.186,0.513,0.487,2,4,6,NY Rangers,NY Islanders,Loss,5.5,Over,Win
+Buffalo,Dallas,2024-04-09 10:39:55,2.925,3.317,6.242,0.489,0.511,2,3,5,Dallas,Dallas,Win,6.0,Over,Loss
+Winnipeg,Nashville,2024-04-09 10:39:55,3.045,2.816,5.861,0.507,0.493,4,3,7,Winnipeg,Winnipeg,Win,5.5,Over,Win
+Minnesota,Colorado,2024-04-09 10:39:55,3.03,3.408,6.438,0.49,0.51,2,5,7,Colorado,Colorado,Win,6.5,Under,Loss
+LA Kings,Anaheim,2024-04-09 10:39:55,3.361,2.514,5.875,0.524,0.476,1,3,4,LA Kings,Anaheim,Loss,5.5,Over,Loss
+Arizona,Seattle,2024-04-09 10:39:55,2.952,2.949,5.902,0.5,0.5,0,5,5,Arizona,Seattle,Loss,6.0,Under,Win
+Calgary,San Jose,2024-04-09 10:39:55,3.452,2.684,6.136,0.521,0.479,3,2,5,Calgary,Calgary,Win,6.0,Over,Loss
+Las Vegas,Edmonton,2024-04-10 10:39:39,3.03,3.255,6.285,0.494,0.506,1,5,6,Edmonton,Edmonton,Win,6.0,Over,Tie
+Arizona,Vancouver,2024-04-10 10:39:39,2.87,3.385,6.255,0.485,0.515,4,3,7,Vancouver,Arizona,Loss,6.5,Under,Loss
+Washington,Buffalo,2024-04-11 10:38:39,2.81,3.049,5.858,0.494,0.506,2,4,6,Buffalo,Buffalo,Win,6.0,Under,Tie
+Columbus,Florida,2024-04-11 10:38:39,2.643,3.399,6.042,0.479,0.521,0,4,4,Florida,Florida,Win,6.5,Under,Win
+Detroit,Pittsburgh,2024-04-11 10:38:39,3.111,3.137,6.248,0.499,0.501,5,6,11,Pittsburgh,Pittsburgh,Win,6.0,Over,Win
+New Jersey,Toronto,2024-04-11 10:38:39,3.154,3.529,6.682,0.49,0.51,6,5,11,Toronto,New Jersey,Loss,6.5,Over,Win
+Philadelphia,NY Rangers,2024-04-11 10:38:39,2.815,3.328,6.143,0.486,0.514,4,1,5,NY Rangers,Philadelphia,Loss,6.0,Over,Loss
+Ottawa,Tampa Bay,2024-04-11 10:38:39,3.164,3.5,6.664,0.49,0.51,3,2,5,Tampa Bay,Ottawa,Loss,6.5,Over,Loss
+Winnipeg,Dallas,2024-04-11 10:38:39,2.978,3.011,5.989,0.499,0.501,3,0,3,Dallas,Winnipeg,Loss,6.0,Under,Win
+San Jose,Seattle,2024-04-11 10:38:39,2.483,3.219,5.702,0.479,0.521,3,1,4,Seattle,San Jose,Loss,6.0,Under,Win
+Calgary,LA Kings,2024-04-11 10:38:39,2.801,3.169,5.97,0.49,0.51,1,4,5,LA Kings,LA Kings,Win,6.0,Under,Win
+Nashville,Chicago,2024-04-12 10:38:29,3.342,2.57,5.912,0.522,0.478,5,1,6,Nashville,Nashville,Win,6.0,Under,Tie
+Arizona,Edmonton,2024-04-12 10:38:29,2.938,3.468,6.406,0.485,0.515,3,2,5,Edmonton,Arizona,Loss,6.5,Under,Win
+Calgary,Anaheim,2024-04-12 10:38:29,3.283,2.838,6.12,0.512,0.488,6,3,9,Calgary,Calgary,Win,6.0,Over,Win
+Minnesota,Las Vegas,2024-04-12 10:38:29,2.995,3.165,6.16,0.494,0.506,2,7,9,Las Vegas,Las Vegas,Win,6.0,Over,Win
+NY Islanders,NY Rangers,2024-04-13 10:38:38,2.879,3.288,6.167,0.489,0.511,2,3,5,NY Rangers,NY Rangers,Win,5.5,Over,Loss
+Seattle,Dallas,2024-04-13 10:38:38,2.752,3.182,5.935,0.488,0.512,1,3,4,Dallas,Dallas,Win,6.0,Under,Win
+Winnipeg,Colorado,2024-04-13 10:38:38,3.065,3.013,6.078,0.502,0.498,7,0,7,Winnipeg,Winnipeg,Win,6.0,Over,Win
+Buffalo,Florida,2024-04-13 10:38:38,2.691,3.093,5.784,0.488,0.512,2,3,5,Florida,Florida,Win,5.5,Over,Loss
+New Jersey,Philadelphia,2024-04-13 10:38:38,3.245,3.141,6.386,0.503,0.497,0,1,1,New Jersey,Philadelphia,Loss,6.0,Over,Loss
+Tampa Bay,Washington,2024-04-13 10:38:38,3.33,2.915,6.244,0.512,0.488,2,4,6,Tampa Bay,Washington,Loss,6.0,Over,Tie
+Detroit,Toronto,2024-04-13 10:38:38,3.198,3.471,6.669,0.493,0.507,5,4,9,Toronto,Detroit,Loss,6.5,Over,Win
+Boston,Pittsburgh,2024-04-13 10:38:38,3.102,2.859,5.961,0.507,0.493,6,4,10,Boston,Boston,Win,6.0,Under,Loss
+Columbus,Nashville,2024-04-13 10:38:38,2.898,3.415,6.313,0.485,0.515,4,6,10,Nashville,Nashville,Win,6.5,Under,Loss
+Vancouver,Edmonton,2024-04-13 10:38:38,3.111,3.121,6.232,0.5,0.5,3,1,4,Edmonton,Vancouver,Loss,6.5,Under,Win
+Anaheim,LA Kings,2024-04-13 10:38:38,2.52,3.345,5.865,0.476,0.524,1,3,4,LA Kings,LA Kings,Win,5.5,Over,Loss
+Minnesota,San Jose,2024-04-13 10:38:38,3.402,2.665,6.067,0.521,0.479,6,2,8,Minnesota,Minnesota,Win,6.0,Over,Win
+Colorado,Las Vegas,2024-04-14 14:21:15,3.306,3.159,6.465,0.504,0.496,3,4,7,Colorado,Las Vegas,Loss,6.5,Under,Loss
+Carolina,Chicago,2024-04-14 14:21:15,3.444,2.342,5.787,0.531,0.469,4,2,6,Carolina,Carolina,Win,5.5,Over,Win
+Arizona,Calgary,2024-04-14 14:21:15,3.148,3.187,6.335,0.499,0.501,5,6,11,Calgary,Calgary,Win,6.0,Over,Win
+Boston,Washington,2024-04-15 10:38:38,3.209,2.675,5.884,0.515,0.485,0,2,2,Boston,Washington,Loss,5.5,Over,Loss
+Buffalo,Tampa Bay,2024-04-15 10:38:38,3.097,3.23,6.326,0.496,0.504,4,2,6,Tampa Bay,Buffalo,Loss,6.0,Over,Tie
+Nashville,Pittsburgh,2024-04-15 10:38:38,3.133,3.035,6.167,0.504,0.496,2,4,6,Nashville,Pittsburgh,Loss,6.0,Over,Tie
+NY Islanders,New Jersey,2024-04-15 10:38:38,3.176,3.205,6.381,0.499,0.501,4,1,5,New Jersey,NY Islanders,Loss,6.0,Over,Loss
+Ottawa,NY Rangers,2024-04-15 10:38:38,2.936,3.415,6.351,0.487,0.513,0,4,4,NY Rangers,NY Rangers,Win,6.0,Over,Loss
+San Jose,Edmonton,2024-04-15 10:38:38,2.505,3.716,6.221,0.466,0.534,2,9,11,Edmonton,Edmonton,Win,6.0,Over,Win
+Minnesota,LA Kings,2024-04-15 10:38:38,2.774,3.145,5.919,0.489,0.511,3,1,4,LA Kings,Minnesota,Loss,5.5,Over,Loss
+Ottawa,Boston,2024-04-16 10:38:53,2.864,3.343,6.207,0.487,0.513,3,1,4,Boston,Ottawa,Loss,6.0,Over,Loss
+Carolina,Columbus,2024-04-16 10:38:53,3.508,2.666,6.174,0.523,0.477,3,6,9,Carolina,Columbus,Loss,6.5,Under,Loss
+Washington,Philadelphia,2024-04-16 10:38:53,2.888,2.967,5.855,0.498,0.502,2,1,3,Philadelphia,Washington,Loss,5.5,Over,Loss
+Toronto,Florida,2024-04-16 10:38:53,2.972,3.17,6.142,0.495,0.505,2,5,7,Florida,Florida,Win,6.5,Under,Loss
+Seattle,Winnipeg,2024-04-16 10:38:53,2.498,2.97,5.469,0.487,0.513,3,4,7,Winnipeg,Winnipeg,Win,5.5,Under,Loss
+Calgary,Vancouver,2024-04-16 10:38:53,2.888,3.344,6.233,0.486,0.514,1,4,5,Vancouver,Vancouver,Win,6.5,Under,Win
+Chicago,Las Vegas,2024-04-16 10:38:53,2.537,3.372,5.909,0.476,0.524,1,3,4,Las Vegas,Las Vegas,Win,6.0,Under,Win
+Pittsburgh,NY Islanders,2024-04-17 10:38:43,3.105,2.98,6.085,0.504,0.496,4,5,9,Pittsburgh,NY Islanders,Loss,5.5,Over,Win
+Toronto,Tampa Bay,2024-04-17 10:38:43,3.435,3.311,6.746,0.504,0.496,4,6,10,Toronto,Tampa Bay,Loss,6.5,Over,Win
+Edmonton,Arizona,2024-04-17 10:38:43,3.483,2.948,6.43,0.515,0.485,2,5,7,Edmonton,Arizona,Loss,6.5,Under,Loss
+Seattle,Minnesota,2024-04-18 10:40:09,2.861,2.923,5.784,0.497,0.503,4,3,7,Minnesota,Seattle,Loss,6.0,Under,Loss
+Vancouver,Winnipeg,2024-04-18 10:40:09,2.877,2.906,5.782,0.5,0.5,2,4,6,Winnipeg,Winnipeg,Win,5.5,Over,Win
+San Jose,Calgary,2024-04-18 10:40:09,2.692,3.481,6.173,0.477,0.523,1,5,6,Calgary,Calgary,Win,6.0,Over,Tie
+Edmonton,Colorado,2024-04-18 10:40:09,3.336,3.234,6.57,0.503,0.497,1,5,6,Edmonton,Colorado,Loss,6.5,Over,Loss
+Anaheim,Las Vegas,2024-04-18 10:40:09,2.694,3.41,6.104,0.48,0.52,4,1,5,Las Vegas,Anaheim,Loss,6.0,Over,Loss
+Chicago,LA Kings,2024-04-18 10:40:09,2.337,3.283,5.62,0.473,0.527,4,5,9,LA Kings,LA Kings,Win,6.0,Under,Loss
+NY Islanders,Carolina,2024-04-19 10:38:52,2.772,3.263,6.035,0.486,0.514,0,0,0,Carolina,Tie,Loss,5.5,Over,Loss
+Toronto,Boston,2024-04-19 10:38:52,3.131,3.195,6.326,0.498,0.502,0,0,0,Boston,Tie,Loss,5.5,Over,Loss
+NY Islanders,Carolina,2024-04-20 10:38:49,2.772,3.263,6.035,0.486,0.514,1,3,4,Carolina,Carolina,Win,5.5,Over,Loss
+Toronto,Boston,2024-04-20 10:38:49,3.131,3.195,6.326,0.499,0.501,1,5,6,Boston,Boston,Win,5.5,Over,Win
+Tampa Bay,Florida,2024-04-21 10:39:02,2.908,3.245,6.153,0.491,0.509,2,3,5,Florida,Florida,Win,5.5,Over,Loss
+Washington,NY Rangers,2024-04-21 10:39:02,2.694,3.226,5.92,0.484,0.516,1,4,5,NY Rangers,NY Rangers,Win,5.5,Over,Loss
+Colorado,Winnipeg,2024-04-21 10:39:02,2.978,3.115,6.093,0.497,0.503,6,7,13,Winnipeg,Winnipeg,Win,5.5,Over,Win
+Nashville,Vancouver,2024-04-21 10:39:02,2.958,3.204,6.162,0.493,0.507,2,4,6,Vancouver,Vancouver,Win,5.5,Over,Win
+Toronto,Boston,2024-04-22 10:39:27,3.131,3.195,6.326,0.499,0.501,3,2,5,Boston,Toronto,Loss,5.5,Over,Loss
+NY Islanders,Carolina,2024-04-22 10:39:27,2.772,3.263,6.035,0.486,0.514,3,5,8,Carolina,Carolina,Win,5.5,Over,Win
+Las Vegas,Dallas,2024-04-22 10:39:27,3.014,3.26,6.274,0.493,0.507,4,3,7,Dallas,Las Vegas,Loss,5.5,Over,Win
+LA Kings,Edmonton,2024-04-22 10:39:27,2.988,3.019,6.007,0.499,0.501,4,7,11,Edmonton,Edmonton,Win,6.0,Over,Win
+Washington,NY Rangers,2024-04-23 10:38:54,2.694,3.226,5.92,0.484,0.516,3,4,7,NY Rangers,NY Rangers,Win,5.5,Over,Win
+Tampa Bay,Florida,2024-04-23 10:38:54,2.908,3.245,6.153,0.491,0.509,2,3,5,Florida,Florida,Win,5.5,Over,Loss
+Colorado,Winnipeg,2024-04-23 10:38:54,2.978,3.115,6.093,0.496,0.504,5,2,7,Winnipeg,Colorado,Loss,6.0,Over,Win
+Nashville,Vancouver,2024-04-23 10:38:54,2.958,3.204,6.162,0.493,0.507,4,1,5,Vancouver,Nashville,Loss,5.5,Over,Loss
+Boston,Toronto,2024-04-24 10:43:30,3.195,3.131,6.326,0.502,0.498,4,2,6,Boston,Boston,Win,5.5,Over,Win
+Las Vegas,Dallas,2024-04-24 10:43:30,3.014,3.26,6.274,0.492,0.508,3,1,4,Dallas,Las Vegas,Loss,5.5,Over,Loss
+LA Kings,Edmonton,2024-04-24 10:43:30,2.988,3.019,6.007,0.5,0.5,5,4,9,Edmonton,LA Kings,Loss,6.0,Over,Win
+Florida,Tampa Bay,2024-04-25 10:38:53,3.245,2.908,6.153,0.509,0.491,5,3,8,Florida,Florida,Win,6.0,Over,Win
+Carolina,NY Islanders,2024-04-25 10:38:53,3.263,2.772,6.035,0.515,0.485,3,2,5,Carolina,Carolina,Win,5.5,Over,Loss
+NY Rangers,Washington,2024-04-25 10:38:53,3.226,2.694,5.92,0.515,0.485,3,1,4,NY Rangers,NY Rangers,Win,5.5,Over,Loss
+Vancouver,Nashville,2024-04-25 10:38:53,3.204,2.958,6.162,0.506,0.494,2,1,3,Vancouver,Vancouver,Win,5.5,Over,Loss
+Winnipeg,Colorado,2024-04-25 10:38:53,3.115,2.978,6.093,0.503,0.497,2,6,8,Winnipeg,Colorado,Loss,6.5,Under,Loss
+Edmonton,LA Kings,2024-04-25 10:38:53,3.019,2.988,6.007,0.501,0.499,6,1,7,Edmonton,Edmonton,Win,6.5,Under,Loss
+Carolina,NY Islanders,2024-04-27 10:41:00,3.263,2.772,6.035,0.514,0.486,2,3,5,Carolina,NY Islanders,Loss,5.5,Over,Loss
+Florida,Tampa Bay,2024-04-27 10:41:00,3.245,2.908,6.153,0.509,0.491,3,6,9,Florida,Tampa Bay,Loss,6.0,Over,Win
+Boston,Toronto,2024-04-27 10:41:00,3.195,3.131,6.326,0.501,0.499,3,1,4,Boston,Boston,Win,6.0,Over,Loss
+Dallas,Las Vegas,2024-04-27 10:41:00,3.26,3.014,6.274,0.507,0.493,3,2,5,Dallas,Dallas,Win,5.5,Over,Loss
+Winnipeg,Colorado,2024-04-28 10:38:48,3.115,2.978,6.093,0.504,0.496,1,5,6,Winnipeg,Colorado,Loss,6.5,Under,Win
+Vancouver,Nashville,2024-04-28 10:38:48,3.204,2.958,6.162,0.507,0.493,4,3,7,Vancouver,Vancouver,Win,5.5,Over,Win
+NY Rangers,Washington,2024-04-28 10:38:48,3.226,2.694,5.92,0.514,0.486,4,2,6,NY Rangers,NY Rangers,Win,5.5,Over,Win
+Edmonton,LA Kings,2024-04-28 10:38:48,3.019,2.988,6.007,0.501,0.499,1,0,1,Edmonton,Edmonton,Win,6.5,Under,Win
+Tampa Bay,Florida,2024-04-29 10:38:58,2.908,3.245,6.153,0.49,0.51,1,6,7,Florida,Florida,Win,6.5,Under,Loss
+Dallas,Las Vegas,2024-04-29 10:38:58,3.26,3.014,6.274,0.507,0.493,4,2,6,Dallas,Dallas,Win,6.0,Over,Tie
+Toronto,Boston,2024-04-30 10:43:35,3.131,3.195,6.326,0.498,0.502,2,1,3,Boston,Toronto,Loss,5.5,Over,Loss
+NY Islanders,Carolina,2024-04-30 10:43:35,2.772,3.263,6.035,0.486,0.514,3,6,9,Carolina,Carolina,Win,5.5,Over,Win
+Colorado,Winnipeg,2024-04-30 10:43:35,2.978,3.115,6.093,0.496,0.504,6,3,9,Winnipeg,Colorado,Loss,6.5,Under,Loss
+Nashville,Vancouver,2024-04-30 10:43:35,2.958,3.204,6.162,0.493,0.507,2,1,3,Vancouver,Nashville,Loss,5.5,Over,Loss
+Las Vegas,Dallas,2024-05-01 10:43:08,3.014,3.26,6.274,0.493,0.507,2,3,5,Dallas,Dallas,Win,5.5,Over,Loss
+LA Kings,Edmonton,2024-05-01 10:43:08,2.988,3.019,6.007,0.499,0.501,3,4,7,Edmonton,Edmonton,Win,6.5,Under,Loss
+Boston,Toronto,2024-05-02 10:38:48,3.195,3.131,6.326,0.502,0.498,1,2,3,Boston,Toronto,Loss,5.5,Over,Loss
+Vancouver,Nashville,2024-05-03 10:38:51,3.204,2.958,6.162,0.506,0.494,1,0,1,Vancouver,Vancouver,Win,5.5,Over,Loss
+Dallas,Las Vegas,2024-05-03 10:38:51,3.26,3.014,6.274,0.506,0.494,0,2,2,Dallas,Las Vegas,Loss,5.5,Over,Loss
+Toronto,Boston,2024-05-04 10:43:21,3.131,3.195,6.326,0.498,0.502,1,2,3,Boston,Boston,Win,5.5,Over,Loss
+Carolina,NY Rangers,2024-05-05 10:43:27,3.054,2.952,6.006,0.503,0.497,3,4,7,Carolina,NY Rangers,Loss,5.5,Over,Win
+Las Vegas,Dallas,2024-05-05 10:43:27,3.014,3.26,6.274,0.492,0.508,1,2,3,Dallas,Dallas,Win,5.5,Over,Loss
+Boston,Florida,2024-05-06 10:39:39,2.781,2.953,5.735,0.495,0.505,5,1,6,Florida,Boston,Loss,5.5,Over,Win
+Carolina,NY Rangers,2024-05-07 10:41:31,3.054,2.952,6.006,0.502,0.498,3,4,7,Carolina,NY Rangers,Loss,5.5,Over,Win
+Colorado,Dallas,2024-05-07 10:41:31,3.227,3.32,6.547,0.498,0.502,4,3,7,Dallas,Colorado,Loss,6.0,Over,Win
+Boston,Florida,2024-05-08 10:38:56,2.781,2.953,5.735,0.495,0.505,1,6,7,Florida,Florida,Win,5.5,Over,Win
+Edmonton,Vancouver,2024-05-08 10:38:56,3.1,3.129,6.23,0.498,0.502,4,5,9,Vancouver,Vancouver,Win,6.0,Over,Win
+NY Rangers,Carolina,2024-05-09 10:40:38,2.952,3.054,6.006,0.497,0.503,3,2,5,Carolina,NY Rangers,Loss,5.5,Over,Loss
+Colorado,Dallas,2024-05-09 10:40:38,3.227,3.32,6.547,0.497,0.503,3,5,8,Dallas,Dallas,Win,6.5,Over,Win
+Florida,Boston,2024-05-10 10:39:23,2.953,2.781,5.735,0.505,0.495,6,2,8,Florida,Florida,Win,5.5,Over,Win
+Edmonton,Vancouver,2024-05-10 10:39:23,3.1,3.129,6.23,0.499,0.501,4,3,7,Vancouver,Edmonton,Loss,6.0,Over,Win
+NY Rangers,Carolina,2024-05-11 10:39:00,2.952,3.054,6.006,0.498,0.502,3,4,7,Carolina,Carolina,Win,5.5,Over,Win
+Dallas,Colorado,2024-05-11 10:39:00,3.32,3.227,6.547,0.503,0.497,4,1,5,Dallas,Dallas,Win,6.5,Over,Loss
+Florida,Boston,2024-05-12 10:39:28,2.953,2.781,5.735,0.505,0.495,3,2,5,Florida,Florida,Win,5.5,Over,Loss
+Vancouver,Edmonton,2024-05-12 10:39:28,3.129,3.1,6.23,0.5,0.5,4,3,7,Vancouver,Vancouver,Win,6.5,Under,Loss
+Carolina,NY Rangers,2024-05-13 10:39:58,3.054,2.952,6.006,0.502,0.498,4,1,5,Carolina,Carolina,Win,5.5,Over,Loss
+Dallas,Colorado,2024-05-13 10:39:58,3.32,3.227,6.547,0.503,0.497,5,1,6,Dallas,Dallas,Win,6.5,Over,Loss
+Boston,Florida,2024-05-14 10:40:10,2.781,2.953,5.735,0.495,0.505,2,1,3,Florida,Boston,Loss,5.5,Over,Loss
+Vancouver,Edmonton,2024-05-14 10:40:10,3.129,3.1,6.23,0.501,0.499,2,3,5,Vancouver,Edmonton,Loss,6.5,Under,Win
+Colorado,Dallas,2024-05-15 10:41:15,3.227,3.32,6.547,0.497,0.503,5,3,8,Dallas,Colorado,Loss,6.5,Over,Win
+NY Rangers,Carolina,2024-05-16 10:39:21,2.952,3.054,6.006,0.497,0.503,5,3,8,Carolina,NY Rangers,Loss,5.5,Over,Win
+Edmonton,Vancouver,2024-05-16 10:39:21,3.1,3.129,6.23,0.499,0.501,2,3,5,Vancouver,Vancouver,Win,6.5,Under,Win
+Florida,Boston,2024-05-17 10:39:11,2.953,2.781,5.735,0.506,0.494,2,1,3,Florida,Florida,Win,5.5,Over,Loss
+Dallas,Colorado,2024-05-17 10:39:11,3.32,3.227,6.547,0.502,0.498,2,1,3,Dallas,Dallas,Win,6.5,Over,Loss
+Vancouver,Edmonton,2024-05-18 10:39:13,3.129,3.1,6.23,0.501,0.499,1,5,6,Vancouver,Edmonton,Loss,6.0,Over,Tie
+Edmonton,Vancouver,2024-05-19 10:39:27,3.1,3.129,6.23,0.499,0.501,0,0,0,Vancouver,Tie,Loss,6.0,Over,Loss
+Edmonton,Vancouver,2024-05-20 10:41:56,3.1,3.129,6.23,0.5,0.5,3,2,5,Vancouver,Edmonton,Loss,5.5,Over,Loss
+Florida,NY Rangers,2024-05-21 10:39:00,2.986,2.858,5.844,0.504,0.496,0,0,0,Florida,Tie,Loss,5.5,Over,Loss
+Florida,NY Rangers,2024-05-22 10:39:27,2.986,2.858,5.844,0.504,0.496,3,0,3,Florida,Florida,Win,5.5,Over,Loss
+Edmonton,Dallas,2024-05-23 10:40:09,3.174,3.215,6.39,0.499,0.501,3,2,5,Dallas,Edmonton,Loss,6.0,Over,Loss
+Florida,NY Rangers,2024-05-24 10:42:14,2.986,2.858,5.844,0.504,0.496,1,2,3,Florida,NY Rangers,Loss,5.5,Over,Loss
+Edmonton,Dallas,2024-05-25 10:42:34,3.174,3.215,6.39,0.499,0.501,1,3,4,Dallas,Dallas,Win,5.5,Over,Loss
+NY Rangers,Florida,2024-05-26 10:40:40,2.858,2.986,5.844,0.496,0.504,5,4,9,Florida,NY Rangers,Loss,5.5,Over,Win
+Dallas,Edmonton,2024-05-26 10:40:40,3.215,3.174,6.39,0.501,0.499,5,3,8,Dallas,Dallas,Win,5.5,Over,Win
+NY Rangers,Florida,2024-05-28 10:39:54,2.858,2.986,5.844,0.496,0.504,2,3,5,Florida,Florida,Win,5.5,Over,Loss
+Dallas,Edmonton,2024-05-29 10:42:45,3.215,3.174,6.39,0.501,0.499,2,5,7,Dallas,Edmonton,Loss,6.0,Over,Win
+Florida,NY Rangers,2024-05-30 10:39:53,2.986,2.858,5.844,0.504,0.496,3,2,5,Florida,Florida,Win,5.5,Over,Loss
+Edmonton,Dallas,2024-05-31 10:39:29,3.174,3.215,6.39,0.499,0.501,3,1,4,Dallas,Edmonton,Loss,6.0,Over,Loss
+NY Rangers,Florida,2024-06-01 10:39:27,2.858,2.986,5.844,0.497,0.503,1,2,3,Florida,Florida,Win,5.5,Over,Loss
+Dallas,Edmonton,2024-06-02 10:38:40,3.215,3.174,6.39,0.501,0.499,1,2,3,Dallas,Edmonton,Loss,5.5,Over,Loss
+Edmonton,Florida,2024-06-03 10:41:46,2.929,3.05,5.979,0.497,0.503,0,0,0,Florida,Tie,Loss,5.5,Over,Loss
+Edmonton,Florida,2024-06-04 10:40:34,2.929,3.05,5.979,0.496,0.504,0,0,0,Florida,Tie,Loss,5.5,Over,Loss
+Edmonton,Florida,2024-06-05 10:40:08,2.929,3.05,5.979,0.496,0.504,0,0,0,Florida,Tie,Loss,5.5,Over,Loss
+Edmonton,Florida,2024-06-06 10:39:49,2.929,3.05,5.979,0.497,0.503,0,0,0,Florida,Tie,Loss,5.5,Over,Loss
+Edmonton,Florida,2024-06-07 10:40:16,2.929,3.05,5.979,0.497,0.503,0,0,0,Florida,Tie,Loss,5.5,Over,Loss
+Edmonton,Florida,2024-06-08 10:38:58,2.929,3.05,5.979,0.497,0.503,0,3,3,Florida,Florida,Win,5.5,Over,Loss
+Edmonton,Florida,2024-06-09 10:38:43,2.929,3.05,5.979,0.496,0.504,0,0,0,Florida,Tie,Loss,5.5,Over,Loss
+Edmonton,Florida,2024-06-10 10:40:55,2.929,3.05,5.979,0.497,0.503,1,4,5,Florida,Florida,Win,5.5,Over,Loss
+Florida,Edmonton,2024-06-11 10:40:38,3.05,2.929,5.979,0.503,0.497,0,0,0,Florida,Tie,Loss,5.5,Over,Loss
+Florida,Edmonton,2024-06-12 10:42:03,3.05,2.929,5.979,0.503,0.497,0,0,0,Florida,Tie,Loss,5.5,Over,Loss
+Florida,Edmonton,2024-06-13 10:39:41,3.05,2.929,5.979,0.504,0.496,4,3,7,Florida,Florida,Win,5.5,Over,Win
+Florida,Edmonton,2024-06-14 10:39:29,3.05,2.929,5.979,0.503,0.497,0,0,0,Florida,Tie,Loss,5.5,Over,Loss
+Florida,Edmonton,2024-06-15 10:39:19,3.05,2.929,5.979,0.502,0.498,1,8,9,Florida,Edmonton,Loss,5.5,Over,Win
+Edmonton,Florida,2024-06-16 10:39:04,2.929,3.05,5.979,0.497,0.503,0,0,0,Florida,Tie,Loss,5.5,Over,Loss
+Edmonton,Florida,2024-06-17 10:41:44,2.929,3.05,5.979,0.497,0.503,0,0,0,Florida,Tie,Loss,5.5,Over,Loss
+Edmonton,Florida,2024-06-18 10:40:17,2.929,3.05,5.979,0.497,0.503,5,3,8,Florida,Edmonton,Loss,5.5,Over,Win
+Florida,Edmonton,2024-06-19 10:42:42,3.05,2.929,5.979,0.503,0.497,0,0,0,Florida,Tie,Loss,5.5,Over,Loss
+Florida,Edmonton,2024-06-20 10:39:41,3.05,2.929,5.979,0.503,0.497,0,0,0,Florida,Tie,Loss,5.5,Over,Loss
+Florida,Edmonton,2024-06-21 10:40:10,3.05,2.929,5.979,0.503,0.497,1,5,6,Florida,Edmonton,Loss,5.5,Over,Win
+Edmonton,Florida,2024-06-22 10:39:56,2.929,3.05,5.979,0.497,0.503,0,0,0,Florida,Tie,Loss,5.5,Over,Loss
+Edmonton,Florida,2024-06-23 10:38:55,2.929,3.05,5.979,0.497,0.503,0,0,0,Florida,Tie,Loss,5.5,Over,Loss
+Edmonton,Florida,2024-06-24 10:40:29,2.929,3.05,5.979,0.496,0.504,1,2,3,Florida,Florida,Win,5.5,Over,Loss

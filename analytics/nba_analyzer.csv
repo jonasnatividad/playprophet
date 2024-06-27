@@ -1,0 +1,1337 @@
+team_name_1,team_name_2,timestamp,team_1_adj_pts,team_2_adj_pts,total_adj_pts,team_1_win_percentage,team_2_win_percentage,team_1_actual_points,team_2_actual_points,total_actual_points,moneyline_prediction,actual_winner,moneyline_result,total_o_u_points,o_u_prediction,o_u_result,,
+Phoenix,Golden State,10/24/23 0:00,115.14,115.11,230.25,0.5,0.5,108,104,212,Phoenix,Phoenix,Win,232,Under,Win,,
+LA Lakers,Denver,10/24/23 0:00,113.62,115.35,228.97,0.45,0.55,107,119,226,Denver,Denver,Win,227.5,Over,Loss,,
+Atlanta,Charlotte,10/25/23 0:00,117.5,117.5,235,0.51,0.49,110,116,226,Atlanta,Charlotte,Loss,236,Under,Win,,
+Washington,Indiana,10/25/23 0:00,117,117,234,0.51,0.49,120,143,263,Washington,Indiana,Loss,235,Under,Loss,,
+Houston,Orlando,10/25/23 0:00,110.5,110.5,221,0.49,0.51,86,116,202,Orlando,Orlando,Win,220.5,Over,Loss,,
+Boston,NY Knicks,10/25/23 0:00,112.5,112.5,225,0.51,0.49,108,104,212,Boston,Boston,Win,224,Over,Loss,,
+Cleveland,Brooklyn,10/25/23 0:00,110,110,220,0.51,0.49,114,113,227,Cleveland,Cleveland,Win,219.5,Over,Win,,
+Minnesota,Toronto,10/25/23 0:00,112,112,224,0.49,0.51,94,97,191,Toronto,Toronto,Win,223,Over,Loss,,
+Detroit,Miami,10/25/23 0:00,110,110,220,0.49,0.51,102,103,205,Miami,Miami,Win,219,Over,Loss,,
+New Orleans,Memphis,10/25/23 0:00,113,113,226,0.49,0.51,111,104,215,Memphis,New Orleans,Loss,225,Over,Loss,,
+Okla City,Chicago,10/25/23 0:00,114,114,228,0.49,0.51,124,104,228,Chicago,Okla City,Loss,227.5,Over,Win,,
+Sacramento,Utah,10/25/23 0:00,118.5,118.5,237,0.51,0.49,130,114,244,Sacramento,Sacramento,Win,236,Over,Win,,
+Dallas,San Antonio,10/25/23 0:00,115,115,230,0.51,0.49,126,119,245,Dallas,Dallas,Win,229.5,Over,Win,,
+Portland,LA Clippers,10/25/23 0:00,114,114,228,0.49,0.51,111,123,234,LA Clippers,LA Clippers,Win,227.5,Over,Win,,
+Philadelphia,Milwaukee,10/26/23 0:00,113.8,113.5,227.3,0.51,0.49,117,118,235,Philadelphia,Milwaukee,Loss,226,Over,Win,,
+Phoenix,LA Lakers,10/26/23 0:00,113.98,109.86,223.84,0.62,0.39,95,100,195,Phoenix,LA Lakers,Loss,224.5,Under,Win,,
+Denver,Memphis,10/27/23 0:00,114.52,109.524,224.044,0.64,0.36,108,104,212,Denver,Denver,Win,222,Over,Loss,,
+Okla City,Cleveland,10/27/23 0:00,115.071,111.419,226.49,0.6,0.4,108,105,213,Okla City,Okla City,Win,228,Under,Win,,
+Golden State,Sacramento,10/27/23 0:00,113.474,118.527,232.001,0.36,0.64,122,114,236,Sacramento,Golden State,Loss,238,Under,Win,,
+Miami,Boston,10/27/23 0:00,106.748,108.895,215.643,0.44,0.56,111,119,230,Boston,Boston,Win,217.5,Under,Loss,,
+New York,Atlanta,10/27/23 0:00,113.003,111.904,224.907,0.53,0.47,126,120,246,New York,New York,Win,229.5,Under,Loss,,
+Brooklyn,Dallas,10/27/23 0:00,114.609,116.522,231.131,0.45,0.55,120,125,245,Dallas,Dallas,Win,231.5,Under,Loss,,
+LA Clippers,Utah,10/27/23 0:00,121.142,113.913,235.055,0.7,0.3,118,120,238,LA Clippers,Utah,Loss,227,Over,Win,,
+Toronto,Chicago,10/27/23 0:00,111.163,105.486,216.649,0.66,0.35,103,104,207,Toronto,Chicago,Loss,216.5,Over,Loss,,
+Orlando,Portland,10/27/23 0:00,116.905,105.925,222.829,0.78,0.22,102,97,199,Orlando,Orlando,Win,225,Under,Win,,
+Detroit,Charlotte,10/27/23 0:00,109.812,112.117,221.928,0.44,0.57,111,99,210,Charlotte,Detroit,Loss,227,Under,Win,,
+Houston,San Antonio,10/27/23 0:00,110.677,116.648,227.326,0.34,0.67,122,126,248,San Antonio,San Antonio,Win,226,Over,Win,,
+New York,New Orleans,10/28/23 0:00,112.7,112.725,224.106,0.46,0.54,87,96,183,New Orleans,New Orleans,Win,225.5,Under,Win,,
+Philadelphia,Toronto,10/28/23 0:00,106.4,110.159,220.291,0.5,0.5,114,107,221,Philadelphia,Philadelphia,Win,216,Over,Win,,
+Miami,Minnesota,10/28/23 0:00,104.55,107.118,214.239,0.5,0.5,90,106,196,Miami,Minnesota,Loss,218.5,Under,Win,,
+Indiana,Cleveland,10/28/23 0:00,110.35,114.954,233.558,0.6,0.4,125,113,238,Indiana,Indiana,Win,224.5,Over,Win,,
+Utah,Phoenix,10/28/23 0:00,107.6,114.103,226.068,0.44,0.56,104,126,230,Phoenix,Phoenix,Win,221.5,Over,Win,,
+Memphis,Washington,10/28/23 0:00,116.6,113.868,232.878,0.64,0.36,106,113,219,Memphis,Washington,Loss,227,Over,Loss,,
+Chicago,Detroit,10/28/23 0:00,108.4,110.456,219.528,0.46,0.54,102,118,220,Detroit,Detroit,Win,218,Over,Win,,
+Denver,Okla City,10/29/23 0:00,112.433,112.372,224.805,0.5,0.5,128,95,223,Denver,Denver,Win,230.5,Under,Win,,
+LA Lakers,Sacramento,10/29/23 0:00,113.854,116.044,229.898,0.44,0.56,127,132,259,Sacramento,Sacramento,Win,235,Under,Loss,,
+Atlanta,Milwaukee,10/29/23 0:00,116.024,118.545,234.569,0.43,0.57,127,110,237,Milwaukee,Atlanta,Loss,239,Under,Win,,
+Golden State,Houston,10/29/23 0:00,117.656,110.528,228.184,0.69,0.31,106,95,201,Golden State,Golden State,Win,224.5,Over,Loss,,
+Portland,Philadelphia,10/29/23 0:00,109.992,114.775,224.767,0.37,0.63,98,126,224,Philadelphia,Philadelphia,Win,217,Over,Win,,
+San Antonio,LA Clippers,10/29/23 0:00,116.139,120.282,236.421,0.39,0.62,83,123,206,LA Clippers,LA Clippers,Win,228.5,Over,Loss,,
+New York,Cleveland,10/31/23 0:00,110.399,110.348,220.747,0.5,0.5,109,91,200,New York,New York,Win,213.5,Over,Loss,,
+Orlando,LA Clippers,10/31/23 0:00,109.175,111.154,220.329,0.45,0.56,102,118,220,LA Clippers,LA Clippers,Win,219,Over,Win,,
+San Antonio,Phoenix,10/31/23 0:00,109.284,117.404,226.689,0.28,0.72,115,114,229,Phoenix,San Antonio,Loss,226,Over,Win,,
+Orlando,Utah,11/2/23 0:00,113.346,111.804,225.151,0.54,0.46,115,113,228,Orlando,Orlando,Win,221,Over,Win,,
+Toronto,Philadelphia,11/2/23 0:00,109.05,112.019,221.069,0.42,0.58,99,114,213,Philadelphia,Philadelphia,Win,215,Over,Loss,,
+Detroit,New Orleans,11/2/23 0:00,109.625,111.312,220.937,0.45,0.55,116,125,241,New Orleans,New Orleans,Win,218,Over,Win,,
+San Antonio,Phoenix,11/2/23 0:00,110.44,117.119,227.56,0.32,0.68,132,121,253,Phoenix,San Antonio,Loss,226,Over,Win,,
+Dallas,Denver,11/3/23 0:00,112.69,113.424,226.114,0.48,0.52,114,125,239,Denver,Denver,Win,225.5,Over,Win,,
+New York,Milwaukee,11/3/23 0:00,113.152,111.351,224.503,0.55,0.45,105,110,215,New York,Milwaukee,Loss,224.5,Over,Loss,,
+Golden State,Okla City,11/3/23 0:00,114.798,112.307,227.105,0.57,0.43,141,139,280,Golden State,Golden State,Win,226.5,Over,Win,,
+Cleveland,Indiana,11/3/23 0:00,114.585,112.611,227.195,0.56,0.45,116,121,237,Cleveland,Indiana,Loss,224.5,Over,Win,,
+Brooklyn,Chicago,11/3/23 0:00,113.887,111.621,225.508,0.56,0.44,109,107,216,Brooklyn,Brooklyn,Win,222.5,Over,Loss,,
+Washington,Miami,11/3/23 0:00,112.258,113.399,225.657,0.47,0.53,114,121,235,Miami,Miami,Win,225,Over,Win,,
+Memphis,Portland,11/3/23 0:00,112.172,111.766,223.938,0.51,0.49,113,115,228,Memphis,Portland,Loss,222,Over,Win,,
+LA Lakers,Orlando,11/4/23 0:00,112.033,112.265,224.298,0.49,0.51,101,120,221,Orlando,Orlando,Win,220,Over,Win,,
+Phoenix,Philadelphia,11/4/23 0:00,110.491,113.656,224.147,0.41,0.59,100,112,212,Philadelphia,Philadelphia,Win,220.5,Over,Loss,,
+Atlanta,New Orleans,11/4/23 0:00,115.444,114.609,230.053,0.52,0.48,123,105,228,Atlanta,Atlanta,Win,233.5,Under,Win,,
+Boston,Brooklyn,11/4/23 0:00,117.495,111.611,229.106,0.66,0.34,124,114,238,Boston,Boston,Win,229.5,Under,Loss,,
+Utah,Minnesota,11/4/23 0:00,111.835,114.163,225.998,0.44,0.57,95,123,218,Minnesota,Minnesota,Win,225.5,Over,Loss,,
+Chicago,Denver,11/4/23 0:00,108.699,113.069,221.768,0.38,0.62,101,123,224,Denver,Denver,Win,216.5,Over,Win,,
+Sacramento,Houston,11/4/23 0:00,118.721,113.107,231.827,0.66,0.35,89,107,196,Sacramento,Houston,Loss,223.5,Over,Loss,,
+Charlotte,Indiana,11/4/23 0:00,116.789,118.399,235.188,0.46,0.55,125,124,249,Indiana,Charlotte,Loss,238.5,Under,Loss,,
+Golden State,Cleveland,11/5/23 0:00,113.133,110.8,223.932,0.57,0.44,104,115,219,Golden State,Cleveland,Loss,222,Over,Loss,,
+Phoenix,Detroit,11/5/23 0:00,113.344,110.922,224.266,0.57,0.43,120,105,225,Phoenix,Phoenix,Win,221.5,Over,Win,,
+Toronto,San Antonio,11/5/23 0:00,115.202,111.293,226.495,0.61,0.39,123,116,239,Toronto,Toronto,Win,221,Over,Win,,
+Charlotte,Dallas,11/5/23 0:00,114.223,118.347,232.57,0.39,0.62,118,124,242,Dallas,Dallas,Win,235,Under,Loss,,
+Memphis,Portland,11/5/23 0:00,112.623,112.16,224.783,0.51,0.49,112,100,212,Memphis,Memphis,Win,217,Over,Loss,,
+Boston,Minnesota,11/6/23 0:00,114.333,110.792,225.125,0.6,0.4,109,114,223,Boston,Minnesota,Loss,225.5,Under,Win,,
+LA Clippers,New York,11/6/23 0:00,112.36,110.042,222.402,0.56,0.44,97,111,208,LA Clippers,New York,Loss,226.5,Under,Win,,
+Dallas,Orlando,11/6/23 0:00,113.161,112.827,225.987,0.51,0.49,117,102,219,Dallas,Dallas,Win,224.5,Over,Loss,,
+Atlanta,Okla City,11/6/23 0:00,118.534,116.675,235.209,0.55,0.45,117,126,243,Atlanta,Okla City,Loss,236.5,Under,Loss,,
+Milwaukee,Brooklyn,11/6/23 0:00,114.822,115.296,230.118,0.49,0.51,129,125,254,Brooklyn,Milwaukee,Loss,231.5,Under,Loss,,
+LA Lakers,Miami,11/6/23 0:00,112.261,111.815,224.076,0.51,0.49,107,108,215,LA Lakers,Miami,Loss,222.5,Over,Loss,,
+New Orleans,Denver,11/6/23 0:00,109.561,113.364,222.925,0.39,0.61,116,134,250,Denver,Denver,Win,223,Under,Loss,,
+Sacramento,Houston,11/6/23 0:00,115.797,112.596,228.392,0.59,0.41,97,122,219,Sacramento,Houston,Loss,219,Over,Loss,,
+Golden State,Detroit,11/6/23 0:00,116.022,111.709,227.731,0.62,0.38,120,109,229,Golden State,Golden State,Win,227.5,Over,Win,,
+Utah,Chicago,11/6/23 0:00,113.497,113.527,227.024,0.5,0.5,113,130,243,Utah,Chicago,Loss,223,Over,Win,,
+San Antonio,Indiana,11/6/23 0:00,117.742,120.283,238.025,0.43,0.57,111,152,263,Indiana,Indiana,Win,239,Under,Loss,,
+Washington,Philadelphia,11/6/23 0:00,110.622,117.452,228.074,0.32,0.69,128,146,274,Philadelphia,Philadelphia,Win,228.5,Under,Loss,,
+Boston,Minnesota,11/6/23 7:08,114.333,110.792,225.125,0.598,0.402,109,114,223,Boston,Minnesota,Loss,223.5,Over,Loss,,
+Dallas,Orlando,11/6/23 7:08,113.161,112.827,225.987,0.51,0.49,117,102,219,Dallas,Dallas,Win,224,Over,Loss,,
+Atlanta,Okla City,11/6/23 7:08,118.534,116.675,235.209,0.552,0.448,117,126,243,Atlanta,Okla City,Loss,238,Under,Loss,,
+Milwaukee,Brooklyn,11/6/23 7:08,114.822,115.296,230.118,0.487,0.513,129,125,254,Brooklyn,Milwaukee,Loss,233.5,Under,Loss,,
+LA Lakers,Miami,11/6/23 7:08,112.261,111.815,224.076,0.512,0.488,107,108,215,LA Lakers,Miami,Loss,222.5,Over,Loss,,
+New Orleans,Denver,11/6/23 7:08,109.561,113.364,222.925,0.395,0.605,116,134,250,Denver,Denver,Win,221,Over,Win,,
+Sacramento,Houston,11/6/23 7:08,115.797,112.596,228.392,0.589,0.411,97,122,219,Sacramento,Houston,Loss,218.5,Over,Win,,
+Golden State,Detroit,11/6/23 7:08,116.022,111.709,227.731,0.619,0.381,120,109,229,Golden State,Golden State,Win,224.5,Over,Win,,
+Utah,Chicago,11/6/23 7:08,113.497,113.527,227.024,0.499,0.501,113,130,243,Chicago,Chicago,Win,223,Over,Win,,
+San Antonio,Indiana,11/6/23 7:08,117.742,120.283,238.025,0.429,0.571,111,152,263,Indiana,Indiana,Win,238,Over,Win,,
+Washington,Philadelphia,11/6/23 7:08,110.622,117.452,228.074,0.315,0.685,128,146,274,Philadelphia,Philadelphia,Win,228.5,Under,Loss,,
+Boston,Philadelphia,11/8/23 11:15,114.544,113.711,228.255,0.523,0.477,103,106,209,Boston,Philadelphia,Loss,228,Over,Loss,,
+Golden State,Denver,11/8/23 11:15,112.744,114.817,227.561,0.441,0.559,105,108,213,Denver,Denver,Win,228,Under,Win,,
+Cleveland,Okla City,11/8/23 11:15,112.788,112.682,225.47,0.502,0.498,120,128,248,Cleveland,Okla City,Loss,229.5,Under,Loss,,
+Phoenix,Chicago,11/8/23 11:15,112.725,110.874,223.599,0.552,0.448,116,115,231,Phoenix,Phoenix,Win,221,Over,Win,,
+LA Lakers,Houston,11/8/23 11:15,113.7,112.651,226.351,0.529,0.471,94,128,222,LA Lakers,Houston,Loss,218.5,Over,Win,,
+Toronto,Dallas,11/8/23 11:15,112.006,113.328,225.333,0.463,0.537,127,116,243,Dallas,Toronto,Loss,224.5,Over,Win,,
+Miami,Memphis,11/8/23 11:15,111.063,111.17,222.234,0.496,0.504,108,102,210,Memphis,Miami,Loss,218.5,Over,Loss,,
+New Orleans,Minnesota,11/8/23 11:15,110.061,112.999,223.06,0.417,0.583,101,122,223,Minnesota,Minnesota,Win,219,Over,Win,,
+Portland,Sacramento,11/8/23 11:15,112.755,114.446,227.201,0.453,0.547,118,121,239,Sacramento,Sacramento,Win,220.5,Over,Win,,
+Detroit,Milwaukee,11/8/23 11:15,113.272,116.274,229.545,0.416,0.584,118,120,238,Milwaukee,Milwaukee,Win,227,Over,Win,,
+San Antonio,New York,11/8/23 11:15,110.322,116.626,226.948,0.328,0.672,105,126,231,New York,New York,Win,223.5,Over,Win,,
+Utah,Indiana,11/8/23 11:15,117.485,119.822,237.307,0.435,0.565,118,134,252,Indiana,Indiana,Win,244,Under,Loss,,
+Washington,Charlotte,11/8/23 11:15,117.306,117.534,234.839,0.495,0.505,132,116,248,Charlotte,Washington,Loss,241,Under,Loss,,
+Milwaukee,Indiana,11/9/23 11:24,118.713,118.879,237.592,0.495,0.505,124,126,250,Indiana,Indiana,Win,243.5,Under,Loss,,
+Atlanta,Orlando,11/9/23 11:24,114.782,113.664,228.446,0.532,0.468,120,119,239,Atlanta,Atlanta,Win,232.5,Under,Loss,,
+Charlotte,Washington,11/10/23 10:05,117.098,118.184,235.282,0.47,0.53,124,117,241,Washington,Charlotte,Loss,241.5,Under,Win,,
+Philadelphia,Detroit,11/10/23 10:05,116.3,109.573,225.872,0.683,0.317,114,106,220,Philadelphia,Philadelphia,Win,221.5,Over,Loss,,
+Brooklyn,Boston,11/10/23 10:05,111.806,116.045,227.851,0.382,0.618,107,121,228,Boston,Boston,Win,226,Over,Win,,
+New Orleans,Houston,11/10/23 10:05,111.998,112.794,224.792,0.477,0.523,101,104,205,Houston,Houston,Win,217.5,Over,Loss,,
+Utah,Memphis,11/10/23 10:05,114.123,115.755,229.878,0.454,0.546,127,121,248,Memphis,Utah,Loss,229.5,Over,Win,,
+Minnesota,San Antonio,11/10/23 10:05,118.82,110.697,229.518,0.717,0.283,117,110,227,Minnesota,Minnesota,Win,225.5,Over,Win,,
+LA Lakers,Phoenix,11/10/23 10:05,112.124,114.467,226.591,0.434,0.566,122,119,241,Phoenix,LA Lakers,Loss,222.5,Over,Win,,
+Okla City,Sacramento,11/10/23 10:05,117.499,116.449,233.948,0.529,0.471,98,105,203,Okla City,Sacramento,Loss,224.5,Over,Loss,,
+Milwaukee,Orlando,11/11/23 11:36,114.024,113.829,227.853,0.505,0.495,97,112,209,Milwaukee,Orlando,Loss,232,Under,Win,,
+Toronto,Boston,11/11/23 11:36,110.422,114.215,224.638,0.394,0.606,94,117,211,Boston,Boston,Win,222,Over,Loss,,
+Miami,Atlanta,11/11/23 11:36,112.854,114.656,227.51,0.45,0.55,117,109,226,Atlanta,Miami,Loss,229,Under,Win,,
+Cleveland,Golden State,11/11/23 11:36,111.612,112.843,224.454,0.466,0.534,118,110,228,Golden State,Cleveland,Loss,223.5,Over,Win,,
+Charlotte,New York,11/12/23 11:15,110.595,115.108,225.703,0.375,0.625,107,129,236,New York,New York,Win,225.5,Over,Win,,
+Washington,Brooklyn,11/12/23 11:15,114.919,116.872,231.791,0.445,0.555,94,102,196,Brooklyn,Brooklyn,Win,234.5,Under,Win,,
+Memphis,LA Clippers,11/12/23 11:15,112.825,114.4,227.225,0.455,0.545,105,101,206,LA Clippers,Memphis,Loss,225.5,Over,Loss,,
+Indiana,Philadelphia,11/12/23 11:15,114.783,118.33,233.112,0.401,0.599,126,137,263,Philadelphia,Philadelphia,Win,239,Under,Loss,,
+Miami,San Antonio,11/12/23 11:15,116.178,111.236,227.415,0.636,0.364,118,113,231,Miami,Miami,Win,225.5,Over,Win,,
+Detroit,Chicago,11/12/23 11:15,111.417,113.445,224.862,0.443,0.557,108,119,227,Chicago,Chicago,Win,219.5,Over,Win,,
+Dallas,New Orleans,11/12/23 11:15,115.871,113.177,229.047,0.575,0.425,136,124,260,Dallas,Dallas,Win,233.5,Under,Loss,,
+Denver,Houston,11/12/23 11:15,113.963,109.792,223.755,0.616,0.384,104,107,211,Denver,Houston,Loss,217.5,Over,Loss,,
+Okla City,Phoenix,11/12/23 11:15,114.501,114.792,229.293,0.492,0.508,111,99,210,Phoenix,Okla City,Loss,235,Under,Win,,
+Minnesota,Golden State,11/12/23 11:15,113.75,112.489,226.239,0.537,0.463,116,110,226,Minnesota,Minnesota,Win,223.5,Over,Win,,
+Portland,LA Lakers,11/12/23 11:15,112.806,113.799,226.605,0.472,0.528,110,116,226,LA Lakers,LA Lakers,Win,218.5,Over,Win,,
+Washington,Toronto,11/13/23 11:16,112.504,114.642,227.146,0.44,0.56,107,111,218,Toronto,Toronto,Win,228,Under,Win,,
+Chicago,Milwaukee,11/13/23 11:16,113.945,114.383,228.328,0.488,0.512,109,118,227,Milwaukee,Milwaukee,Win,229,Under,Win,,
+New York,Boston,11/13/23 11:16,110.34,112.787,223.127,0.432,0.568,98,114,212,Boston,Boston,Win,221,Over,Loss,,
+Cleveland,Sacramento,11/13/23 11:16,113.118,112.379,225.497,0.521,0.479,120,132,252,Cleveland,Sacramento,Loss,223.5,Over,Win,,
+Atlanta,Detroit,11/14/23 11:24,117.791,113.737,231.528,0.613,0.387,126,120,246,Atlanta,Atlanta,Win,233,Under,Loss,,
+Miami,Charlotte,11/14/23 11:24,114.597,111.583,226.18,0.584,0.416,111,105,216,Miami,Miami,Win,224.5,Over,Loss,,
+Indiana,Philadelphia,11/14/23 11:24,115.309,119.232,234.542,0.391,0.609,132,126,258,Philadelphia,Indiana,Loss,240.5,Under,Loss,,
+San Antonio,Okla City,11/14/23 11:24,114.144,120.073,234.217,0.337,0.663,87,123,210,Okla City,Okla City,Win,237,Under,Win,,
+Orlando,Brooklyn,11/14/23 11:24,111.721,111.417,223.137,0.509,0.491,104,124,228,Orlando,Brooklyn,Loss,217.5,Over,Win,,
+Dallas,New Orleans,11/14/23 11:24,116.751,113.782,230.532,0.583,0.417,110,131,241,Dallas,New Orleans,Loss,239.5,Under,Loss,,
+Portland,Utah,11/14/23 11:24,114.743,115.024,229.767,0.493,0.507,99,115,214,Utah,Utah,Win,228.5,Over,Loss,,
+Minnesota,Golden State,11/14/23 11:24,113.975,112.599,226.574,0.539,0.461,104,101,205,Minnesota,Minnesota,Win,221.5,Over,Loss,,
+Memphis,LA Lakers,11/14/23 11:24,113.988,113.575,227.563,0.511,0.489,107,134,241,Memphis,LA Lakers,Loss,226,Over,Win,,
+Dallas,Washington,11/15/23 11:16,118.475,115.345,233.82,0.587,0.413,130,117,247,Dallas,Dallas,Win,243,Under,Loss,,
+New York,Atlanta,11/15/23 11:16,114.454,113.576,228.03,0.524,0.476,116,114,230,New York,New York,Win,230,Under,Win,,
+Boston,Philadelphia,11/15/23 11:16,114.492,112.834,227.326,0.547,0.453,117,107,224,Boston,Boston,Win,223.5,Over,Win,,
+Milwaukee,Toronto,11/15/23 11:16,113.308,113.265,226.573,0.501,0.499,128,112,240,Milwaukee,Milwaukee,Win,226.5,Over,Win,,
+Orlando,Chicago,11/15/23 11:16,111.545,111.125,222.669,0.512,0.488,96,94,190,Orlando,Orlando,Win,216,Over,Loss,,
+Minnesota,Phoenix,11/15/23 11:16,112.823,110.935,223.758,0.553,0.447,115,133,248,Minnesota,Phoenix,Loss,227,Under,Loss,,
+Sacramento,LA Lakers,11/15/23 11:16,116.022,115.423,231.445,0.517,0.483,125,110,235,Sacramento,Sacramento,Win,233,Under,Loss,,
+Cleveland,Portland,11/15/23 11:16,112.809,109.875,222.684,0.582,0.418,109,95,204,Cleveland,Cleveland,Win,221.5,Over,Loss,,
+Okla City,Golden State,11/16/23 11:16,115.289,114.773,230.062,0.515,0.485,128,109,237,Okla City,Okla City,Win,227.5,Over,Win,,
+Milwaukee,Charlotte,11/17/23 11:16,118.268,114.391,232.66,0.608,0.392,130,99,229,Milwaukee,Milwaukee,Win,235.5,Under,Win,,
+New York,Washington,11/17/23 11:16,115.144,111.31,226.453,0.608,0.392,120,99,219,New York,New York,Win,228,Under,Win,,
+Philadelphia,Atlanta,11/17/23 11:16,117.249,115.129,232.378,0.559,0.441,126,116,242,Philadelphia,Philadelphia,Win,236,Under,Loss,,
+Boston,Toronto,11/17/23 11:16,114.547,109.544,224.091,0.638,0.362,108,105,213,Boston,Boston,Win,218,Over,Loss,,
+Detroit,Cleveland,11/17/23 11:16,109.899,113.81,223.709,0.39,0.61,100,108,208,Cleveland,Cleveland,Win,220.5,Over,Loss,,
+Sacramento,San Antonio,11/17/23 11:16,120.46,113.856,234.316,0.68,0.32,129,120,249,Sacramento,Sacramento,Win,237.5,Under,Loss,,
+Orlando,Chicago,11/17/23 11:16,110.895,110.475,221.37,0.511,0.489,103,97,200,Orlando,Orlando,Win,216,Over,Loss,,
+Denver,New Orleans,11/17/23 11:16,114.499,110.681,225.18,0.607,0.393,110,115,225,Denver,New Orleans,Loss,224.5,Over,Win,,
+LA Lakers,Portland,11/17/23 11:16,114.55,112.302,226.852,0.564,0.436,107,95,202,LA Lakers,LA Lakers,Win,222.5,Over,Loss,,
+Phoenix,Utah,11/17/23 11:16,116.198,113.913,230.111,0.564,0.436,131,128,259,Phoenix,Phoenix,Win,236.5,Under,Loss,,
+Houston,LA Clippers,11/17/23 11:16,111.746,112.823,224.57,0.469,0.531,100,106,206,LA Clippers,LA,Loss,219,Over,Loss,,
+New York,Charlotte,11/18/23 11:19,115.909,110.155,226.064,0.658,0.342,122,108,230,New York,New York,Win,226.5,Under,Loss,,
+Minnesota,New Orleans,11/18/23 11:19,113.775,111.694,225.468,0.558,0.442,121,120,241,Minnesota,Minnesota,Win,221.5,Over,Win,,
+Miami,Chicago,11/18/23 11:19,110.722,109.925,220.647,0.523,0.477,97,102,199,Miami,Chicago,Loss,214,Over,Loss,,
+Dallas,Milwaukee,11/18/23 11:19,116.91,116.974,233.884,0.498,0.502,125,132,257,Milwaukee,Milwaukee,Win,242.5,Under,Loss,,
+Memphis,San Antonio,11/18/23 11:19,117.91,113.295,231.205,0.628,0.372,120,108,228,Memphis,Memphis,Win,224,Over,Win,,
+Okla City,Golden State,11/18/23 11:19,115.865,114.648,230.513,0.534,0.466,130,123,253,Okla City,Okla City,Win,230.5,Over,Win,,
+Philadelphia,Brooklyn,11/19/23 11:23,114.854,112.32,227.175,0.571,0.429,121,99,220,Philadelphia,Philadelphia,Win,223,Over,Loss,,
+Detroit,Toronto,11/19/23 11:23,110.524,113.51,224.034,0.416,0.584,113,142,255,Toronto,Toronto,Win,217.5,Over,Win,,
+Orlando,Indiana,11/19/23 11:23,115.373,115.507,230.88,0.497,0.503,128,116,244,Indiana,Orlando,Loss,234,Under,Loss,,
+Denver,Cleveland,11/19/23 11:23,111.737,109.872,221.608,0.553,0.447,109,121,230,Denver,Cleveland,Loss,216.5,Over,Win,,
+Sacramento,Dallas,11/19/23 11:23,117.474,117.518,234.991,0.499,0.501,129,113,242,Dallas,Sacramento,Loss,245.5,Under,Win,,
+Boston,Memphis,11/19/23 11:23,115.837,110.554,226.39,0.645,0.355,102,100,202,Boston,Boston,Win,222.5,Over,Loss,,
+Phoenix,Utah,11/19/23 11:23,116.825,114.539,231.364,0.564,0.436,140,137,277,Phoenix,Phoenix,Win,239,Under,Loss,,
+Okla City,Portland,11/19/23 11:23,116.111,111.488,227.599,0.628,0.372,134,91,225,Okla City,Okla City,Win,226,Over,Loss,,
+Houston,LA Lakers,11/19/23 11:23,112.552,113.27,225.822,0.48,0.52,104,105,209,LA Lakers,LA Lakers,Win,220.5,Over,Loss,,
+Boston,Charlotte,11/20/23 11:16,118.441,110.108,228.549,0.722,0.278,118,121,239,Boston,Charlotte,Loss,232,Under,Loss,,
+Denver,Detroit,11/20/23 11:16,116.015,109.85,225.865,0.668,0.332,107,103,210,Denver,Denver,Win,222,Over,Loss,,
+Milwaukee,Washington,11/20/23 11:16,118.375,114.497,232.872,0.608,0.392,142,129,271,Milwaukee,Milwaukee,Win,245,Under,Loss,,
+Miami,Chicago,11/20/23 11:16,110.197,109.649,219.846,0.516,0.484,118,100,218,Miami,Miami,Win,210,Over,Win,,
+New York,Minnesota,11/20/23 11:16,111.798,111.062,222.86,0.521,0.479,100,117,217,New York,Minnesota,Loss,214,Over,Win,,
+Sacramento,New Orleans,11/20/23 11:16,116.328,114.691,231.019,0.547,0.453,93,129,222,Sacramento,New Orleans,Loss,237,Under,Win,,
+Houston,Golden State,11/20/23 11:16,112.498,113.936,226.434,0.459,0.541,116,121,237,Golden State,Golden State,Win,221,Over,Win,,
+Toronto,Orlando,11/21/23 11:17,111.047,110.725,221.772,0.509,0.491,107,126,233,Toronto,Orlando,Loss,215,Over,Win,,
+Cleveland,Philadelphia,11/21/23 11:17,111,112.848,223.848,0.448,0.552,122,119,241,Philadelphia,Cleveland,Loss,220.5,Over,Win,,
+Indiana,Atlanta,11/21/23 11:17,119.516,120.343,239.859,0.477,0.523,157,152,309,Atlanta,Indiana,Loss,251,Under,Loss,,
+Portland,Phoenix,11/21/23 11:17,110.963,115.325,226.288,0.379,0.621,107,120,227,Phoenix,Phoenix,Win,224.5,Over,Win,,
+Utah,LA Lakers,11/21/23 11:17,115.719,117.013,232.731,0.463,0.537,99,131,230,LA Lakers,LA Lakers,Win,235.5,Under,Win,,
+Washington,Charlotte,11/22/23 11:17,116.918,115.821,232.739,0.53,0.47,114,117,231,Washington,Charlotte,Loss,242,Under,Win,,
+Denver,Orlando,11/22/23 11:17,112.258,110.172,222.43,0.558,0.442,119,124,243,Denver,Orlando,Loss,217.5,Over,Win,,
+Miami,Cleveland,11/22/23 11:17,109.35,110.242,219.592,0.475,0.525,129,96,225,Cleveland,Miami,Loss,213,Over,Win,,
+Brooklyn,Atlanta,11/22/23 11:17,116.1,116.567,232.667,0.486,0.514,145,147,292,Atlanta,Atlanta,Win,234,Under,Loss,,
+Milwaukee,Boston,11/22/23 11:17,113.712,116.398,230.11,0.424,0.576,116,119,235,Boston,Boston,Win,235.5,Under,Win,,
+Toronto,Indiana,11/22/23 11:17,117.071,116.78,233.851,0.509,0.491,132,131,263,Toronto,Toronto,Win,237.5,Under,Loss,,
+Chicago,Okla City,11/22/23 11:17,111.683,114.819,226.502,0.412,0.588,102,116,218,Okla City,Okla City,Win,224.5,Over,Loss,,
+Memphis,Houston,11/22/23 11:17,112.6,111.913,224.513,0.519,0.481,91,111,202,Memphis,Houston,Loss,213.5,Over,Loss,,
+Philadelphia,Minnesota,11/22/23 11:17,113.908,112.64,226.548,0.537,0.463,99,112,211,Philadelphia,Minnesota,Loss,219.5,Over,Loss,,
+Sacramento,New Orleans,11/22/23 11:17,115.479,115.266,230.745,0.506,0.494,112,117,229,Sacramento,New Orleans,Loss,237.5,Under,Win,,
+Golden State,Phoenix,11/22/23 11:17,114.768,115.275,230.043,0.486,0.514,115,123,238,Phoenix,Phoenix,Win,233,Under,Loss,,
+Utah,Portland,11/22/23 11:17,115.924,114.142,230.067,0.55,0.45,105,121,226,Utah,Portland,Loss,226,Over,Tie,,
+Dallas,LA Lakers,11/22/23 11:17,116.228,115.968,232.196,0.507,0.493,104,101,205,Dallas,Dallas,Win,236,Under,Win,,
+Boston,Orlando,11/24/23 11:16,113.856,110.243,224.1,0.6,0.4,96,113,209,Boston,Orlando,Loss,223.5,Over,Loss,,
+Phoenix,Memphis,11/24/23 11:16,114.569,112.646,227.216,0.554,0.446,110,89,199,Phoenix,Phoenix,Win,223,Over,Loss,,
+Chicago,Toronto,11/24/23 11:16,110.917,111.924,222.841,0.471,0.529,108,121,229,Toronto,Toronto,Win,216.5,Over,Win,,
+Miami,New York,11/24/23 11:16,109.472,110.311,219.783,0.476,0.524,98,100,198,New York,New York,Win,211.5,Over,Loss,,
+Denver,Houston,11/24/23 11:16,113.319,110.125,223.444,0.589,0.411,86,105,191,Denver,Houston,Loss,216.5,Over,Loss,,
+Detroit,Indiana,11/24/23 11:16,116.242,119.723,235.965,0.404,0.596,113,136,249,Indiana,Indiana,Win,247,Under,Loss,,
+Washington,Milwaukee,11/24/23 11:16,114.997,118.95,233.947,0.389,0.611,128,131,259,Milwaukee,Milwaukee,Win,247,Under,Loss,,
+Sacramento,Minnesota,11/24/23 11:16,114.022,115.417,229.439,0.461,0.539,124,111,235,Minnesota,Sacramento,Loss,229.5,Under,Loss,,
+San Antonio,Golden State,11/24/23 11:16,113.332,119.497,232.83,0.332,0.668,112,118,230,Golden State,Golden State,Win,234.5,Under,Win,,
+New Orleans,LA Clippers,11/24/23 11:16,112.642,113.35,225.992,0.48,0.52,116,106,222,LA Clippers,New Orleans,Loss,224,Over,Loss,,
+Philadelphia,Okla City,11/25/23 11:14,114.816,114.669,229.485,0.504,0.496,127,123,250,Philadelphia,Philadelphia,Win,230.5,Under,Loss,,
+Miami,Brooklyn,11/25/23 11:14,111.979,111.065,223.044,0.527,0.473,97,112,209,Miami,Brooklyn,Loss,218.5,Over,Loss,,
+Atlanta,Washington,11/25/23 11:14,120.247,117.464,237.711,0.578,0.422,136,108,244,Atlanta,Atlanta,Win,248.5,Under,Win,,
+LA Lakers,Cleveland,11/25/23 11:14,111.95,112.392,224.342,0.488,0.512,121,115,236,Cleveland,LA Lakers,Loss,224,Over,Win,,
+New Orleans,Utah,11/25/23 11:14,117.109,114.49,231.599,0.573,0.427,100,105,205,New Orleans,Utah,Loss,233.5,Under,Win,,
+Dallas,LA Clippers,11/25/23 11:14,114.682,114.862,229.544,0.495,0.505,88,107,195,LA Clippers,LA,Loss,237.5,Under,Win,,
+Washington,Detroit,11/27/23 11:17,116.087,114.798,230.884,0.536,0.464,126,107,233,Washington,Washington,Win,234,Under,Win,,
+Portland,Indiana,11/27/23 11:17,115.473,118.741,234.214,0.409,0.591,114,110,224,Indiana,Portland,Loss,241,Under,Win,,
+LA Lakers,Philadelphia,11/27/23 11:17,113.039,115.167,228.206,0.44,0.56,94,138,232,Philadelphia,Philadelphia,Win,231.5,Under,Loss,,
+New Orleans,Utah,11/27/23 11:17,116.563,114.215,230.778,0.566,0.434,112,114,226,New Orleans,Utah,Loss,229.5,Over,Loss,,
+Denver,LA Clippers,11/27/23 11:17,112.513,111.541,224.053,0.527,0.473,113,104,217,Denver,Denver,Win,219,Over,Loss,,
+Milwaukee,Miami,11/28/23 11:16,113.433,112.532,225.965,0.526,0.474,131,124,255,Milwaukee,Milwaukee,Win,225.5,Over,Win,,
+Atlanta,Cleveland,11/28/23 11:16,115.085,115.244,230.329,0.495,0.505,105,128,233,Cleveland,Cleveland,Win,236.5,Under,Win,,
+Chicago,Boston,11/28/23 11:16,109.425,114.079,223.503,0.371,0.629,97,124,221,Boston,Boston,Win,217,Over,Win,,
+Toronto,Brooklyn,11/28/23 11:16,112.849,112.846,225.694,0.501,0.499,103,115,218,Toronto,Brooklyn,Loss,223,Over,Loss,,
+Charlotte,New York,11/28/23 11:16,110.608,115.734,226.343,0.358,0.642,91,115,206,New York,New York,Win,221.5,Over,Loss,,
+Okla City,Minnesota,11/28/23 11:16,114.613,114.075,228.688,0.514,0.486,103,106,209,Okla City,Minnesota,Loss,227.5,Over,Loss,,
+Houston,Dallas,11/28/23 11:16,113.135,114.119,227.254,0.473,0.527,115,121,236,Dallas,Dallas,Win,230.5,Under,Loss,,
+Golden State,Sacramento,11/28/23 11:16,116.375,116.568,232.943,0.495,0.505,123,124,247,Sacramento,Sacramento,Win,238.5,Under,Loss,,
+LA Lakers,Detroit,11/29/23 11:16,116.057,112.226,228.284,0.607,0.393,133,107,240,LA Lakers,LA Lakers,Win,229.5,Under,Loss,,
+Washington,Orlando,11/29/23 11:16,112.658,115.544,228.202,0.419,0.581,120,139,259,Orlando,Orlando,Win,234,Under,Loss,,
+Phoenix,Toronto,11/29/23 11:16,113.662,112.4,226.062,0.536,0.464,105,112,217,Phoenix,Toronto,Loss,222.5,Over,Loss,,
+Utah,Memphis,11/29/23 11:16,114.57,114.997,229.567,0.489,0.511,91,105,196,Memphis,Memphis,Win,224,Over,Loss,,
+Philadelphia,New Orleans,11/29/23 11:16,114.904,112.267,227.172,0.574,0.426,114,124,238,Philadelphia,New Orleans,Loss,227.5,Under,Loss,,
+Houston,Denver,11/29/23 11:16,110.15,113.12,223.27,0.416,0.584,124,134,258,Denver,Denver,Win,217,Over,Win,,
+Portland,Cleveland,11/30/23 11:16,109.225,113.186,222.411,0.39,0.61,103,95,198,Cleveland,Portland,Loss,220.5,Over,Loss,,
+Charlotte,Brooklyn,11/30/23 11:16,112.424,116.641,229.064,0.382,0.618,129,128,257,Brooklyn,Charlotte,Loss,226,Over,Win,,
+Detroit,New York,11/30/23 11:16,109.072,115.254,224.326,0.33,0.67,112,118,230,New York,New York,Win,218,Over,Win,,
+Indiana,Miami,11/30/23 11:16,115.32,115.837,231.157,0.486,0.514,132,142,274,Miami,Miami,Win,239.5,Under,Loss,,
+Atlanta,San Antonio,11/30/23 11:16,121.791,115.729,237.521,0.665,0.335,137,135,272,Atlanta,Atlanta,Win,246,Under,Loss,,
+Milwaukee,Chicago,11/30/23 11:16,115.526,112.63,228.156,0.581,0.419,113,120,233,Milwaukee,Chicago,Loss,228,Over,Win,,
+LA Lakers,Okla City,11/30/23 11:16,114.149,116.136,230.285,0.444,0.556,110,133,243,Okla City,Okla City,Win,231.5,Under,Loss,,
+Utah,Minnesota,11/30/23 11:16,112.88,116.4,229.28,0.401,0.599,90,101,191,Minnesota,Minnesota,Win,221,Over,Loss,,
+Washington,Orlando,12/1/23 11:16,112.885,116.125,229.009,0.41,0.59,125,130,255,Orlando,Orlando,Win,238.5,Under,Loss,,
+Philadelphia,Boston,12/1/23 11:16,112.801,113.869,226.671,0.47,0.53,119,125,244,Boston,Boston,Win,222.5,Over,Win,,
+Memphis,Dallas,12/1/23 11:16,113.445,114.807,228.252,0.462,0.538,108,94,202,Dallas,Memphis,Loss,228.5,Under,Win,,
+New York,Toronto,12/1/23 11:16,112,110.284,222.284,0.548,0.452,119,106,225,New York,New York,Win,217.5,Over,Win,,
+San Antonio,New Orleans,12/1/23 11:16,112.6,118.651,231.251,0.335,0.665,106,121,227,New Orleans,New Orleans,Win,232.5,Under,Win,,
+Denver,Phoenix,12/1/23 11:16,113.72,112.675,226.396,0.53,0.47,119,111,230,Denver,Denver,Win,224,Over,Win,,
+New York,Milwaukee,12/1/23 11:16,114.06,113.483,227.544,0.517,0.483,119,106,225,New York,New York,Win,222.5,Over,Win,,
+Golden State,LA Clippers,12/2/23 11:15,114.024,114.419,228.443,0.489,0.511,112,113,225,LA Clippers,LA,Loss,229,Under,Win,,
+Minnesota,Charlotte,12/2/23 11:15,116.637,111.321,227.958,0.646,0.354,123,117,240,Minnesota,Minnesota,Win,220,Over,Win,,
+Orlando,Brooklyn,12/2/23 11:15,113.275,112.817,226.092,0.513,0.487,101,129,230,Orlando,Brooklyn,Loss,227,Under,Loss,,
+Cleveland,Detroit,12/2/23 11:15,114.689,109.524,224.213,0.643,0.357,110,101,211,Cleveland,Cleveland,Win,224,Over,Loss,,
+Indiana,Miami,12/2/23 11:15,115.708,116.522,232.23,0.477,0.523,144,129,273,Miami,Indiana,Loss,240.5,Under,Loss,,
+Atlanta,Milwaukee,12/2/23 11:15,118.3,119.498,237.798,0.466,0.534,121,132,253,Milwaukee,Milwaukee,Win,251,Under,Loss,,
+New Orleans,Chicago,12/2/23 11:15,113.171,111.241,224.412,0.555,0.445,118,124,242,New Orleans,Chicago,Loss,220.5,Over,Win,,
+Okla City,Dallas,12/2/23 11:15,117.093,114.918,232.012,0.56,0.44,126,120,246,Okla City,Okla City,Win,235,Under,Loss,,
+Memphis,Phoenix,12/2/23 11:15,111.871,113.617,225.488,0.451,0.549,109,116,225,Phoenix,Phoenix,Win,220.5,Over,Win,,
+Portland,Utah,12/2/23 11:15,113.605,114.45,228.055,0.477,0.523,113,118,231,Utah,Utah,Win,222,Over,Win,,
+Denver,Sacramento,12/2/23 11:15,116.069,114.209,230.278,0.552,0.448,117,123,240,Denver,Sacramento,Loss,230.5,Under,Loss,,
+Houston,LA Lakers,12/2/23 11:15,112.807,113.747,226.554,0.473,0.527,97,107,204,LA Lakers,LA Lakers,Win,221.5,Over,Loss,,
+New Orleans,Sacramento,12/2/23 11:15,115.689,115.367,231.056,0.509,0.491,118,124,242,New Orleans,Chicago,Loss,233,Under,Loss,,
+Boston,Indiana,12/3/23 11:15,119.688,115.656,235.344,0.612,0.388,0,0,0,Boston,Tie,Loss,238.5,Under,Win,,
+New Orleans,Sacramento,12/3/23 11:15,115.74,115.593,231.333,0.504,0.496,0,0,0,New Orleans,Tie,Loss,233,Under,Win,,
+Boston,Indiana,12/4/23 11:16,119.688,115.656,235.344,0.612,0.388,112,122,234,Boston,Indiana,Loss,241.5,Under,Win,,
+New Orleans,Sacramento,12/4/23 11:17,115.74,115.593,231.333,0.504,0.496,127,117,244,New Orleans,New Orleans,Win,236,Under,Loss,,New York,Milwaukee,2023-12-05 11:16:15,114.237,113.653,227.889,0.516,0.484,122,146,268,New York,Milwaukee,Loss,226.5,Over,Win
+Phoenix,LA Lakers,2023-12-05 11:16:16,114.7,113.572,228.272,0.531,0.469,103,106,209,Phoenix,LA Lakers,Loss,228.0,Over,Loss
+Orlando,Cleveland,2023-12-06 11:16:50,110.832,111.499,222.331,0.481,0.519,111,121,232,Cleveland,Cleveland,Win,222.5,Under,Loss
+Memphis,Detroit,2023-12-06 11:16:50,114.592,111.067,225.659,0.597,0.403,116,102,218,Memphis,Memphis,Win,219.0,Over,Loss
+Philadelphia,Washington,2023-12-06 11:16:50,118.316,113.287,231.604,0.639,0.361,131,126,257,Philadelphia,Philadelphia,Win,239.0,Under,Loss
+Brooklyn,Atlanta,2023-12-06 11:16:51,117.487,116.812,234.3,0.519,0.481,114,113,227,Brooklyn,Brooklyn,Win,242.0,Under,Win
+Miami,Toronto,2023-12-06 11:16:51,111.499,111.247,222.747,0.507,0.493,112,103,215,Miami,Miami,Win,219.5,Over,Loss
+San Antonio,Minnesota,2023-12-06 11:16:51,111.447,118.629,230.076,0.306,0.694,94,102,196,Minnesota,Minnesota,Win,227.5,Over,Loss
+Charlotte,Chicago,2023-12-06 11:16:51,112.375,114.878,227.253,0.431,0.569,100,111,211,Chicago,Chicago,Win,221.0,Over,Loss
+Okla City,Houston,2023-12-06 11:16:51,115.666,112.161,227.827,0.598,0.402,101,110,211,Okla City,Houston,Loss,227.0,Over,Loss
+Utah,Dallas,2023-12-06 11:16:51,115.323,117.221,232.543,0.447,0.553,97,147,244,Dallas,Dallas,Win,227.5,Over,Win
+Denver,LA Clippers,2023-12-06 11:16:51,113.263,111.992,225.256,0.536,0.464,102,111,213,Denver,LA,Loss,226.0,Under,Win
+Portland,Golden State,2023-12-06 11:16:52,112.382,115.546,227.928,0.412,0.588,106,110,216,Golden State,Golden State,Win,225.5,Over,Loss
+Indiana,Milwaukee,2023-12-07 11:16:49,119.184,120.992,240.177,0.449,0.551,128,119,247,Milwaukee,Indiana,Loss,255.0,Under,Win
+New Orleans,LA Lakers,2023-12-07 11:16:49,114.35,113.623,227.973,0.521,0.479,89,133,222,New Orleans,LA Lakers,Loss,229.5,Under,Win
+Atlanta,Philadelphia,2023-12-08 11:16:42,116.122,118.74,234.862,0.427,0.573,114,125,239,Philadelphia,Philadelphia,Win,241.5,Under,Win
+Toronto,Charlotte,2023-12-08 11:16:42,115.538,111.975,227.513,0.6,0.4,116,119,235,Toronto,Charlotte,Loss,223.0,Over,Win
+Detroit,Orlando,2023-12-08 11:16:42,110.892,115.467,226.359,0.373,0.627,91,123,214,Orlando,Orlando,Win,230.0,Under,Win
+New York,Boston,2023-12-08 11:16:42,111.138,113.018,224.156,0.447,0.553,123,133,256,Boston,Boston,Win,220.5,Over,Win
+Washington,Brooklyn,2023-12-08 11:16:43,114.145,117.169,231.314,0.416,0.584,97,124,221,Brooklyn,Brooklyn,Win,239.5,Under,Win
+Cleveland,Miami,2023-12-08 11:16:43,110.774,109.919,220.693,0.525,0.475,111,99,210,Cleveland,Cleveland,Win,219.0,Over,Loss
+Golden State,Okla City,2023-12-08 11:16:43,115.118,116.667,231.785,0.456,0.544,136,138,274,Okla City,Okla City,Win,236.0,Under,Loss
+Minnesota,Memphis,2023-12-08 11:16:43,112.922,110.799,223.721,0.56,0.44,127,103,230,Minnesota,Minnesota,Win,214.5,Over,Win
+Chicago,San Antonio,2023-12-08 11:16:43,116.477,111.95,228.427,0.625,0.375,121,112,233,Chicago,Chicago,Win,225.5,Over,Win
+Sacramento,Phoenix,2023-12-08 11:16:44,115.414,116.09,231.504,0.48,0.52,114,106,220,Phoenix,Sacramento,Loss,235.0,Under,Win
+Houston,Denver,2023-12-08 11:16:44,110.575,113.696,224.271,0.412,0.588,114,106,220,Denver,Houston,Loss,219.5,Over,Win
+Dallas,Portland,2023-12-08 11:16:44,115.769,112.382,228.151,0.594,0.406,125,112,237,Dallas,Dallas,Win,227.5,Over,Win
+Indiana,LA Lakers,2023-12-09 11:15:10,117.946,118.391,236.336,0.487,0.513,109,123,232,LA Lakers,LA Lakers,Win,241.0,Under,Win
+Miami,Charlotte,2023-12-10 11:14:46,114.921,111.221,226.142,0.604,0.396,0,0,0,Miami,Tie,Loss,220.5,Over,Loss
+Cleveland,Orlando,2023-12-10 11:14:46,111.525,110.728,222.253,0.523,0.477,0,0,0,Cleveland,Tie,Loss,225.5,Under,Win
+Indiana,Detroit,2023-12-10 11:14:46,120.112,115.467,235.579,0.628,0.372,0,0,0,Indiana,Tie,Loss,246.5,Under,Win
+Washington,Philadelphia,2023-12-10 11:14:47,113.341,118.568,231.909,0.356,0.644,0,0,0,Philadelphia,Tie,Loss,242.5,Under,Win
+Denver,Atlanta,2023-12-10 11:14:47,117.363,115.404,232.767,0.555,0.445,0,0,0,Denver,Tie,Loss,238.5,Under,Win
+Toronto,New York,2023-12-10 11:14:47,110.996,112.549,223.545,0.456,0.544,0,0,0,New York,Tie,Loss,217.5,Over,Loss
+Chicago,Milwaukee,2023-12-10 11:14:47,113.414,115.739,229.153,0.434,0.566,0,0,0,Milwaukee,Tie,Loss,232.5,Under,Win
+Dallas,Memphis,2023-12-10 11:14:47,114.752,113.255,228.008,0.542,0.458,0,0,0,Dallas,Tie,Loss,228.5,Under,Win
+San Antonio,Houston,2023-12-10 11:14:47,112.274,116.559,228.833,0.381,0.619,0,0,0,Houston,Tie,Loss,224.5,Over,Loss
+Minnesota,New Orleans,2023-12-10 11:14:48,113.725,112.11,225.835,0.546,0.454,0,0,0,Minnesota,Tie,Loss,222.5,Over,Loss
+Utah,Okla City,2023-12-10 11:14:48,114.275,118.675,232.95,0.377,0.623,0,0,0,Okla City,Tie,Loss,232.5,Over,Loss
+Brooklyn,Sacramento,2023-12-10 11:14:48,115.967,115.415,231.382,0.516,0.484,0,0,0,Brooklyn,Tie,Loss,233.5,Under,Win
+Portland,LA Clippers,2023-12-10 11:14:48,110.371,114.122,224.493,0.396,0.604,0,0,0,LA Clippers,Tie,Loss,218.5,Over,Loss
+Miami,Charlotte,2023-12-10 11:14:46,114.921,111.221,226.142,0.603,0.397,116,114,230,Miami,Miami,Win,222.5,Over,Win
+Cleveland,Orlando,2023-12-10 11:14:46,111.525,110.728,222.253,0.522,0.478,94,104,198,Cleveland,Orlando,Loss,225.5,Under,Win
+Indiana,Detroit,2023-12-10 11:14:46,120.112,115.467,235.579,0.629,0.371,131,123,254,Indiana,Indiana,Win,248.5,Under,Loss
+Washington,Philadelphia,2023-12-10 11:14:47,113.341,118.568,231.909,0.357,0.643,101,146,247,Philadelphia,Philadelphia,Win,244.0,Under,Loss
+Denver,Atlanta,2023-12-10 11:14:47,117.363,115.404,232.767,0.555,0.445,129,122,251,Denver,Denver,Win,240.5,Under,Loss
+Toronto,New York,2023-12-10 11:14:47,110.996,112.549,223.545,0.457,0.543,130,136,266,New York,New York,Win,221.0,Over,Win
+Chicago,Milwaukee,2023-12-10 11:14:47,113.414,115.739,229.153,0.435,0.565,129,133,262,Milwaukee,Milwaukee,Win,233.5,Under,Loss
+Dallas,Memphis,2023-12-10 11:14:47,114.752,113.255,228.008,0.543,0.457,120,113,233,Dallas,Dallas,Win,227.0,Over,Win
+San Antonio,Houston,2023-12-10 11:14:47,112.274,116.559,228.833,0.381,0.619,82,93,175,Houston,Houston,Win,224.5,Over,Loss
+Minnesota,New Orleans,2023-12-10 11:14:48,113.725,112.11,225.835,0.546,0.454,107,121,228,Minnesota,New Orleans,Loss,222.0,Over,Win
+Utah,Okla City,2023-12-10 11:14:48,114.275,118.675,232.95,0.377,0.623,120,134,254,Okla City,Okla City,Win,233.0,Under,Loss
+Brooklyn,Sacramento,2023-12-10 11:14:48,115.967,115.415,231.382,0.517,0.483,118,131,249,Brooklyn,Sacramento,Loss,234.5,Under,Loss
+Portland,LA Clippers,2023-12-10 11:14:48,110.371,114.122,224.493,0.396,0.604,127,132,259,LA Clippers,LA,Loss,220.0,Over,Win
+Cleveland,Boston,2023-12-12 11:16:29,110.349,112.642,222.991,0.436,0.564,113,120,233,Boston,Boston,Win,223.5,Under,Loss
+LA Lakers,Dallas,2023-12-12 11:16:29,115.1,115.312,230.412,0.494,0.506,125,127,252,Dallas,Dallas,Win,235.5,Under,Loss
+Denver,Chicago,2023-12-12 11:16:30,113.619,111.05,224.669,0.572,0.428,114,106,220,Denver,Denver,Win,216.5,Over,Win
+Golden State,Phoenix,2023-12-12 11:16:30,114.681,115.123,229.803,0.487,0.513,116,119,235,Phoenix,Phoenix,Win,233.5,Under,Loss
+Sacramento,LA Clippers,2023-12-12 11:16:30,115.123,115.561,230.684,0.488,0.512,99,119,218,LA Clippers,LA,Loss,234.0,Under,Win
+Philadelphia,Detroit,2023-12-13 11:16:43,118.249,110.57,228.819,0.706,0.294,129,111,240,Philadelphia,Philadelphia,Win,234.0,Under,Loss
+New Orleans,Washington,2023-12-13 11:16:44,117.183,113.824,231.007,0.594,0.406,142,122,264,New Orleans,New Orleans,Win,241.0,Under,Loss
+Atlanta,Toronto,2023-12-13 11:16:44,116.312,116.354,232.666,0.498,0.502,128,135,263,Toronto,Toronto,Win,240.0,Under,Loss
+Charlotte,Miami,2023-12-13 11:16:44,111.271,114.901,226.172,0.398,0.602,104,115,219,Miami,Miami,Win,224.0,Over,Loss
+LA Lakers,San Antonio,2023-12-13 11:16:44,118.647,112.542,231.189,0.667,0.333,122,119,241,LA Lakers,LA Lakers,Win,227.5,Over,Win
+Memphis,Houston,2023-12-13 11:16:44,111.699,111.367,223.066,0.51,0.49,104,117,221,Memphis,Houston,Loss,213.5,Over,Win
+Indiana,Milwaukee,2023-12-13 11:16:45,119.219,120.945,240.164,0.451,0.549,126,140,266,Milwaukee,Milwaukee,Win,258.5,Under,Loss
+Brooklyn,Phoenix,2023-12-13 11:16:45,113.67,113.773,227.443,0.498,0.502,116,112,228,Phoenix,Brooklyn,Loss,227.5,Under,Loss
+New York,Utah,2023-12-13 11:16:45,116.342,112.386,228.727,0.61,0.39,113,117,230,New York,Utah,Loss,227.0,Over,Win
+Cleveland,Boston,2023-12-14 11:17:17,110.424,112.77,223.194,0.434,0.566,107,116,223,Boston,Boston,Win,226.0,Under,Win
+Chicago,Miami,2023-12-14 11:17:18,110.549,111.697,222.246,0.468,0.532,124,116,240,Miami,Chicago,Loss,217.0,Over,Win
+Minnesota,Dallas,2023-12-14 11:17:18,114.697,113.878,228.575,0.524,0.476,119,101,220,Minnesota,Minnesota,Win,229.0,Under,Win
+Brooklyn,Denver,2023-12-14 11:17:18,112.785,113.872,226.656,0.47,0.53,101,124,225,Denver,Denver,Win,228.0,Under,Win
+Okla City,Sacramento,2023-12-14 11:17:18,118.123,116.436,234.559,0.547,0.453,123,128,251,Okla City,Sacramento,Loss,243.5,Under,Loss
+Utah,Portland,2023-12-14 11:17:18,114.849,114.386,229.234,0.514,0.486,122,114,236,Utah,Utah,Win,228.5,Over,Win
+Golden State,LA Clippers,2023-12-14 11:17:18,114.118,114.92,229.038,0.477,0.523,113,121,234,LA Clippers,LA,Loss,231.0,Under,Loss
+Detroit,Milwaukee,2023-12-16 11:14:53,112.888,119.548,232.436,0.319,0.681,114,146,260,Milwaukee,Milwaukee,Win,240.5,Under,Loss
+Philadelphia,Charlotte,2023-12-16 11:14:53,118.424,111.499,229.924,0.687,0.313,135,82,217,Philadelphia,Philadelphia,Win,234.5,Under,Win
+Atlanta,Cleveland,2023-12-16 11:14:53,114.401,115.502,229.903,0.469,0.531,119,127,246,Cleveland,Cleveland,Win,240.5,Under,Loss
+Chicago,Miami,2023-12-16 11:14:53,110.824,111.747,222.571,0.474,0.526,116,118,234,Miami,Miami,Win,217.0,Over,Win
+Indiana,Minnesota,2023-12-16 11:14:53,116.063,118.296,234.359,0.437,0.563,109,127,236,Minnesota,Minnesota,Win,245.5,Under,Win
+Brooklyn,Golden State,2023-12-16 11:14:53,115.197,114.986,230.183,0.506,0.494,120,124,244,Brooklyn,Golden State,Loss,235.0,Under,Loss
+Dallas,Portland,2023-12-16 11:14:53,116.173,112.792,228.965,0.594,0.406,131,120,251,Dallas,Dallas,Win,235.0,Under,Loss
+Okla City,Denver,2023-12-16 11:14:53,114.753,114.975,229.728,0.494,0.506,118,117,235,Denver,Okla City,Loss,236.5,Under,Win
+Utah,Sacramento,2023-12-16 11:14:53,116.016,118.7,234.715,0.425,0.575,104,125,229,Sacramento,Sacramento,Win,240.0,Under,Win
+New York,LA Clippers,2023-12-16 11:14:53,112.843,112.515,225.357,0.509,0.491,122,144,266,New York,LA,Loss,228.5,Under,Loss
+Orlando,Boston,2023-12-17 11:15:11,111.292,114.543,225.834,0.408,0.592,97,114,211,Boston,Boston,Win,228.0,Under,Win
+New Orleans,San Antonio,2023-12-17 11:15:11,118.315,112.548,230.862,0.658,0.342,146,110,256,New Orleans,New Orleans,Win,238.0,Under,Loss
+Houston,Milwaukee,2023-12-17 11:15:11,113.279,116.143,229.422,0.419,0.581,119,128,247,Milwaukee,Milwaukee,Win,230.0,Under,Loss
+Washington,Phoenix,2023-12-17 11:15:11,114.096,117.536,231.633,0.404,0.596,108,112,220,Phoenix,Phoenix,Win,244.5,Under,Win
+Golden State,Portland,2023-12-17 11:15:11,116.424,113.239,229.662,0.589,0.411,118,114,232,Golden State,Golden State,Win,233.5,Under,Win
+Chicago,Philadelphia,2023-12-18 11:25:36,110.949,115.415,226.364,0.376,0.624,108,104,212,Philadelphia,Chicago,Loss,228.5,Under,Win
+Houston,Cleveland,2023-12-18 11:25:36,109.573,111.748,221.321,0.439,0.561,130,135,265,Cleveland,Cleveland,Win,214.0,Over,Win
+Minnesota,Miami,2023-12-18 11:25:36,112.409,110.825,223.233,0.545,0.455,112,108,220,Minnesota,Minnesota,Win,219.0,Over,Win
+Detroit,Atlanta,2023-12-18 11:25:37,114.74,119.874,234.614,0.358,0.642,124,130,254,Atlanta,Atlanta,Win,242.5,Under,Loss
+Charlotte,Toronto,2023-12-18 11:25:37,112.146,115.83,227.977,0.397,0.603,99,114,213,Toronto,Toronto,Win,226.5,Over,Loss
+Memphis,Okla City,2023-12-18 11:25:37,113.032,115.683,228.715,0.426,0.574,97,116,213,Okla City,Okla City,Win,228.5,Over,Loss
+Brooklyn,Utah,2023-12-18 11:25:37,116.677,113.899,230.576,0.577,0.423,108,125,233,Brooklyn,Utah,Loss,233.0,Under,Tie
+Dallas,Denver,2023-12-18 11:25:37,113.934,115.3,229.233,0.461,0.539,104,130,234,Denver,Denver,Win,238.0,Under,Win
+New York,LA Lakers,2023-12-18 11:25:37,114.325,113.46,227.785,0.524,0.476,114,109,223,New York,New York,Win,227.0,Over,Loss
+Washington,Sacramento,2023-12-18 11:25:38,116.019,119.472,235.491,0.403,0.597,131,143,274,Sacramento,Sacramento,Win,245.0,Under,Loss
+Memphis,New Orleans,2023-12-19 11:15:59,112.019,113.918,225.937,0.446,0.554,115,113,228,New Orleans,Memphis,Loss,232.5,Under,Win
+San Antonio,Milwaukee,2023-12-19 11:15:59,114.15,121.671,235.821,0.297,0.703,119,132,251,Milwaukee,Milwaukee,Win,249.0,Under,Loss
+Boston,Golden State,2023-12-19 11:15:59,116.674,113.291,229.965,0.595,0.405,126,132,258,Boston,Golden State,Loss,231.5,Under,Loss
+Phoenix,Portland,2023-12-19 11:15:59,115.248,111.792,227.04,0.596,0.404,104,109,213,Phoenix,Portland,Loss,231.0,Under,Win
+Charlotte,Indiana,2023-12-20 11:14:02,116.941,120.218,237.159,0.409,0.591,113,144,257,Indiana,Indiana,Win,249.0,Under,Loss
+Utah,Cleveland,2023-12-20 11:14:02,111.892,115.12,227.011,0.41,0.59,116,124,240,Cleveland,Cleveland,Win,228.0,Under,Loss
+Miami,Orlando,2023-12-20 11:14:02,111.449,111.396,222.845,0.501,0.499,115,106,221,Miami,Miami,Win,220.5,Over,Win
+Minnesota,Philadelphia,2023-12-20 11:14:02,112.384,114.242,226.626,0.448,0.552,113,127,240,Philadelphia,Philadelphia,Win,226.5,Over,Win
+New York,Brooklyn,2023-12-20 11:14:03,113.949,112.917,226.867,0.529,0.471,121,102,223,New York,New York,Win,233.0,Under,Win
+Denver,Toronto,2023-12-20 11:14:03,114.018,111.696,225.714,0.565,0.435,113,104,217,Denver,Denver,Win,229.0,Under,Win
+Atlanta,Houston,2023-12-20 11:14:03,116.64,115.472,232.112,0.533,0.467,134,127,261,Atlanta,Atlanta,Win,234.5,Under,Loss
+LA Lakers,Chicago,2023-12-20 11:14:03,113.817,112.84,226.657,0.528,0.472,108,124,232,LA Lakers,Chicago,Loss,225.0,Over,Win
+Boston,Sacramento,2023-12-20 11:14:03,117.475,114.586,232.061,0.582,0.418,144,119,263,Boston,Boston,Win,235.5,Under,Loss
+Utah,Detroit,2023-12-21 11:18:41,117.149,114.131,231.28,0.585,0.415,119,111,230,Utah,Utah,Win,238.0,Under,Win
+New Orleans,Cleveland,2023-12-21 11:18:41,112.187,112.523,224.71,0.491,0.509,123,104,227,Cleveland,New Orleans,Loss,228.0,Under,Win
+San Antonio,Chicago,2023-12-21 11:18:41,112.15,117.04,229.19,0.365,0.635,95,114,209,Chicago,Chicago,Win,230.5,Under,Win
+Indiana,Memphis,2023-12-21 11:18:41,117.162,116.849,234.01,0.509,0.491,103,116,219,Indiana,Memphis,Loss,247.0,Under,Win
+Orlando,Milwaukee,2023-12-21 11:18:41,114.354,116.367,230.721,0.444,0.556,114,118,232,Milwaukee,Milwaukee,Win,238.0,Under,Win
+LA Lakers,Minnesota,2023-12-21 11:18:42,113.057,114.425,227.482,0.462,0.538,111,118,229,Minnesota,Minnesota,Win,224.5,Over,Win
+Washington,Portland,2023-12-21 11:18:42,115.449,115.466,230.915,0.5,0.5,118,117,235,Portland,Washington,Loss,240.0,Under,Win
+Toronto,Philadelphia,2023-12-22 11:15:55,111.521,115.32,226.84,0.394,0.606,111,121,232,Philadelphia,Philadelphia,Win,230.0,Under,Loss
+Denver,Brooklyn,2023-12-22 11:15:55,114.472,112.313,226.785,0.561,0.439,122,117,239,Denver,Denver,Win,231.0,Under,Loss
+Atlanta,Miami,2023-12-22 11:15:55,115.411,115.676,231.088,0.493,0.507,113,122,235,Miami,Miami,Win,237.5,Under,Win
+Dallas,Houston,2023-12-22 11:15:55,115.04,113.449,228.489,0.545,0.455,96,122,218,Dallas,Houston,Loss,225.0,Over,Loss
+Washington,Golden State,2023-12-22 11:15:55,115.698,118.865,234.563,0.412,0.588,118,129,247,Golden State,Golden State,Win,247.5,Under,Win
+Phoenix,Sacramento,2023-12-22 11:15:56,116.16,116.059,232.218,0.502,0.498,105,120,225,Phoenix,Sacramento,Loss,244.5,Under,Win
+Milwaukee,New York,2023-12-23 11:17:51,115.983,115.42,231.403,0.516,0.484,130,111,241,Milwaukee,Milwaukee,Win,244.0,Under,Win
+Boston,LA Clippers,2023-12-23 11:17:51,115.17,112.822,227.992,0.567,0.433,145,108,253,Boston,Boston,Win,230.0,Under,Loss
+Denver,Charlotte,2023-12-23 11:17:51,117.358,110.875,228.232,0.677,0.323,102,95,197,Denver,Denver,Win,226.5,Over,Loss
+Houston,New Orleans,2023-12-23 11:17:51,112.146,114.246,226.392,0.441,0.559,106,104,210,New Orleans,Houston,Loss,223.5,Over,Loss
+Orlando,Indiana,2023-12-23 11:17:52,117.357,116.685,234.042,0.519,0.481,117,110,227,Orlando,Orlando,Win,244.0,Under,Win
+Memphis,Atlanta,2023-12-23 11:17:52,115.807,116.431,232.238,0.482,0.518,125,119,244,Atlanta,Memphis,Loss,240.5,Under,Loss
+Detroit,Brooklyn,2023-12-23 11:17:52,111.706,116.766,228.472,0.36,0.64,115,126,241,Brooklyn,Brooklyn,Win,233.0,Under,Loss
+Utah,Toronto,2023-12-23 11:17:52,113.846,115.558,229.404,0.452,0.548,126,119,245,Toronto,Utah,Loss,230.0,Under,Loss
+Cleveland,Chicago,2023-12-23 11:17:52,111.85,110.545,222.394,0.536,0.464,109,95,204,Cleveland,Cleveland,Win,218.0,Over,Loss
+LA Lakers,Okla City,2023-12-23 11:17:53,114.9,116.779,231.679,0.448,0.552,129,120,249,Okla City,LA Lakers,Loss,238.0,Under,Loss
+San Antonio,Dallas,2023-12-23 11:17:53,113.804,119.356,233.16,0.347,0.653,119,144,263,Dallas,Dallas,Win,239.0,Under,Loss
+Portland,Golden State,2023-12-23 11:17:53,113.49,116.672,230.162,0.411,0.589,106,126,232,Golden State,Golden State,Win,233.0,Under,Win
+Minnesota,Sacramento,2023-12-23 11:17:53,116.088,115.129,231.216,0.527,0.473,110,98,208,Minnesota,Minnesota,Win,232.5,Under,Win
+Milwaukee,New York,2023-12-24 11:15:25,116.187,115.346,231.533,0.524,0.476,0,0,0,Milwaukee,Tie,Loss,240.5,Under,Win
+Golden State,Denver,2023-12-24 11:15:25,114.019,115.674,229.693,0.453,0.547,0,0,0,Denver,Tie,Loss,233.5,Under,Win
+Boston,LA Lakers,2023-12-24 11:15:25,116.511,112.772,229.283,0.605,0.395,0,0,0,Boston,Tie,Loss,234.5,Under,Win
+Philadelphia,Miami,2023-12-24 11:15:25,114.137,110.85,224.986,0.591,0.409,0,0,0,Philadelphia,Tie,Loss,227.0,Under,Win
+Dallas,Phoenix,2023-12-24 11:15:25,114.837,115.046,229.883,0.494,0.506,0,0,0,Phoenix,Tie,Loss,235.0,Under,Win
+Milwaukee,New York,2023-12-25 11:16:03,116.187,115.346,231.533,0.524,0.476,122,129,251,Milwaukee,New York,Loss,241.5,Under,Loss
+Golden State,Denver,2023-12-25 11:16:04,114.019,115.674,229.693,0.453,0.547,114,120,234,Denver,Denver,Win,233.0,Under,Loss
+Boston,LA Lakers,2023-12-25 11:16:04,116.511,112.772,229.283,0.605,0.395,126,115,241,Boston,Boston,Win,234.0,Under,Loss
+Philadelphia,Miami,2023-12-25 11:16:04,114.137,110.85,224.986,0.592,0.408,113,119,232,Philadelphia,Miami,Loss,225.5,Under,Loss
+Dallas,Phoenix,2023-12-25 11:16:04,114.837,115.046,229.883,0.494,0.506,128,114,242,Phoenix,Dallas,Loss,236.5,Under,Loss
+Brooklyn,Detroit,2023-12-26 11:16:05,116.918,111.757,228.674,0.642,0.358,118,112,230,Brooklyn,Brooklyn,Win,233.0,Under,Win
+Orlando,Washington,2023-12-26 11:16:05,116.302,113.641,229.943,0.573,0.427,127,119,246,Orlando,Orlando,Win,237.5,Under,Loss
+Atlanta,Chicago,2023-12-26 11:16:05,116.148,115.885,232.033,0.507,0.493,113,118,231,Atlanta,Chicago,Loss,234.0,Under,Win
+Indiana,Houston,2023-12-26 11:16:05,117.058,116.735,233.792,0.509,0.491,123,117,240,Indiana,Indiana,Win,236.5,Under,Loss
+Memphis,New Orleans,2023-12-26 11:16:05,112.248,113.844,226.091,0.456,0.544,116,115,231,New Orleans,Memphis,Loss,228.5,Under,Loss
+Minnesota,Okla City,2023-12-26 11:16:05,114.674,114.93,229.605,0.492,0.508,106,129,235,Okla City,Okla City,Win,226.0,Over,Win
+Utah,San Antonio,2023-12-26 11:16:06,118.983,115.198,234.181,0.607,0.393,130,118,248,Utah,Utah,Win,242.5,Under,Loss
+Sacramento,Portland,2023-12-26 11:16:06,117.442,114.122,231.564,0.592,0.408,113,130,243,Sacramento,Portland,Loss,236.5,Under,Loss
+Charlotte,LA Clippers,2023-12-26 11:16:06,111.918,117.109,229.027,0.357,0.643,104,113,217,LA Clippers,LA,Loss,228.5,Over,Loss
+Philadelphia,Orlando,2023-12-27 11:16:04,115.067,111.571,226.638,0.598,0.402,112,92,204,Philadelphia,Philadelphia,Win,226.0,Over,Loss
+Toronto,Washington,2023-12-27 11:16:04,116.483,114.095,230.578,0.567,0.433,132,102,234,Toronto,Toronto,Win,239.0,Under,Win
+Milwaukee,Brooklyn,2023-12-27 11:16:04,117.198,115.344,232.542,0.553,0.447,144,122,266,Milwaukee,Milwaukee,Win,240.5,Under,Loss
+Phoenix,Houston,2023-12-27 11:16:04,113.775,112.295,226.07,0.542,0.458,129,113,242,Phoenix,Phoenix,Win,225.5,Over,Win
+New York,Okla City,2023-12-27 11:16:04,114.775,115.494,230.269,0.48,0.52,120,129,249,Okla City,Okla City,Win,240.0,Under,Loss
+Cleveland,Dallas,2023-12-27 11:16:04,113.754,112.912,226.666,0.524,0.476,113,110,223,Cleveland,Cleveland,Win,232.0,Under,Win
+Detroit,Boston,2023-12-28 11:16:06,110.1,119.048,229.148,0.263,0.737,122,128,250,Boston,Boston,Win,231.0,Under,Loss
+Indiana,Chicago,2023-12-28 11:16:06,116.437,116.847,233.284,0.489,0.511,120,104,224,Chicago,Indiana,Loss,240.5,Under,Win
+Dallas,Minnesota,2023-12-28 11:16:06,113.945,115.022,228.967,0.469,0.531,110,118,228,Minnesota,Minnesota,Win,228.5,Over,Loss
+Utah,New Orleans,2023-12-28 11:16:07,114.144,116.836,230.98,0.424,0.576,105,112,217,New Orleans,New Orleans,Win,238.5,Under,Win
+Memphis,Denver,2023-12-28 11:16:07,111.149,113.918,225.067,0.422,0.578,105,142,247,Denver,Denver,Win,224.5,Over,Win
+Miami,Golden State,2023-12-28 11:16:07,113.723,113.969,227.691,0.493,0.507,114,102,216,Golden State,Miami,Loss,227.0,Over,Loss
+San Antonio,Portland,2023-12-28 11:16:07,113.982,116.944,230.925,0.417,0.583,118,105,223,Portland,San Antonio,Loss,235.0,Under,Win
+Charlotte,LA Lakers,2023-12-28 11:16:07,112.729,117.086,229.816,0.379,0.621,112,133,245,LA Lakers,LA Lakers,Win,228.0,Over,Win
+Brooklyn,Washington,2023-12-29 11:16:46,117.408,114.549,231.957,0.58,0.42,104,110,214,Brooklyn,Washington,Loss,242.5,Under,Win
+New York,Orlando,2023-12-29 11:16:46,113.494,112.175,225.669,0.537,0.463,108,117,225,New York,Orlando,Loss,226.5,Under,Win
+Toronto,Boston,2023-12-29 11:16:47,111.769,115.665,227.434,0.391,0.609,118,120,238,Boston,Boston,Win,224.5,Over,Win
+Sacramento,Atlanta,2023-12-29 11:16:47,119.647,119.069,238.716,0.516,0.484,117,110,227,Sacramento,Sacramento,Win,251.0,Under,Win
+Milwaukee,Cleveland,2023-12-29 11:16:47,114.97,114.074,229.044,0.525,0.475,119,111,230,Milwaukee,Milwaukee,Win,239.5,Under,Win
+Philadelphia,Houston,2023-12-29 11:16:47,115.709,110.799,226.508,0.636,0.364,131,127,258,Philadelphia,Philadelphia,Win,222.0,Over,Win
+Charlotte,Phoenix,2023-12-29 11:16:47,111.992,116.701,228.693,0.37,0.63,119,133,252,Phoenix,Phoenix,Win,231.5,Under,Loss
+Okla City,Denver,2023-12-29 11:16:47,114.816,115.325,230.14,0.485,0.515,119,93,212,Denver,Okla City,Loss,232.0,Under,Win
+San Antonio,Portland,2023-12-29 11:16:47,114.057,116.775,230.832,0.424,0.576,128,134,262,Portland,Portland,Win,226.0,Over,Win
+Memphis,LA Clippers,2023-12-29 11:16:47,112.348,114.146,226.494,0.45,0.55,106,117,223,LA Clippers,LA,Loss,225.5,Over,Loss
+Miami,Utah,2023-12-30 11:15:14,114.842,112.698,227.54,0.56,0.44,109,117,226,Miami,Utah,Loss,227.0,Over,Loss
+Toronto,Detroit,2023-12-30 11:15:14,116.326,111.441,227.767,0.635,0.365,127,129,256,Toronto,Detroit,Loss,230.0,Under,Loss
+New York,Indiana,2023-12-30 11:15:14,118.265,116.545,234.81,0.55,0.45,126,140,266,New York,Indiana,Loss,247.0,Under,Loss
+Philadelphia,Chicago,2023-12-30 11:15:15,114.915,110.999,225.914,0.609,0.391,92,105,197,Philadelphia,Chicago,Loss,222.5,Over,Loss
+LA Lakers,Minnesota,2023-12-30 11:15:15,113.481,114.55,228.03,0.47,0.53,106,108,214,Minnesota,Minnesota,Win,226.0,Over,Loss
+Dallas,Golden State,2023-12-30 11:15:15,116.35,116.598,232.947,0.493,0.507,132,122,254,Golden State,Dallas,Loss,240.5,Under,Loss
+Atlanta,Washington,2023-12-31 11:15:03,120.125,117.567,237.692,0.571,0.429,130,126,256,Atlanta,Atlanta,Win,252.5,Under,Loss
+LA Lakers,New Orleans,2023-12-31 11:15:03,114.143,114.875,229.018,0.479,0.521,109,129,238,New Orleans,New Orleans,Win,229.0,Over,Win
+Boston,San Antonio,2023-12-31 11:15:03,120.779,111.522,232.301,0.743,0.257,134,101,235,Boston,Boston,Win,238.5,Under,Win
+Brooklyn,Okla City,2023-12-31 11:15:03,114.4,116.647,231.046,0.437,0.563,108,124,232,Okla City,Okla City,Win,237.5,Under,Win
+Sacramento,Memphis,2023-12-31 11:15:03,115.966,114.659,230.626,0.537,0.463,123,92,215,Sacramento,Sacramento,Win,236.0,Under,Win
+Orlando,Phoenix,2023-12-31 11:15:03,112.798,113.444,226.243,0.482,0.518,107,112,219,Phoenix,Phoenix,Win,230.0,Under,Win
+Minnesota,New York,2024-01-01 11:16:01,113.448,113.038,226.485,0.512,0.488,106,112,218,Minnesota,New York,Loss,223.5,Over,Loss
+Cleveland,Toronto,2024-01-01 11:16:01,112.372,111.232,223.604,0.532,0.468,121,124,245,Cleveland,Toronto,Loss,224.0,Under,Loss
+Detroit,Houston,2024-01-01 11:16:01,112.208,115.6,227.808,0.406,0.594,113,136,249,Houston,Houston,Win,226.5,Over,Win
+Indiana,Milwaukee,2024-01-01 11:16:01,118.751,121.574,240.325,0.421,0.579,122,113,235,Milwaukee,Indiana,Loss,259.5,Under,Win
+Charlotte,Denver,2024-01-01 11:16:01,110.725,117.283,228.008,0.321,0.679,93,111,204,Denver,Denver,Win,227.5,Over,Loss
+Dallas,Utah,2024-01-01 11:16:01,117.547,115.599,233.146,0.555,0.445,90,127,217,Dallas,Utah,Loss,245.5,Under,Win
+Portland,Phoenix,2024-01-01 11:16:01,112.346,115.422,227.768,0.414,0.586,88,109,197,Phoenix,Phoenix,Win,229.5,Under,Win
+Miami,LA Clippers,2024-01-01 11:16:02,112.047,112.724,224.771,0.481,0.519,104,121,225,LA Clippers,LA,Loss,228.0,Under,Win
+Chicago,Philadelphia,2024-01-02 11:16:13,110.924,114.541,225.466,0.399,0.601,97,110,207,Philadelphia,Philadelphia,Win,225.0,Over,Loss
+Boston,Okla City,2024-01-02 11:16:13,116.681,114.868,231.549,0.552,0.448,123,127,250,Boston,Okla City,Loss,240.5,Under,Loss
+Brooklyn,New Orleans,2024-01-02 11:16:13,113.398,114.724,228.122,0.463,0.537,85,112,197,New Orleans,New Orleans,Win,229.5,Under,Win
+San Antonio,Memphis,2024-01-02 11:16:13,112.748,117.178,229.926,0.378,0.622,98,106,204,Memphis,Memphis,Win,233.0,Under,Win
+Charlotte,Sacramento,2024-01-02 11:16:13,113.874,119.0,232.873,0.359,0.641,111,104,215,Sacramento,Charlotte,Loss,232.5,Over,Loss
+Orlando,Golden State,2024-01-02 11:16:13,114.254,114.872,229.126,0.483,0.517,115,121,236,Golden State,Golden State,Win,231.5,Under,Loss
+Washington,Cleveland,2024-01-03 11:16:35,112.166,115.946,228.113,0.395,0.605,101,140,241,Cleveland,Cleveland,Win,239.5,Under,Loss
+Milwaukee,Indiana,2024-01-03 11:16:35,121.374,118.752,240.126,0.573,0.427,130,142,272,Milwaukee,Indiana,Loss,257.0,Under,Loss
+Okla City,Atlanta,2024-01-03 11:16:35,119.924,117.469,237.393,0.569,0.431,138,141,279,Okla City,Atlanta,Loss,247.0,Under,Loss
+Brooklyn,Houston,2024-01-03 11:16:35,113.875,113.019,226.894,0.524,0.476,101,112,213,Brooklyn,Houston,Loss,222.5,Over,Loss
+Toronto,Memphis,2024-01-03 11:16:35,113.275,112.321,225.596,0.527,0.473,116,111,227,Toronto,Toronto,Win,232.0,Under,Win
+New Orleans,Minnesota,2024-01-03 11:16:35,113.285,113.197,226.482,0.502,0.498,117,106,223,New Orleans,New Orleans,Win,223.5,Over,Loss
+Chicago,New York,2024-01-03 11:16:36,111.873,113.216,225.089,0.462,0.538,100,116,216,New York,New York,Win,219.0,Over,Loss
+Portland,Dallas,2024-01-03 11:16:36,113.548,116.225,229.773,0.425,0.575,97,126,223,Dallas,Dallas,Win,234.5,Under,Win
+Detroit,Utah,2024-01-03 11:16:36,114.087,117.752,231.839,0.398,0.602,148,154,302,Utah,Utah,Win,240.0,Under,Loss
+Miami,LA Lakers,2024-01-03 11:16:36,113.008,112.923,225.931,0.502,0.498,110,96,206,Miami,Miami,Win,226.5,Under,Win
+Orlando,Sacramento,2024-01-03 11:16:36,114.672,115.534,230.206,0.477,0.523,135,138,273,Sacramento,Sacramento,Win,232.5,Under,Loss
+Milwaukee,San Antonio,2024-01-04 11:16:53,121.921,114.349,236.27,0.704,0.296,125,121,246,Milwaukee,Milwaukee,Win,249.5,Under,Win
+Denver,Golden State,2024-01-04 11:16:53,115.823,113.895,229.718,0.554,0.446,130,127,257,Denver,Denver,Win,234.5,Under,Loss
+Atlanta,Indiana,2024-01-05 11:19:20,121.273,121.025,242.297,0.507,0.493,116,150,266,Atlanta,Indiana,Loss,261.5,Under,Loss
+Utah,Boston,2024-01-05 11:19:20,113.396,118.6,231.996,0.356,0.644,97,126,223,Boston,Boston,Win,239.0,Under,Win
+Okla City,Brooklyn,2024-01-05 11:19:20,116.842,114.271,231.113,0.572,0.428,115,124,239,Okla City,Brooklyn,Loss,235.5,Under,Loss
+Washington,Cleveland,2024-01-05 11:19:20,111.967,116.25,228.218,0.382,0.618,90,114,204,Cleveland,Cleveland,Win,240.0,Under,Win
+New York,Philadelphia,2024-01-05 11:19:20,112.478,114.775,227.253,0.436,0.564,128,92,220,Philadelphia,New York,Loss,227.5,Under,Win
+Charlotte,Chicago,2024-01-05 11:19:20,111.173,114.908,226.081,0.395,0.605,91,104,195,Chicago,Chicago,Win,223.0,Over,Loss
+Minnesota,Houston,2024-01-05 11:19:21,114.025,111.725,225.75,0.564,0.436,122,95,217,Minnesota,Minnesota,Win,218.5,Over,Loss
+Portland,Dallas,2024-01-05 11:19:21,113.299,116.35,229.649,0.416,0.584,103,139,242,Dallas,Dallas,Win,238.5,Under,Loss
+Orlando,Denver,2024-01-05 11:19:21,111.571,114.168,225.739,0.427,0.573,122,120,242,Denver,Orlando,Loss,224.0,Over,Win
+Miami,Phoenix,2024-01-05 11:19:21,112.07,112.379,224.449,0.491,0.509,97,113,210,Phoenix,Phoenix,Win,229.5,Under,Win
+Detroit,Golden State,2024-01-05 11:19:21,113.739,119.091,232.83,0.353,0.647,109,113,222,Golden State,Golden State,Win,241.0,Under,Win
+Memphis,LA Lakers,2024-01-05 11:19:21,113.187,114.146,227.333,0.473,0.527,127,113,240,LA Lakers,Memphis,Loss,226.0,Over,Win
+Toronto,Sacramento,2024-01-05 11:19:22,115.456,116.064,231.52,0.482,0.518,130,135,265,Sacramento,Sacramento,Win,239.5,Under,Loss
+Boston,Indiana,2024-01-06 11:15:33,120.391,116.044,236.434,0.62,0.38,118,101,219,Boston,Boston,Win,247.5,Under,Win
+New York,Washington,2024-01-06 11:15:33,117.543,113.195,230.738,0.62,0.38,121,105,226,New York,New York,Win,239.0,Under,Win
+Utah,Philadelphia,2024-01-06 11:15:33,113.12,117.622,230.742,0.376,0.624,120,109,229,Philadelphia,Utah,Loss,238.5,Under,Win
+Milwaukee,Houston,2024-01-06 11:15:33,117.528,114.17,231.698,0.594,0.406,108,112,220,Milwaukee,Houston,Loss,238.5,Under,Win
+San Antonio,Cleveland,2024-01-07 11:15:39,110.514,117.45,227.964,0.312,0.688,115,117,232,Cleveland,Cleveland,Win,234.0,Under,Win
+Portland,Brooklyn,2024-01-07 11:15:39,112.438,115.089,227.527,0.426,0.574,134,127,261,Brooklyn,Portland,Loss,224.5,Over,Win
+Atlanta,Orlando,2024-01-07 11:15:39,116.641,116.749,233.39,0.497,0.503,110,117,227,Orlando,Orlando,Win,239.0,Under,Win
+New Orleans,Sacramento,2024-01-07 11:15:39,116.266,115.697,231.963,0.516,0.484,133,100,233,New Orleans,New Orleans,Win,234.5,Under,Win
+Minnesota,Dallas,2024-01-07 11:15:39,114.823,113.995,228.817,0.523,0.477,108,115,223,Minnesota,Dallas,Loss,229.5,Under,Win
+Detroit,Denver,2024-01-07 11:15:40,110.825,117.925,228.75,0.308,0.692,114,131,245,Denver,Denver,Win,236.0,Under,Loss
+Memphis,Phoenix,2024-01-07 11:15:40,112.324,113.848,226.171,0.458,0.542,121,115,236,Phoenix,Memphis,Loss,229.5,Under,Loss
+Toronto,Golden State,2024-01-07 11:15:40,115.091,115.506,230.597,0.488,0.512,133,118,251,Golden State,Toronto,Loss,238.0,Under,Loss
+Boston,Indiana,2024-01-08 11:16:34,120.316,115.774,236.09,0.626,0.374,131,133,264,Boston,Indiana,Loss,244.0,Under,Loss
+Chicago,Charlotte,2024-01-08 11:16:34,114.735,110.898,225.634,0.607,0.393,119,112,231,Chicago,Chicago,Win,217.0,Over,Win
+Okla City,Washington,2024-01-08 11:16:34,119.899,114.748,234.648,0.642,0.358,136,128,264,Okla City,Okla City,Win,246.5,Under,Loss
+Houston,Miami,2024-01-08 11:16:34,110.948,112.512,223.46,0.456,0.544,113,120,233,Miami,Miami,Win,219.0,Over,Win
+Utah,Milwaukee,2024-01-08 11:16:34,116.274,119.494,235.769,0.41,0.59,132,116,248,Milwaukee,Utah,Loss,245.0,Under,Loss
+Phoenix,LA Clippers,2024-01-08 11:16:34,113.546,114.07,227.616,0.486,0.514,111,138,249,LA Clippers,LA,Loss,227.0,Over,Win
+Sacramento,Detroit,2024-01-09 11:16:27,119.747,114.371,234.118,0.649,0.351,131,110,241,Sacramento,Sacramento,Win,239.0,Under,Loss
+Minnesota,Orlando,2024-01-09 11:16:27,113.474,112.099,225.572,0.538,0.462,113,92,205,Minnesota,Minnesota,Win,218.5,Over,Loss
+Portland,New York,2024-01-09 11:16:27,111.574,115.896,227.47,0.381,0.619,84,112,196,New York,New York,Win,226.0,Over,Loss
+Memphis,Dallas,2024-01-09 11:16:27,113.687,114.887,228.574,0.466,0.534,120,103,223,Dallas,Memphis,Loss,234.0,Under,Win
+Toronto,LA Lakers,2024-01-09 11:16:27,114.424,114.248,228.671,0.505,0.495,131,132,263,Toronto,LA Lakers,Loss,234.5,Under,Loss
+Minnesota,Boston,2024-01-10 11:16:28,112.389,115.086,227.474,0.425,0.575,120,127,247,Boston,Boston,Win,223.5,Over,Win
+Sacramento,Charlotte,2024-01-10 11:16:28,118.875,113.987,232.861,0.636,0.364,123,98,221,Sacramento,Sacramento,Win,234.0,Under,Win
+San Antonio,Detroit,2024-01-10 11:16:28,116.322,116.72,233.042,0.489,0.511,130,108,238,Detroit,San Antonio,Loss,239.5,Under,Win
+Washington,Indiana,2024-01-10 11:16:28,118.065,120.874,238.939,0.421,0.579,104,112,216,Indiana,Indiana,Win,253.5,Under,Win
+Philadelphia,Atlanta,2024-01-10 11:16:28,118.755,115.352,234.107,0.595,0.405,132,139,271,Philadelphia,Atlanta,Loss,245.5,Under,Loss
+Okla City,Miami,2024-01-10 11:16:28,114.928,113.201,228.129,0.55,0.45,128,120,248,Okla City,Okla City,Win,234.5,Under,Loss
+Houston,Chicago,2024-01-10 11:16:28,111.575,112.738,224.313,0.468,0.532,119,124,243,Chicago,Chicago,Win,217.0,Over,Win
+New Orleans,Golden State,2024-01-10 11:16:29,115.922,114.817,230.739,0.531,0.469,141,105,246,New Orleans,New Orleans,Win,233.5,Under,Loss
+Denver,Utah,2024-01-10 11:16:29,117.017,113.445,230.462,0.599,0.401,111,124,235,Denver,Utah,Loss,238.0,Under,Win
+Toronto,LA Clippers,2024-01-10 11:16:29,113.322,114.572,227.894,0.465,0.535,120,126,246,LA Clippers,LA,Loss,235.5,Under,Loss
+Brooklyn,Cleveland,2024-01-11 11:16:23,111.301,113.295,224.596,0.444,0.556,102,111,213,Cleveland,Cleveland,Win,226.5,Under,Win
+Boston,Milwaukee,2024-01-11 11:16:23,117.97,115.65,233.621,0.566,0.434,102,135,237,Boston,Milwaukee,Loss,240.5,Under,Win
+Portland,Okla City,2024-01-11 11:16:23,113.225,118.29,231.515,0.358,0.642,77,139,216,Okla City,Okla City,Win,233.0,Under,Win
+New York,Dallas,2024-01-11 11:16:23,115.2,113.975,229.174,0.535,0.465,124,128,252,New York,Dallas,Loss,233.5,Under,Loss
+Phoenix,LA Lakers,2024-01-11 11:16:24,114.799,114.296,229.096,0.514,0.486,127,109,236,Phoenix,Phoenix,Win,237.0,Under,Win
+Indiana,Atlanta,2024-01-12 11:19:23,121.15,121.049,242.199,0.504,0.496,126,108,234,Indiana,Indiana,Win,252.0,Under,Win
+Houston,Detroit,2024-01-12 11:19:24,116.137,112.684,228.821,0.597,0.403,112,110,222,Houston,Houston,Win,227.5,Over,Loss
+Sacramento,Philadelphia,2024-01-12 11:19:24,115.079,117.174,232.253,0.441,0.559,93,112,205,Philadelphia,Philadelphia,Win,242.5,Under,Win
+Charlotte,San Antonio,2024-01-12 11:19:24,116.229,115.508,231.738,0.521,0.479,99,135,234,Charlotte,San Antonio,Loss,242.5,Under,Win
+Golden State,Chicago,2024-01-12 11:19:24,114.513,114.138,228.651,0.511,0.489,140,131,271,Golden State,Golden State,Win,228.5,Over,Win
+Orlando,Miami,2024-01-12 11:19:24,111.446,111.996,223.442,0.485,0.515,96,99,195,Miami,Miami,Win,219.0,Over,Loss
+Portland,Minnesota,2024-01-12 11:19:24,110.998,115.59,226.589,0.373,0.627,93,116,209,Minnesota,Minnesota,Win,221.5,Over,Loss
+Toronto,Utah,2024-01-12 11:19:25,116.207,115.019,231.226,0.533,0.467,113,145,258,Toronto,Utah,Loss,237.5,Under,Loss
+New Orleans,Denver,2024-01-12 11:19:25,113.179,113.786,226.964,0.483,0.517,113,125,238,Denver,Denver,Win,229.5,Under,Loss
+Houston,Boston,2024-01-13 11:17:58,111.45,116.656,228.105,0.357,0.643,113,145,258,Boston,Boston,Win,227.5,Over,Win
+Washington,Atlanta,2024-01-13 11:17:58,117.599,120.2,237.799,0.426,0.574,127,99,226,Atlanta,Washington,Loss,252.0,Under,Win
+Golden State,Milwaukee,2024-01-13 11:17:58,117.199,118.962,236.161,0.45,0.55,118,129,247,Milwaukee,Milwaukee,Win,246.0,Under,Loss
+New York,Memphis,2024-01-13 11:17:58,114.122,112.025,226.146,0.559,0.441,106,94,200,New York,New York,Win,223.0,Over,Loss
+Orlando,Okla City,2024-01-13 11:17:58,113.59,116.369,229.959,0.422,0.578,100,112,212,Okla City,Okla City,Win,232.0,Under,Win
+New Orleans,Dallas,2024-01-13 11:17:59,115.5,114.33,229.83,0.533,0.467,118,108,226,New Orleans,New Orleans,Win,229.0,Over,Loss
+Chicago,San Antonio,2024-01-13 11:17:59,116.849,112.374,229.224,0.625,0.375,122,116,238,Chicago,Chicago,Win,225.0,Over,Win
+LA Lakers,Utah,2024-01-13 11:17:59,116.666,115.923,232.589,0.521,0.479,125,132,257,LA Lakers,Utah,Loss,238.5,Under,Loss
+Indiana,Denver,2024-01-14 11:15:58,116.014,118.566,234.58,0.429,0.571,109,117,226,Denver,Denver,Win,237.0,Under,Win
+Charlotte,Miami,2024-01-14 11:15:58,110.125,114.754,224.879,0.372,0.628,87,104,191,Miami,Miami,Win,222.0,Over,Loss
+Sacramento,Milwaukee,2024-01-14 11:15:58,117.77,119.114,236.884,0.462,0.538,142,143,285,Milwaukee,Milwaukee,Win,247.0,Under,Loss
+Phoenix,Portland,2024-01-14 11:15:59,115.869,111.74,227.608,0.615,0.385,127,116,243,Phoenix,Phoenix,Win,231.0,Under,Loss
+Houston,Philadelphia,2024-01-15 11:16:58,111.249,115.822,227.071,0.373,0.627,115,124,239,Philadelphia,Philadelphia,Win,228.0,Under,Loss
+New Orleans,Dallas,2024-01-15 11:16:58,115.5,114.231,229.731,0.536,0.464,120,125,245,New Orleans,Dallas,Loss,235.0,Under,Loss
+Detroit,Washington,2024-01-15 11:16:58,115.212,117.433,232.646,0.437,0.563,129,117,246,Washington,Detroit,Loss,241.0,Under,Loss
+Orlando,New York,2024-01-15 11:16:58,111.75,113.82,225.57,0.441,0.559,98,94,192,New York,Orlando,Loss,221.5,Over,Loss
+San Antonio,Atlanta,2024-01-15 11:16:58,116.9,121.169,238.069,0.381,0.619,99,109,208,Atlanta,Atlanta,Win,246.0,Under,Win
+Golden State,Memphis,2024-01-15 11:16:58,115.427,114.719,230.146,0.52,0.48,107,116,223,Golden State,Memphis,Loss,226.5,Over,Loss
+Chicago,Cleveland,2024-01-15 11:16:59,110.291,112.125,222.416,0.448,0.552,91,109,200,Cleveland,Cleveland,Win,220.5,Over,Loss
+Boston,Toronto,2024-01-15 11:16:59,116.624,112.691,229.315,0.609,0.391,105,96,201,Boston,Boston,Win,242.5,Under,Win
+Miami,Brooklyn,2024-01-15 11:16:59,112.461,111.736,224.197,0.52,0.48,96,95,191,Miami,Miami,Win,217.5,Over,Loss
+Indiana,Utah,2024-01-15 11:16:59,119.617,119.028,238.645,0.517,0.483,105,132,237,Indiana,Utah,Loss,247.5,Under,Win
+Okla City,LA Lakers,2024-01-15 11:16:59,117.679,115.125,232.804,0.572,0.428,105,112,217,Okla City,LA Lakers,Loss,237.0,Under,Win
+Denver,Philadelphia,2024-01-16 11:17:09,113.274,113.839,227.112,0.484,0.516,121,126,247,Philadelphia,Philadelphia,Win,227.0,Over,Win
+Sacramento,Phoenix,2024-01-16 11:17:09,116.213,116.265,232.478,0.498,0.502,117,119,236,Phoenix,Phoenix,Win,243.0,Under,Win
+Okla City,LA Clippers,2024-01-16 11:17:09,116.173,115.225,231.398,0.526,0.474,117,128,245,Okla City,LA,Loss,236.5,Under,Loss
+Minnesota,Detroit,2024-01-17 11:16:36,117.281,111.2,228.481,0.667,0.333,124,117,241,Minnesota,Minnesota,Win,223.0,Over,Win
+Miami,Toronto,2024-01-17 11:16:36,112.261,111.831,224.092,0.512,0.488,97,121,218,Miami,Toronto,Loss,227.5,Under,Win
+Orlando,Atlanta,2024-01-17 11:16:36,116.237,116.12,232.357,0.504,0.496,104,106,210,Orlando,Atlanta,Loss,232.0,Over,Loss
+San Antonio,Boston,2024-01-17 11:16:36,111.847,120.563,232.411,0.269,0.731,98,117,215,Boston,Boston,Win,237.0,Under,Win
+Milwaukee,Cleveland,2024-01-17 11:16:36,114.632,114.5,229.133,0.504,0.496,95,135,230,Milwaukee,Cleveland,Loss,238.0,Under,Win
+Houston,New York,2024-01-17 11:16:36,111.55,114.9,226.45,0.406,0.594,94,109,203,New York,New York,Win,220.0,Over,Loss
+Charlotte,New Orleans,2024-01-17 11:16:36,110.967,117.039,228.006,0.334,0.666,112,132,244,New Orleans,New Orleans,Win,229.0,Under,Loss
+Dallas,LA Lakers,2024-01-17 11:16:37,115.924,115.45,231.374,0.514,0.486,110,127,237,Dallas,LA Lakers,Loss,242.0,Under,Win
+Golden State,Utah,2024-01-17 11:16:37,117.875,117.175,235.05,0.52,0.48,0,0,0,Golden State,Tie,Loss,243.0,Under,Win
+Brooklyn,Portland,2024-01-17 11:16:37,115.233,112.16,227.393,0.586,0.414,103,105,208,Brooklyn,Portland,Loss,223.0,Over,Loss
+Chicago,Toronto,2024-01-18 11:21:45,112.619,112.971,225.59,0.49,0.51,116,110,226,Toronto,Chicago,Loss,225.0,Over,Win
+Washington,New York,2024-01-18 11:21:45,112.764,117.17,229.934,0.378,0.622,109,113,222,New York,New York,Win,237.0,Under,Win
+Okla City,Utah,2024-01-18 11:21:45,118.848,116.021,234.869,0.579,0.421,134,129,263,Okla City,Okla City,Win,246.5,Under,Loss
+Indiana,Sacramento,2024-01-18 11:21:45,119.291,120.32,239.611,0.47,0.53,126,121,247,Sacramento,Indiana,Loss,247.0,Under,Tie
+Memphis,Minnesota,2024-01-18 11:21:45,111.849,113.648,225.498,0.451,0.549,103,118,221,Minnesota,Minnesota,Win,215.0,Over,Win
+San Antonio,Charlotte,2024-01-19 11:17:04,115.581,115.781,231.363,0.494,0.506,120,124,244,Charlotte,Charlotte,Win,236.0,Under,Loss
+Philadelphia,Orlando,2024-01-19 11:17:04,114.655,111.349,226.005,0.592,0.408,124,109,233,Philadelphia,Philadelphia,Win,222.0,Over,Win
+Denver,Boston,2024-01-19 11:17:05,113.324,114.961,228.285,0.455,0.545,102,100,202,Boston,Denver,Loss,234.5,Under,Win
+Atlanta,Miami,2024-01-19 11:17:05,114.674,115.335,230.009,0.481,0.519,109,108,217,Miami,Atlanta,Loss,228.0,Over,Loss
+Phoenix,New Orleans,2024-01-19 11:17:05,113.543,114.469,228.012,0.474,0.526,123,109,232,New Orleans,Phoenix,Loss,236.0,Under,Win
+Indiana,Portland,2024-01-19 11:17:05,118.886,115.741,234.626,0.587,0.413,115,118,233,Indiana,Portland,Loss,237.5,Under,Win
+Brooklyn,LA Lakers,2024-01-19 11:17:05,114.195,114.647,228.842,0.488,0.512,130,112,242,LA Lakers,Brooklyn,Loss,226.5,Over,Win
+Milwaukee,Detroit,2024-01-20 11:15:07,120.575,114.061,234.636,0.677,0.323,141,135,276,Milwaukee,Milwaukee,Win,242.5,Under,Loss
+Philadelphia,Charlotte,2024-01-20 11:15:07,117.821,110.424,228.245,0.7,0.3,97,89,186,Philadelphia,Philadelphia,Win,231.5,Under,Win
+San Antonio,Washington,2024-01-20 11:15:08,116.07,118.184,234.254,0.44,0.56,131,127,258,Washington,San Antonio,Loss,241.5,Under,Loss
+Cleveland,Atlanta,2024-01-20 11:15:08,116.331,113.791,230.122,0.57,0.43,116,95,211,Cleveland,Cleveland,Win,232.5,Under,Win
+Toronto,New York,2024-01-20 11:15:08,112.517,114.149,226.666,0.454,0.546,100,126,226,New York,New York,Win,228.5,Under,Win
+Memphis,Chicago,2024-01-20 11:15:08,112.05,112.297,224.347,0.493,0.507,96,125,221,Chicago,Chicago,Win,215.5,Over,Win
+Utah,Houston,2024-01-20 11:15:08,116.121,114.825,230.946,0.537,0.463,126,127,253,Utah,Houston,Loss,233.5,Under,Loss
+Okla City,Minnesota,2024-01-20 11:15:08,115.5,114.799,230.298,0.52,0.48,102,97,199,Okla City,Okla City,Win,228.5,Over,Loss
+Brooklyn,LA Clippers,2024-01-21 11:15:36,113.05,114.721,227.771,0.453,0.547,114,125,239,LA Clippers,LA,Loss,226.5,Over,Win
+Denver,Washington,2024-01-21 11:15:36,117.707,112.737,230.444,0.637,0.363,113,104,217,Denver,Denver,Win,239.0,Under,Win
+Miami,Orlando,2024-01-21 11:15:37,111.468,110.772,222.24,0.519,0.481,87,105,192,Miami,Orlando,Loss,216.0,Over,Loss
+Boston,Houston,2024-01-21 11:15:37,116.938,111.224,228.163,0.657,0.343,116,107,223,Boston,Boston,Win,228.0,Over,Loss
+Indiana,Phoenix,2024-01-21 11:15:37,116.891,118.105,234.997,0.466,0.534,110,117,227,Phoenix,Phoenix,Win,248.0,Under,Win
+Portland,LA Lakers,2024-01-21 11:15:37,112.947,116.222,229.169,0.409,0.591,110,134,244,LA Lakers,LA Lakers,Win,227.5,Over,Win
+Cleveland,Orlando,2024-01-22 11:17:00,112.425,109.888,222.313,0.571,0.429,126,99,225,Cleveland,Cleveland,Win,215.0,Over,Win
+Milwaukee,Detroit,2024-01-22 11:17:00,120.775,114.262,235.037,0.678,0.322,122,113,235,Milwaukee,Milwaukee,Win,247.5,Under,Win
+San Antonio,Philadelphia,2024-01-22 11:17:00,111.695,119.416,231.111,0.292,0.708,123,133,256,Philadelphia,Philadelphia,Win,237.5,Under,Loss
+Memphis,Toronto,2024-01-22 11:17:00,112.946,113.5,226.445,0.485,0.515,108,100,208,Toronto,Memphis,Loss,226.0,Over,Loss
+Charlotte,Minnesota,2024-01-22 11:17:01,110.497,116.279,226.776,0.341,0.659,128,125,253,Minnesota,Charlotte,Loss,222.5,Over,Win
+Boston,Dallas,2024-01-22 11:17:01,117.142,113.515,230.657,0.601,0.399,119,110,229,Boston,Boston,Win,239.5,Under,Win
+Chicago,Phoenix,2024-01-22 11:17:01,112.447,113.339,225.787,0.474,0.526,113,115,228,Phoenix,Phoenix,Win,229.0,Under,Win
+Atlanta,Sacramento,2024-01-22 11:17:01,118.524,119.774,238.297,0.464,0.536,107,122,229,Sacramento,Sacramento,Win,237.0,Over,Loss
+Denver,Indiana,2024-01-23 09:23:17,118.416,115.602,234.018,0.579,0.421,114,109,223,Denver,Denver,Win,239.0,Under,Win
+New York,Brooklyn,2024-01-23 09:23:17,114.299,112.169,226.469,0.56,0.44,108,103,211,New York,New York,Win,223.0,Over,Loss
+Utah,New Orleans,2024-01-23 09:23:17,114.8,116.942,231.742,0.44,0.56,124,153,277,New Orleans,New Orleans,Win,238.5,Under,Loss
+Portland,Okla City,2024-01-23 09:23:17,112.751,118.37,231.121,0.345,0.655,109,111,220,Okla City,Okla City,Win,234.5,Under,Win
+LA Lakers,LA Clippers,2024-01-23 09:23:17,114.216,115.575,229.791,0.461,0.539,116,127,243,LA Clippers,LA,Loss,232.0,Under,Loss
+Charlotte,Detroit,2024-01-24 11:16:43,115.197,114.894,230.091,0.509,0.491,106,113,219,Charlotte,Detroit,Loss,233.0,Under,Win
+Minnesota,Washington,2024-01-24 11:16:43,116.919,112.942,229.861,0.611,0.389,118,107,225,Minnesota,Minnesota,Win,230.0,Under,Win
+Memphis,Miami,2024-01-24 11:16:43,110.895,111.539,222.434,0.482,0.518,105,96,201,Miami,Memphis,Loss,212.5,Over,Loss
+Cleveland,Milwaukee,2024-01-24 11:16:43,114.877,114.274,229.151,0.517,0.483,116,126,242,Cleveland,Milwaukee,Loss,236.0,Under,Loss
+Portland,Houston,2024-01-24 11:16:43,112.899,114.366,227.265,0.459,0.541,137,131,268,Houston,Portland,Loss,221.5,Over,Win
+Phoenix,Dallas,2024-01-24 11:16:43,115.324,114.715,230.039,0.517,0.483,132,109,241,Phoenix,Phoenix,Win,240.5,Under,Loss
+Okla City,San Antonio,2024-01-24 11:16:43,120.891,113.97,234.861,0.688,0.312,140,114,254,Okla City,Okla City,Win,241.0,Under,Loss
+Atlanta,Golden State,2024-01-24 11:16:43,118.172,118.968,237.14,0.477,0.523,112,134,246,Golden State,Golden State,Win,233.0,Over,Win
+Philadelphia,Indiana,2024-01-25 11:17:05,118.954,115.452,234.407,0.597,0.403,122,134,256,Philadelphia,Indiana,Loss,237.0,Under,Loss
+Utah,Washington,2024-01-25 11:17:05,118.394,116.453,234.847,0.555,0.445,123,108,231,Utah,Utah,Win,245.0,Under,Win
+Boston,Miami,2024-01-25 11:17:05,114.065,110.274,224.339,0.606,0.394,143,110,253,Boston,Boston,Win,225.5,Under,Loss
+Minnesota,Brooklyn,2024-01-25 11:17:05,114.075,112.372,226.447,0.549,0.451,96,94,190,Minnesota,Minnesota,Win,218.0,Over,Loss
+Denver,New York,2024-01-25 11:17:05,113.251,112.736,225.987,0.515,0.485,84,122,206,Denver,New York,Loss,223.0,Over,Loss
+Sacramento,Golden State,2024-01-25 11:17:06,118.271,117.825,236.096,0.512,0.488,134,133,267,Sacramento,Sacramento,Win,240.5,Under,Loss
+Chicago,LA Lakers,2024-01-25 11:17:06,113.609,113.734,227.343,0.496,0.504,132,141,273,LA Lakers,LA Lakers,Win,226.5,Over,Win
+Dallas,Atlanta,2024-01-26 11:15:17,118.28,117.416,235.696,0.524,0.476,148,143,291,Dallas,Dallas,Win,243.0,Under,Loss
+Houston,Charlotte,2024-01-26 11:15:17,115.101,112.713,227.814,0.567,0.433,138,104,242,Houston,Houston,Win,223.5,Over,Win
+Phoenix,Indiana,2024-01-26 11:15:17,118.111,116.693,234.804,0.54,0.46,131,133,264,Phoenix,Indiana,Loss,243.0,Under,Loss
+Cleveland,Milwaukee,2024-01-26 11:15:17,114.852,114.379,229.232,0.513,0.487,112,100,212,Cleveland,Cleveland,Win,237.5,Under,Win
+Orlando,Memphis,2024-01-26 11:15:17,112.147,112.275,224.422,0.497,0.503,106,107,213,Memphis,Memphis,Win,212.5,Over,Win
+Okla City,New Orleans,2024-01-26 11:15:17,116.021,115.499,231.521,0.514,0.486,107,83,190,Okla City,Okla City,Win,240.5,Under,Win
+Portland,San Antonio,2024-01-26 11:15:17,116.577,115.103,231.681,0.541,0.459,100,116,216,Portland,San Antonio,Loss,231.5,Over,Loss
+Washington,Detroit,2024-01-27 11:13:42,117.281,115.403,232.684,0.553,0.447,118,104,222,Washington,Washington,Win,243.5,Under,Win
+Miami,New York,2024-01-27 11:13:42,110.224,112.377,222.602,0.44,0.56,109,125,234,New York,New York,Win,215.5,Over,Win
+Philadelphia,Denver,2024-01-27 11:13:42,113.864,113.131,226.995,0.521,0.479,105,111,216,Philadelphia,Denver,Loss,228.5,Under,Win
+Houston,Brooklyn,2024-01-27 11:13:43,112.848,114.243,227.09,0.461,0.539,104,106,210,Brooklyn,Brooklyn,Win,218.5,Over,Loss
+Utah,Charlotte,2024-01-27 11:13:43,117.998,114.115,232.113,0.608,0.392,134,122,256,Utah,Utah,Win,236.0,Under,Loss
+New Orleans,Milwaukee,2024-01-27 11:13:43,116.298,116.431,232.729,0.495,0.505,117,141,258,Milwaukee,Milwaukee,Win,241.0,Under,Loss
+LA Lakers,Golden State,2024-01-27 11:13:43,116.697,116.869,233.566,0.495,0.505,145,144,289,Golden State,LA Lakers,Loss,239.5,Under,Loss
+Minnesota,San Antonio,2024-01-27 11:13:43,118.153,112.197,230.351,0.663,0.337,112,113,225,Minnesota,San Antonio,Loss,228.0,Over,Loss
+Sacramento,Dallas,2024-01-27 11:13:43,117.814,117.222,235.036,0.518,0.482,120,115,235,Sacramento,Sacramento,Win,242.0,Under,Win
+Okla City,Detroit,2024-01-28 11:16:06,119.974,112.987,232.961,0.689,0.311,104,120,224,Okla City,Detroit,Loss,239.0,Under,Win
+Memphis,Indiana,2024-01-28 11:16:06,116.531,116.612,233.144,0.498,0.502,110,116,226,Indiana,Indiana,Win,232.0,Over,Loss
+Toronto,Atlanta,2024-01-28 11:16:06,117.069,116.521,233.59,0.515,0.485,125,126,251,Toronto,Atlanta,Loss,240.0,Under,Loss
+Phoenix,Orlando,2024-01-28 11:16:06,113.892,112.346,226.238,0.544,0.456,98,113,211,Phoenix,Orlando,Loss,227.5,Under,Win
+Chicago,Portland,2024-01-28 11:16:06,114.594,111.448,226.042,0.587,0.413,104,96,200,Chicago,Chicago,Win,218.0,Over,Loss
+New York,Charlotte,2024-01-29 11:15:35,116.782,110.299,227.081,0.677,0.323,113,92,205,New York,New York,Win,223.5,Over,Loss
+New Orleans,Boston,2024-01-29 11:15:35,113.15,115.639,228.789,0.431,0.569,112,118,230,Boston,Boston,Win,233.5,Under,Win
+Utah,Brooklyn,2024-01-29 11:15:35,115.483,115.714,231.196,0.494,0.506,114,147,261,Brooklyn,Brooklyn,Win,235.0,Under,Loss
+Phoenix,Miami,2024-01-29 11:15:35,112.65,111.536,224.186,0.531,0.469,118,105,223,Phoenix,Phoenix,Win,229.5,Under,Win
+Sacramento,Memphis,2024-01-29 11:15:35,116.103,114.911,231.014,0.534,0.466,103,94,197,Sacramento,Sacramento,Win,225.0,Over,Loss
+LA Lakers,Houston,2024-01-29 11:15:36,115.849,113.982,229.832,0.553,0.447,119,135,254,LA Lakers,Houston,Loss,227.5,Over,Win
+Minnesota,Okla City,2024-01-29 11:15:36,114.425,115.31,229.734,0.476,0.524,107,101,208,Okla City,Minnesota,Loss,224.5,Over,Loss
+Washington,San Antonio,2024-01-29 11:15:36,118.131,116.082,234.212,0.557,0.443,118,113,231,Washington,Washington,Win,241.0,Under,Win
+Orlando,Dallas,2024-01-29 11:15:36,113.749,114.407,228.156,0.482,0.518,129,131,260,Dallas,Dallas,Win,228.5,Under,Loss
+Milwaukee,Denver,2024-01-29 11:15:36,115.748,116.097,231.845,0.491,0.509,107,113,220,Denver,Denver,Win,239.0,Under,Win
+Philadelphia,Portland,2024-01-29 11:15:36,116.9,110.825,227.724,0.666,0.334,104,130,234,Philadelphia,Portland,Loss,224.5,Over,Win
+Indiana,Boston,2024-01-30 11:18:00,115.5,119.818,235.318,0.379,0.621,124,129,253,Boston,Boston,Win,242.0,Under,Loss
+LA Lakers,Atlanta,2024-01-30 11:18:01,118.479,117.69,236.169,0.523,0.477,122,138,260,LA Lakers,Atlanta,Loss,246.5,Under,Loss
+Utah,New York,2024-01-30 11:18:01,113.896,116.806,230.702,0.419,0.581,103,118,221,New York,New York,Win,232.0,Under,Win
+Toronto,Chicago,2024-01-30 11:18:01,112.772,112.945,225.717,0.496,0.504,118,107,225,Chicago,Toronto,Loss,226.0,Under,Win
+Philadelphia,Golden State,2024-01-30 11:18:01,117.123,114.745,231.868,0.567,0.433,107,119,226,Philadelphia,Golden State,Loss,235.5,Under,Win
+Chicago,Charlotte,2024-01-31 11:16:11,115.248,110.919,226.168,0.62,0.38,117,110,227,Chicago,Chicago,Win,218.0,Over,Win
+Detroit,Cleveland,2024-01-31 11:16:11,109.738,116.412,226.151,0.318,0.682,121,128,249,Cleveland,Cleveland,Win,230.0,Under,Loss
+Sacramento,Miami,2024-01-31 11:16:11,114.738,113.656,228.393,0.532,0.468,106,115,221,Sacramento,Miami,Loss,230.0,Under,Win
+Dallas,Minnesota,2024-01-31 11:16:11,113.946,115.169,229.115,0.466,0.534,87,121,208,Minnesota,Minnesota,Win,222.0,Over,Loss
+Denver,Okla City,2024-01-31 11:16:11,114.925,114.929,229.853,0.499,0.501,100,105,205,Okla City,Okla City,Win,229.0,Over,Loss
+New Orleans,Houston,2024-01-31 11:16:11,115.525,112.525,228.05,0.584,0.416,110,99,209,New Orleans,New Orleans,Win,230.5,Under,Win
+Orlando,San Antonio,2024-01-31 11:16:11,116.778,112.775,229.552,0.612,0.388,108,98,206,Orlando,Orlando,Win,228.5,Over,Loss
+Phoenix,Brooklyn,2024-01-31 11:16:11,114.272,113.2,227.472,0.531,0.469,136,120,256,Phoenix,Phoenix,Win,234.0,Under,Loss
+Milwaukee,Portland,2024-01-31 11:16:12,118.762,113.859,232.622,0.635,0.365,116,119,235,Milwaukee,Portland,Loss,237.5,Under,Win
+LA Lakers,Boston,2024-02-01 11:15:45,113.594,117.495,231.088,0.391,0.609,114,105,219,Boston,LA Lakers,Loss,240.5,Under,Win
+Indiana,New York,2024-02-01 11:15:45,115.292,117.931,233.223,0.426,0.574,105,109,214,New York,New York,Win,240.0,Under,Win
+Cleveland,Memphis,2024-02-01 11:15:45,112.775,110.011,222.786,0.578,0.422,108,101,209,Cleveland,Cleveland,Win,216.5,Over,Loss
+Philadelphia,Utah,2024-02-01 11:15:46,117.593,114.286,231.879,0.592,0.408,127,124,251,Philadelphia,Philadelphia,Win,235.5,Under,Loss
+Miami,Washington,2024-02-02 11:15:39,114.403,112.184,226.587,0.562,0.438,110,102,212,Miami,Miami,Win,229.0,Under,Win
+Phoenix,Atlanta,2024-02-02 11:15:39,117.968,116.31,234.278,0.547,0.453,120,129,249,Phoenix,Atlanta,Loss,247.0,Under,Loss
+Sacramento,Indiana,2024-02-02 11:15:39,120.096,118.918,239.014,0.534,0.466,133,122,255,Sacramento,Sacramento,Win,248.0,Under,Loss
+Charlotte,Okla City,2024-02-02 11:15:39,112.15,118.8,230.95,0.319,0.681,106,126,232,Okla City,Okla City,Win,228.5,Over,Win
+Golden State,Memphis,2024-02-02 11:15:39,115.49,114.686,230.177,0.522,0.478,121,101,222,Golden State,Golden State,Win,223.0,Over,Loss
+Toronto,Houston,2024-02-02 11:15:39,114.596,112.996,227.592,0.545,0.455,106,135,241,Toronto,Houston,Loss,228.5,Under,Loss
+Orlando,Minnesota,2024-02-02 11:15:39,111.35,113.272,224.622,0.446,0.554,108,106,214,Minnesota,Orlando,Loss,212.0,Over,Win
+New Orleans,San Antonio,2024-02-02 11:15:39,118.728,112.775,231.503,0.664,0.336,114,113,227,New Orleans,New Orleans,Win,234.5,Under,Win
+Portland,Denver,2024-02-02 11:15:39,110.925,116.02,226.945,0.36,0.64,108,120,228,Denver,Denver,Win,221.0,Over,Win
+Brooklyn,Philadelphia,2024-02-03 11:14:31,112.371,115.042,227.413,0.426,0.574,136,121,257,Philadelphia,Brooklyn,Loss,234.0,Under,Loss
+Golden State,Atlanta,2024-02-03 11:14:31,119.519,118.496,238.015,0.529,0.471,134,141,275,Golden State,Atlanta,Loss,246.5,Under,Loss
+Sacramento,Chicago,2024-02-03 11:14:32,115.592,114.763,230.356,0.524,0.476,123,115,238,Sacramento,Sacramento,Win,229.0,Over,Win
+Cleveland,San Antonio,2024-02-03 11:14:32,117.284,110.451,227.734,0.686,0.314,117,101,218,Cleveland,Cleveland,Win,229.5,Under,Win
+Milwaukee,Dallas,2024-02-03 11:14:33,118.382,116.575,234.957,0.551,0.449,129,117,246,Milwaukee,Milwaukee,Win,246.5,Under,Win
+LA Lakers,New York,2024-02-03 11:14:33,113.286,115.472,228.758,0.438,0.562,113,105,218,New York,LA Lakers,Loss,226.0,Over,Loss
+Orlando,Detroit,2024-02-04 11:14:58,115.913,111.999,227.912,0.608,0.392,111,99,210,Orlando,Orlando,Win,228.0,Under,Win
+Phoenix,Washington,2024-02-04 11:14:58,117.16,113.725,230.885,0.596,0.404,140,112,252,Phoenix,Phoenix,Win,237.0,Under,Loss
+Memphis,Boston,2024-02-04 11:14:59,111.325,115.59,226.915,0.381,0.619,91,131,222,Boston,Boston,Win,221.5,Over,Win
+Indiana,Charlotte,2024-02-04 11:14:59,119.498,115.309,234.807,0.617,0.383,115,99,214,Indiana,Indiana,Win,239.5,Under,Win
+Houston,Minnesota,2024-02-04 11:14:59,111.749,114.748,226.497,0.415,0.585,90,111,201,Minnesota,Minnesota,Win,222.0,Over,Loss
+Toronto,Okla City,2024-02-04 11:14:59,114.024,116.525,230.549,0.43,0.57,127,135,262,Okla City,Okla City,Win,236.5,Under,Loss
+Milwaukee,Utah,2024-02-04 11:14:59,119.748,117.125,236.872,0.573,0.427,108,123,231,Milwaukee,Utah,Loss,247.5,Under,Win
+Portland,Denver,2024-02-04 11:14:59,110.9,116.046,226.946,0.358,0.642,103,112,215,Denver,Denver,Win,220.5,Over,Loss
+LA Lakers,Charlotte,2024-02-05 11:15:42,117.493,112.853,230.347,0.629,0.371,124,118,242,LA Lakers,LA Lakers,Win,228.0,Over,Win
+Sacramento,Cleveland,2024-02-05 11:15:43,113.586,115.198,228.784,0.454,0.546,110,136,246,Cleveland,Cleveland,Win,235.0,Under,Loss
+Dallas,Philadelphia,2024-02-05 11:15:43,113.928,116.425,230.353,0.429,0.571,118,102,220,Philadelphia,Dallas,Loss,243.0,Under,Win
+Golden State,Brooklyn,2024-02-05 11:15:43,116.125,115.581,231.706,0.515,0.485,109,98,207,Golden State,Golden State,Win,237.5,Under,Win
+Toronto,New Orleans,2024-02-05 11:15:43,113.224,114.849,228.073,0.453,0.547,100,138,238,New Orleans,New Orleans,Win,231.0,Under,Loss
+Houston,Indiana,2024-02-06 11:18:07,116.415,117.752,234.167,0.463,0.537,129,132,261,Indiana,Indiana,Win,239.0,Under,Loss
+Dallas,Brooklyn,2024-02-06 11:18:08,114.943,114.816,229.759,0.503,0.497,119,107,226,Dallas,Dallas,Win,235.0,Under,Win
+Memphis,New York,2024-02-06 11:18:08,110.949,113.772,224.721,0.421,0.579,113,123,236,New York,New York,Win,213.5,Over,Win
+Orlando,Miami,2024-02-06 11:18:08,110.798,110.942,221.74,0.496,0.504,95,121,216,Miami,Miami,Win,211.5,Over,Win
+Minnesota,Chicago,2024-02-06 11:18:08,113.046,111.499,224.545,0.544,0.456,123,129,252,Minnesota,Chicago,Loss,217.0,Over,Win
+Okla City,Utah,2024-02-06 11:18:08,118.95,116.017,234.967,0.582,0.418,117,124,241,Okla City,Utah,Loss,240.5,Under,Loss
+Milwaukee,Phoenix,2024-02-06 11:18:08,116.823,116.198,233.021,0.517,0.483,106,114,220,Milwaukee,Phoenix,Loss,243.5,Under,Win
+Toronto,Charlotte,2024-02-07 11:16:01,116.121,112.124,228.245,0.611,0.389,123,117,240,Toronto,Toronto,Win,225.5,Over,Win
+Cleveland,Washington,2024-02-07 11:16:01,116.059,110.986,227.045,0.64,0.36,114,106,220,Cleveland,Cleveland,Win,234.0,Under,Win
+Atlanta,Boston,2024-02-07 11:16:01,115.26,119.793,235.054,0.375,0.625,117,125,242,Boston,Boston,Win,244.0,Under,Win
+Golden State,Philadelphia,2024-02-07 11:16:01,115.027,116.873,231.9,0.448,0.552,127,104,231,Philadelphia,Golden State,Loss,237.5,Under,Win
+San Antonio,Miami,2024-02-07 11:16:01,111.292,115.713,227.005,0.377,0.623,104,116,220,Miami,Miami,Win,223.5,Over,Loss
+Detroit,Sacramento,2024-02-07 11:16:01,114.605,119.824,234.429,0.356,0.644,133,120,253,Sacramento,Detroit,Loss,242.0,Under,Loss
+New Orleans,LA Clippers,2024-02-07 11:16:01,114.292,114.41,228.702,0.497,0.503,117,106,223,LA Clippers,New Orleans,Loss,231.0,Under,Win
+Golden State,Indiana,2024-02-08 11:19:41,119.743,118.742,238.485,0.527,0.473,131,109,240,Golden State,Golden State,Win,251.5,Under,Win
+San Antonio,Orlando,2024-02-08 11:19:41,112.5,116.503,229.003,0.388,0.612,111,127,238,Orlando,Orlando,Win,226.0,Over,Win
+Cleveland,Brooklyn,2024-02-08 11:19:41,113.374,110.619,223.994,0.577,0.423,118,95,213,Cleveland,Cleveland,Win,224.5,Under,Win
+Dallas,New York,2024-02-08 11:19:41,113.289,115.422,228.711,0.44,0.56,122,108,230,New York,Dallas,Loss,230.5,Under,Win
+Chicago,Memphis,2024-02-08 11:19:41,112.599,111.875,224.473,0.52,0.48,118,110,228,Chicago,Chicago,Win,214.0,Over,Win
+Minnesota,Milwaukee,2024-02-08 11:19:41,115.467,115.614,231.081,0.497,0.503,129,105,234,Milwaukee,Minnesota,Loss,228.0,Over,Win
+Detroit,Portland,2024-02-08 11:19:41,114.294,115.552,229.846,0.465,0.535,128,122,250,Portland,Detroit,Loss,228.5,Over,Win
+Utah,Phoenix,2024-02-08 11:19:42,115.381,117.163,232.544,0.45,0.55,115,129,244,Phoenix,Phoenix,Win,243.5,Under,Loss
+Denver,LA Lakers,2024-02-08 11:19:42,115.624,113.541,229.165,0.559,0.441,114,106,220,Denver,Denver,Win,230.0,Under,Win
+Atlanta,Philadelphia,2024-02-09 11:16:24,115.807,118.574,234.38,0.424,0.576,127,121,248,Philadelphia,Atlanta,Loss,243.0,Under,Loss
+Washington,Boston,2024-02-09 11:16:24,112.34,118.85,231.19,0.323,0.677,129,133,262,Boston,Boston,Win,236.5,Under,Loss
+Houston,Toronto,2024-02-09 11:16:24,113.344,114.646,227.99,0.463,0.537,104,107,211,Toronto,Toronto,Win,233.5,Under,Win
+Charlotte,Milwaukee,2024-02-09 11:16:24,113.344,119.398,232.743,0.335,0.665,84,120,204,Milwaukee,Milwaukee,Win,232.5,Over,Loss
+Denver,Sacramento,2024-02-09 11:16:24,116.516,114.946,231.461,0.544,0.456,106,135,241,Denver,Sacramento,Loss,233.5,Under,Loss
+New Orleans,LA Lakers,2024-02-09 11:16:24,115.9,114.385,230.285,0.542,0.458,122,139,261,New Orleans,LA Lakers,Loss,234.5,Under,Loss
+Memphis,Charlotte,2024-02-10 11:14:49,115.144,111.336,226.48,0.606,0.394,106,115,221,Memphis,Charlotte,Loss,215.5,Over,Win
+Chicago,Orlando,2024-02-10 11:14:49,112.275,111.824,224.099,0.513,0.487,108,114,222,Chicago,Orlando,Loss,218.5,Over,Win
+Philadelphia,Washington,2024-02-10 11:14:50,117.64,112.996,230.635,0.629,0.371,119,113,232,Philadelphia,Philadelphia,Win,234.5,Under,Win
+Houston,Atlanta,2024-02-10 11:14:50,116.489,117.755,234.244,0.466,0.534,113,122,235,Atlanta,Atlanta,Win,228.5,Over,Win
+Cleveland,Toronto,2024-02-10 11:14:50,113.698,110.689,224.387,0.584,0.416,119,95,214,Cleveland,Cleveland,Win,226.5,Under,Win
+Indiana,New York,2024-02-10 11:14:50,115.202,117.805,233.007,0.426,0.574,125,111,236,New York,Indiana,Loss,233.5,Under,Loss
+Phoenix,Golden State,2024-02-10 11:14:50,116.422,115.944,232.366,0.513,0.487,112,113,225,Phoenix,Golden State,Loss,242.0,Under,Win
+New Orleans,Portland,2024-02-10 11:14:50,116.423,111.896,228.319,0.626,0.374,93,84,177,New Orleans,New Orleans,Win,220.5,Over,Loss
+Boston,Miami,2024-02-10 11:14:50,114.215,110.398,224.614,0.607,0.393,110,106,216,Boston,Boston,Win,226.0,Under,Win
+Sacramento,Okla City,2024-02-10 11:14:50,117.076,118.474,235.55,0.46,0.54,113,127,240,Okla City,Okla City,Win,240.0,Under,Tie
+Indiana,Charlotte,2024-02-12 11:15:51,119.348,115.185,234.533,0.616,0.384,102,111,213,Indiana,Charlotte,Loss,238.5,Under,Win
+Philadelphia,Cleveland,2024-02-12 11:15:51,111.847,112.524,224.371,0.481,0.519,123,121,244,Cleveland,Philadelphia,Loss,227.5,Under,Loss
+Chicago,Atlanta,2024-02-12 11:15:51,116.467,116.01,232.477,0.513,0.487,136,126,262,Chicago,Chicago,Win,236.5,Under,Loss
+San Antonio,Toronto,2024-02-12 11:15:51,113.446,117.595,231.042,0.385,0.615,122,99,221,Toronto,San Antonio,Loss,235.0,Under,Win
+Denver,Milwaukee,2024-02-12 11:15:51,115.772,115.388,231.16,0.511,0.489,95,112,207,Denver,Milwaukee,Loss,232.5,Under,Win
+New York,Houston,2024-02-12 11:15:51,115.124,111.398,226.521,0.604,0.396,103,105,208,New York,Houston,Loss,220.5,Over,Loss
+New Orleans,Memphis,2024-02-12 11:15:51,114.294,112.049,226.343,0.564,0.436,96,87,183,New Orleans,New Orleans,Win,223.5,Over,Loss
+Washington,Dallas,2024-02-12 11:15:51,114.996,117.818,232.813,0.42,0.58,104,112,216,Dallas,Dallas,Win,247.5,Under,Win
+Golden State,Utah,2024-02-12 11:15:51,118.75,117.325,236.075,0.541,0.459,129,107,236,Golden State,Golden State,Win,240.5,Under,Win
+Minnesota,LA Clippers,2024-02-12 11:15:52,113.598,113.625,227.223,0.499,0.501,121,100,221,LA Clippers,Minnesota,Loss,222.5,Over,Loss
+Minnesota,Portland,2024-02-13 11:17:49,115.618,111.0,226.618,0.629,0.371,121,100,221,Minnesota,Minnesota,Win,215.5,Over,Win
+Atlanta,Charlotte,2024-02-14 11:18:14,119.223,115.235,234.458,0.61,0.39,99,122,221,Atlanta,Charlotte,Loss,238.0,Under,Win
+Miami,Philadelphia,2024-02-14 11:18:14,110.945,112.905,223.849,0.445,0.555,109,104,213,Philadelphia,Miami,Loss,223.5,Over,Loss
+New York,Orlando,2024-02-14 11:18:14,113.496,111.074,224.57,0.568,0.432,100,118,218,New York,Orlando,Loss,211.0,Over,Win
+Brooklyn,Boston,2024-02-14 11:18:14,112.045,116.099,228.143,0.387,0.613,86,136,222,Boston,Boston,Win,226.5,Over,Loss
+Chicago,Cleveland,2024-02-14 11:18:15,110.103,112.699,222.802,0.426,0.574,105,108,213,Cleveland,Cleveland,Win,224.0,Under,Win
+Indiana,Toronto,2024-02-14 11:18:15,117.119,117.012,234.131,0.503,0.497,127,125,252,Indiana,Indiana,Win,245.0,Under,Loss
+Houston,Memphis,2024-02-14 11:18:15,112.499,113.481,225.979,0.472,0.528,113,121,234,Memphis,Memphis,Win,219.5,Over,Win
+Washington,New Orleans,2024-02-14 11:18:15,113.097,117.135,230.232,0.387,0.613,126,133,259,New Orleans,New Orleans,Win,233.5,Under,Loss
+San Antonio,Dallas,2024-02-14 11:18:15,114.238,119.095,233.333,0.365,0.635,93,116,209,Dallas,Dallas,Win,239.0,Under,Win
+Sacramento,Denver,2024-02-14 11:18:15,115.148,116.413,231.56,0.464,0.536,102,98,200,Denver,Sacramento,Loss,229.5,Over,Loss
+Detroit,Phoenix,2024-02-14 11:18:15,112.547,117.952,230.499,0.352,0.648,100,116,216,Phoenix,Phoenix,Win,236.0,Under,Win
+LA Lakers,Utah,2024-02-14 11:18:15,117.743,116.748,234.492,0.528,0.472,138,122,260,LA Lakers,LA Lakers,Win,239.5,Under,Loss
+Milwaukee,Memphis,2024-02-15 11:16:29,116.253,113.949,230.202,0.564,0.436,110,113,223,Milwaukee,Memphis,Loss,222.5,Over,Win
+Golden State,Utah,2024-02-15 11:16:29,118.95,117.3,236.25,0.546,0.454,140,137,277,Golden State,Golden State,Win,237.5,Under,Loss
+Minnesota,Portland,2024-02-15 11:16:29,115.668,111.0,226.668,0.63,0.37,128,91,219,Minnesota,Minnesota,Win,215.0,Over,Win
+Brooklyn,Toronto,2024-02-19 11:15:13,113.722,113.6,227.322,0.504,0.496,0,0,0,Brooklyn,Tie,Loss,231.5,Under,Win
+Orlando,Cleveland,2024-02-19 11:15:13,109.684,112.75,222.434,0.415,0.585,0,0,0,Cleveland,Tie,Loss,216.5,Over,Loss
+Detroit,Indiana,2024-02-19 11:15:13,116.157,120.075,236.232,0.391,0.609,0,0,0,Indiana,Tie,Loss,248.0,Under,Win
+New York,Philadelphia,2024-02-19 11:15:13,113.144,113.319,226.463,0.494,0.506,0,0,0,Philadelphia,Tie,Loss,226.5,Under,Win
+Phoenix,Dallas,2024-02-19 11:15:13,115.65,114.839,230.489,0.523,0.477,0,0,0,Phoenix,Tie,Loss,244.0,Under,Win
+Boston,Chicago,2024-02-19 11:15:13,115.454,111.522,226.977,0.61,0.39,0,0,0,Boston,Tie,Loss,226.5,Over,Loss
+Houston,New Orleans,2024-02-19 11:15:13,112.2,115.55,227.75,0.407,0.593,0,0,0,New Orleans,Tie,Loss,226.5,Over,Loss
+Charlotte,Utah,2024-02-19 11:15:13,114.475,117.924,232.4,0.403,0.597,0,0,0,Utah,Tie,Loss,232.5,Under,Win
+Washington,Denver,2024-02-19 11:15:13,112.439,116.853,229.292,0.377,0.623,0,0,0,Denver,Tie,Loss,230.5,Under,Win
+LA Lakers,Golden State,2024-02-19 11:15:14,117.049,117.542,234.592,0.486,0.514,0,0,0,Golden State,Tie,Loss,241.5,Under,Win
+San Antonio,Sacramento,2024-02-19 11:15:14,115.117,120.519,235.636,0.351,0.649,0,0,0,Sacramento,Tie,Loss,243.0,Under,Win
+Brooklyn,Toronto,2024-02-20 11:16:14,113.722,113.6,227.322,0.503,0.497,0,0,0,Brooklyn,Tie,Loss,231.5,Under,Win
+Orlando,Cleveland,2024-02-20 11:16:14,109.684,112.75,222.434,0.415,0.585,0,0,0,Cleveland,Tie,Loss,216.5,Over,Loss
+Detroit,Indiana,2024-02-20 11:16:14,116.157,120.075,236.232,0.391,0.609,0,0,0,Indiana,Tie,Loss,248.5,Under,Win
+New York,Philadelphia,2024-02-20 11:16:14,113.144,113.319,226.463,0.495,0.505,0,0,0,Philadelphia,Tie,Loss,226.5,Under,Win
+Phoenix,Dallas,2024-02-20 11:16:15,115.65,114.839,230.489,0.523,0.477,0,0,0,Phoenix,Tie,Loss,243.0,Under,Win
+Boston,Chicago,2024-02-20 11:16:15,115.454,111.522,226.977,0.609,0.391,0,0,0,Boston,Tie,Loss,226.0,Over,Loss
+Houston,New Orleans,2024-02-20 11:16:15,112.2,115.55,227.75,0.407,0.593,0,0,0,New Orleans,Tie,Loss,226.5,Over,Loss
+Charlotte,Utah,2024-02-20 11:16:15,114.475,117.924,232.4,0.403,0.597,0,0,0,Utah,Tie,Loss,232.5,Under,Win
+Washington,Denver,2024-02-20 11:16:15,112.439,116.853,229.292,0.378,0.622,0,0,0,Denver,Tie,Loss,230.5,Under,Win
+LA Lakers,Golden State,2024-02-20 11:16:15,117.049,117.542,234.592,0.486,0.514,0,0,0,Golden State,Tie,Loss,241.5,Under,Win
+San Antonio,Sacramento,2024-02-20 11:16:15,115.117,120.519,235.636,0.351,0.649,0,0,0,Sacramento,Tie,Loss,243.0,Under,Win
+Brooklyn,Toronto,2024-02-21 11:16:36,113.722,113.6,227.322,0.504,0.496,0,0,0,Brooklyn,Tie,Loss,231.5,Under,Win
+Orlando,Cleveland,2024-02-21 11:16:36,109.684,112.75,222.434,0.415,0.585,0,0,0,Cleveland,Tie,Loss,216.5,Over,Loss
+Detroit,Indiana,2024-02-21 11:16:37,116.157,120.075,236.232,0.39,0.61,0,0,0,Indiana,Tie,Loss,247.5,Under,Win
+New York,Philadelphia,2024-02-21 11:16:37,113.144,113.319,226.463,0.495,0.505,0,0,0,Philadelphia,Tie,Loss,226.0,Over,Loss
+Phoenix,Dallas,2024-02-21 11:16:37,115.65,114.839,230.489,0.522,0.478,0,0,0,Phoenix,Tie,Loss,243.0,Under,Win
+Boston,Chicago,2024-02-21 11:16:37,115.454,111.522,226.977,0.61,0.39,0,0,0,Boston,Tie,Loss,226.0,Over,Loss
+Houston,New Orleans,2024-02-21 11:16:37,112.2,115.55,227.75,0.406,0.594,0,0,0,New Orleans,Tie,Loss,226.5,Over,Loss
+Charlotte,Utah,2024-02-21 11:16:37,114.475,117.924,232.4,0.404,0.596,0,0,0,Utah,Tie,Loss,232.5,Under,Win
+Washington,Denver,2024-02-21 11:16:37,112.439,116.853,229.292,0.378,0.622,0,0,0,Denver,Tie,Loss,230.5,Under,Win
+LA Lakers,Golden State,2024-02-21 11:16:37,117.049,117.542,234.592,0.486,0.514,0,0,0,Golden State,Tie,Loss,241.5,Under,Win
+San Antonio,Sacramento,2024-02-21 11:16:37,115.117,120.519,235.636,0.351,0.649,0,0,0,Sacramento,Tie,Loss,242.5,Under,Win
+Orlando,Cleveland,2024-02-22 11:15:25,109.684,112.75,222.434,0.414,0.586,116,109,225,Cleveland,Orlando,Loss,215.5,Over,Win
+Brooklyn,Toronto,2024-02-22 11:15:25,113.722,113.6,227.322,0.504,0.496,93,121,214,Brooklyn,Toronto,Loss,231.5,Under,Win
+Detroit,Indiana,2024-02-22 11:15:25,116.157,120.075,236.232,0.391,0.609,115,129,244,Indiana,Indiana,Win,246.5,Under,Win
+New York,Philadelphia,2024-02-22 11:15:25,113.144,113.319,226.463,0.495,0.505,110,96,206,Philadelphia,New York,Loss,225.0,Over,Loss
+Phoenix,Dallas,2024-02-22 11:15:25,115.65,114.839,230.489,0.522,0.478,113,123,236,Phoenix,Dallas,Loss,244.5,Under,Win
+Houston,New Orleans,2024-02-22 11:15:26,112.2,115.55,227.75,0.407,0.593,105,127,232,New Orleans,New Orleans,Win,228.5,Under,Loss
+Boston,Chicago,2024-02-22 11:15:26,115.454,111.522,226.977,0.61,0.39,129,112,241,Boston,Boston,Win,225.0,Over,Win
+Charlotte,Utah,2024-02-22 11:15:26,114.475,117.924,232.4,0.404,0.596,115,107,222,Utah,Charlotte,Loss,230.5,Over,Loss
+Washington,Denver,2024-02-22 11:15:26,112.439,116.853,229.292,0.378,0.622,110,130,240,Denver,Denver,Win,231.5,Under,Loss
+LA Lakers,Golden State,2024-02-22 11:15:26,117.049,117.542,234.592,0.486,0.514,110,128,238,Golden State,Golden State,Win,243.0,Under,Win
+San Antonio,Sacramento,2024-02-22 11:15:26,115.117,120.519,235.636,0.351,0.649,122,127,249,Sacramento,Sacramento,Win,241.0,Under,Loss
+Toronto,Atlanta,2024-02-23 11:15:58,117.163,116.993,234.156,0.505,0.495,123,121,244,Toronto,Toronto,Win,245.0,Under,Win
+Cleveland,Philadelphia,2024-02-23 11:15:58,112.499,111.78,224.279,0.52,0.48,97,104,201,Cleveland,Philadelphia,Loss,228.0,Under,Win
+Phoenix,Houston,2024-02-23 11:15:58,115.7,112.648,228.348,0.586,0.414,110,114,224,Phoenix,Houston,Loss,231.0,Under,Win
+Miami,New Orleans,2024-02-23 11:15:59,111.093,112.563,223.656,0.459,0.541,106,95,201,New Orleans,Miami,Loss,222.5,Over,Loss
+Washington,Okla City,2024-02-23 11:15:59,114.474,119.175,233.649,0.369,0.631,106,147,253,Okla City,Okla City,Win,241.5,Under,Loss
+Charlotte,Golden State,2024-02-23 11:15:59,113.54,118.599,232.139,0.36,0.64,84,97,181,Golden State,Golden State,Win,229.5,Over,Loss
+Denver,Portland,2024-02-23 11:15:59,115.894,110.775,226.669,0.642,0.358,127,112,239,Denver,Denver,Win,219.5,Over,Win
+Milwaukee,Minnesota,2024-02-23 11:15:59,115.198,115.446,230.644,0.494,0.506,112,107,219,Minnesota,Milwaukee,Loss,225.0,Over,Loss
+San Antonio,LA Lakers,2024-02-23 11:15:59,114.384,119.222,233.606,0.367,0.633,118,123,241,LA Lakers,LA Lakers,Win,237.5,Under,Loss
+Orlando,Detroit,2024-02-24 11:14:27,115.868,111.999,227.868,0.608,0.392,112,109,221,Orlando,Orlando,Win,224.5,Over,Loss
+Boston,New York,2024-02-24 11:14:27,114.627,112.486,227.113,0.56,0.44,116,102,218,Boston,Boston,Win,224.5,Over,Loss
+Brooklyn,Minnesota,2024-02-24 11:14:28,111.897,114.175,226.072,0.435,0.565,86,101,187,Minnesota,Minnesota,Win,216.5,Over,Loss
+Milwaukee,Philadelphia,2024-02-25 11:14:46,115.563,115.975,231.538,0.489,0.511,119,98,217,Philadelphia,Milwaukee,Loss,233.5,Under,Win
+LA Lakers,Phoenix,2024-02-25 11:14:46,115.013,115.924,230.937,0.475,0.525,113,123,236,Phoenix,Phoenix,Win,239.0,Under,Win
+Dallas,Indiana,2024-02-25 11:14:47,118.63,117.78,236.41,0.524,0.476,111,133,244,Dallas,Indiana,Loss,253.5,Under,Win
+Cleveland,Washington,2024-02-25 11:14:47,116.079,110.809,226.888,0.646,0.354,114,105,219,Cleveland,Cleveland,Win,233.0,Under,Win
+Orlando,Atlanta,2024-02-25 11:14:47,116.229,116.017,232.246,0.505,0.495,92,109,201,Orlando,Atlanta,Loss,225.5,Over,Loss
+Chicago,New Orleans,2024-02-25 11:14:47,112.3,113.865,226.165,0.456,0.544,114,106,220,New Orleans,Chicago,Loss,222.0,Over,Loss
+Denver,Golden State,2024-02-25 11:14:47,115.945,114.782,230.727,0.533,0.467,119,103,222,Denver,Denver,Win,231.0,Under,Win
+Okla City,Houston,2024-02-25 11:14:47,117.536,113.44,230.976,0.613,0.387,123,110,233,Okla City,Okla City,Win,235.0,Under,Win
+San Antonio,Utah,2024-02-25 11:14:47,115.876,119.63,235.506,0.395,0.605,109,128,237,Utah,Utah,Win,241.0,Under,Win
+Charlotte,Portland,2024-02-25 11:14:47,113.338,114.266,227.604,0.475,0.525,93,80,173,Portland,Charlotte,Loss,215.0,Over,Loss
+Sacramento,LA Clippers,2024-02-25 11:14:47,116.233,116.82,233.053,0.484,0.516,123,107,230,LA Clippers,Sacramento,Loss,239.5,Under,Win
+Toronto,Indiana,2024-02-26 11:14:15,117.069,117.141,234.21,0.499,0.501,130,122,252,Indiana,Toronto,Loss,245.0,Under,Loss
+Detroit,New York,2024-02-26 11:14:15,111.099,117.136,228.235,0.334,0.666,111,113,224,New York,New York,Win,224.0,Over,Tie
+Brooklyn,Memphis,2024-02-26 11:14:16,112.65,112.644,225.294,0.5,0.5,111,86,197,Brooklyn,Brooklyn,Win,214.0,Over,Loss
+Miami,Sacramento,2024-02-26 11:14:16,113.754,114.369,228.123,0.482,0.518,121,110,231,Sacramento,Miami,Loss,225.0,Over,Win
+Brooklyn,Orlando,2024-02-27 11:15:02,112.425,112.47,224.895,0.498,0.502,81,108,189,Orlando,Orlando,Win,214.0,Over,Loss
+Dallas,Cleveland,2024-02-27 11:15:02,112.043,114.265,226.309,0.438,0.562,119,121,240,Cleveland,Cleveland,Win,232.5,Under,Loss
+Golden State,Washington,2024-02-27 11:15:02,118.975,115.389,234.363,0.6,0.4,123,112,235,Golden State,Golden State,Win,241.0,Under,Win
+Utah,Atlanta,2024-02-27 11:15:02,119.139,119.425,238.564,0.492,0.508,97,124,221,Atlanta,Atlanta,Win,236.0,Over,Loss
+Philadelphia,Boston,2024-02-27 11:15:03,113.049,115.274,228.323,0.438,0.562,99,117,216,Boston,Boston,Win,229.5,Under,Win
+New Orleans,New York,2024-02-27 11:15:03,112.927,113.221,226.148,0.491,0.509,115,92,207,New York,New Orleans,Loss,219.5,Over,Loss
+Detroit,Chicago,2024-02-27 11:15:03,111.949,116.159,228.108,0.382,0.618,105,95,200,Chicago,Detroit,Loss,225.0,Over,Loss
+Charlotte,Milwaukee,2024-02-27 11:15:03,112.777,118.522,231.299,0.342,0.658,85,123,208,Milwaukee,Milwaukee,Win,221.5,Over,Loss
+San Antonio,Minnesota,2024-02-27 11:15:03,111.722,118.065,229.787,0.327,0.673,105,114,219,Minnesota,Minnesota,Win,225.5,Over,Loss
+Miami,Portland,2024-02-27 11:15:03,113.37,109.974,223.344,0.594,0.406,106,96,202,Miami,Miami,Win,213.0,Over,Loss
+Houston,Okla City,2024-02-27 11:15:03,113.39,117.612,231.002,0.383,0.617,95,112,207,Okla City,Okla City,Win,236.0,Under,Win
+New Orleans,Indiana,2024-02-28 11:17:04,117.992,116.009,234.001,0.556,0.444,114,123,237,New Orleans,Indiana,Loss,239.5,Under,Win
+Dallas,Toronto,2024-02-28 11:17:04,115.396,114.695,230.09,0.519,0.481,136,125,261,Dallas,Dallas,Win,238.5,Under,Loss
+Cleveland,Chicago,2024-02-28 11:17:04,112.6,110.029,222.629,0.572,0.428,123,132,255,Cleveland,Chicago,Loss,216.0,Over,Win
+Memphis,Minnesota,2024-02-28 11:17:04,111.1,113.598,224.697,0.429,0.571,101,110,211,Minnesota,Minnesota,Win,211.5,Over,Loss
+Sacramento,Denver,2024-02-28 11:17:04,115.022,116.39,231.412,0.461,0.539,96,117,213,Denver,Denver,Win,229.5,Over,Loss
+LA Lakers,LA Clippers,2024-02-28 11:17:04,114.937,115.999,230.937,0.47,0.53,116,112,228,LA Clippers,LA Lakers,Loss,235.5,Under,Win
+Milwaukee,Charlotte,2024-02-29 11:16:02,118.547,112.529,231.076,0.664,0.336,111,99,210,Milwaukee,Milwaukee,Win,217.5,Over,Loss
+Utah,Orlando,2024-02-29 11:16:02,114.745,115.258,230.003,0.486,0.514,107,115,222,Orlando,Orlando,Win,224.5,Over,Loss
+Atlanta,Brooklyn,2024-02-29 11:16:02,116.533,116.274,232.807,0.507,0.493,97,124,221,Atlanta,Brooklyn,Loss,224.5,Over,Loss
+Golden State,New York,2024-02-29 11:16:02,114.606,115.465,230.071,0.476,0.524,110,99,209,New York,Golden State,Loss,223.5,Over,Loss
+Okla City,San Antonio,2024-02-29 11:16:02,120.568,113.594,234.162,0.689,0.311,118,132,250,Okla City,San Antonio,Loss,236.0,Under,Loss
+Houston,Phoenix,2024-02-29 11:16:02,112.547,115.725,228.272,0.412,0.588,105,110,215,Phoenix,Phoenix,Win,234.0,Under,Win
+Miami,Denver,2024-02-29 11:16:02,110.274,112.166,222.44,0.446,0.554,97,103,200,Denver,Denver,Win,214.5,Over,Loss
+Washington,LA Lakers,2024-02-29 11:16:02,115.018,117.968,232.985,0.417,0.583,131,134,265,LA Lakers,LA Lakers,Win,241.5,Under,Loss
+Charlotte,Philadelphia,2024-03-01 11:15:24,110.567,116.494,227.061,0.337,0.663,114,121,235,Philadelphia,Philadelphia,Win,212.5,Over,Win
+Cleveland,Detroit,2024-03-01 11:15:24,116.373,109.787,226.16,0.679,0.321,110,100,210,Cleveland,Cleveland,Win,221.5,Over,Loss
+Dallas,Boston,2024-03-01 11:15:24,113.51,117.291,230.801,0.395,0.605,110,138,248,Boston,Boston,Win,237.0,Under,Loss
+Golden State,Toronto,2024-03-01 11:15:24,116.557,115.24,231.797,0.537,0.463,120,105,225,Golden State,Golden State,Win,237.0,Under,Win
+Indiana,New Orleans,2024-03-01 11:15:24,116.06,117.942,234.003,0.448,0.552,102,129,231,New Orleans,New Orleans,Win,238.5,Under,Win
+Portland,Memphis,2024-03-01 11:15:24,111.543,114.016,225.559,0.431,0.569,122,92,214,Memphis,Portland,Loss,208.5,Over,Win
+Sacramento,Minnesota,2024-03-01 11:15:24,114.925,116.087,231.012,0.468,0.532,124,120,244,Minnesota,Sacramento,Loss,223.5,Over,Win
+Milwaukee,Chicago,2024-03-01 11:15:25,115.773,113.988,229.761,0.55,0.45,113,97,210,Milwaukee,Milwaukee,Win,221.0,Over,Loss
+Washington,LA Clippers,2024-03-01 11:15:25,113.575,117.485,231.059,0.39,0.61,115,140,255,LA Clippers,LA,Loss,239.5,Under,Loss
+Atlanta,Brooklyn,2024-03-02 11:16:19,116.334,116.326,232.66,0.5,0.5,102,114,216,Atlanta,Brooklyn,Loss,220.0,Over,Loss
+Utah,Miami,2024-03-02 11:16:19,113.255,114.377,227.633,0.468,0.532,120,126,246,Miami,Miami,Win,223.5,Over,Win
+Portland,Memphis,2024-03-02 11:16:19,111.668,113.867,225.535,0.438,0.562,107,100,207,Memphis,Portland,Loss,209.0,Over,Loss
+Denver,LA Lakers,2024-03-02 11:16:19,115.622,113.658,229.28,0.554,0.446,124,114,238,Denver,Denver,Win,228.5,Over,Win
+Houston,Phoenix,2024-03-02 11:16:19,112.472,115.7,228.172,0.41,0.59,118,109,227,Phoenix,Houston,Loss,233.0,Under,Win
+Philadelphia,Dallas,2024-03-03 11:14:25,115.725,114.177,229.901,0.544,0.456,120,116,236,Philadelphia,Philadelphia,Win,235.5,Under,Loss
+Golden State,Boston,2024-03-03 11:14:25,114.504,117.795,232.299,0.408,0.592,88,140,228,Boston,Boston,Win,230.0,Over,Loss
+Charlotte,Toronto,2024-03-03 11:14:25,111.894,115.633,227.527,0.397,0.603,106,111,217,Toronto,Toronto,Win,222.5,Over,Loss
+Detroit,Orlando,2024-03-03 11:14:25,111.749,115.55,227.299,0.394,0.606,91,113,204,Orlando,Orlando,Win,218.0,Over,Loss
+New York,Cleveland,2024-03-03 11:14:25,110.912,111.795,222.707,0.475,0.525,107,98,205,Cleveland,New York,Loss,212.5,Over,Loss
+Indiana,San Antonio,2024-03-03 11:14:25,120.821,116.654,237.474,0.617,0.383,105,117,222,Indiana,San Antonio,Loss,243.5,Under,Win
+Okla City,Phoenix,2024-03-03 11:14:26,116.237,115.175,231.412,0.53,0.47,118,110,228,Okla City,Okla City,Win,234.0,Under,Win
+Memphis,Brooklyn,2024-03-04 12:01:56,112.145,112.575,224.72,0.488,0.512,106,102,208,Brooklyn,Memphis,Loss,209.0,Over,Loss
+Portland,Minnesota,2024-03-04 12:01:56,110.65,115.319,225.969,0.37,0.63,114,119,233,Minnesota,Minnesota,Win,211.5,Over,Win
+Washington,Utah,2024-03-04 12:01:56,116.544,118.395,234.939,0.448,0.552,115,127,242,Utah,Utah,Win,238.0,Under,Loss
+Chicago,Sacramento,2024-03-04 12:01:57,115.04,115.724,230.765,0.48,0.52,113,109,222,Sacramento,Chicago,Loss,227.5,Over,Loss
+Okla City,LA Lakers,2024-03-04 12:01:57,117.842,115.821,233.663,0.558,0.442,104,116,220,Okla City,LA Lakers,Loss,237.5,Under,Win
+Orlando,Charlotte,2024-03-05 11:17:17,114.484,110.617,225.101,0.607,0.393,101,89,190,Orlando,Orlando,Win,209.0,Over,Loss
+Atlanta,New York,2024-03-05 11:17:18,114.868,117.052,231.92,0.438,0.562,116,100,216,New York,Atlanta,Loss,216.5,Over,Loss
+Boston,Cleveland,2024-03-05 11:17:18,113.39,111.594,224.984,0.55,0.45,104,105,209,Boston,Cleveland,Loss,219.0,Over,Loss
+Philadelphia,Brooklyn,2024-03-05 11:17:18,114.269,112.075,226.344,0.561,0.439,107,112,219,Philadelphia,Brooklyn,Loss,217.0,Over,Win
+Detroit,Miami,2024-03-05 11:17:18,110.322,114.693,225.015,0.378,0.622,110,118,228,Miami,Miami,Win,217.5,Over,Win
+New Orleans,Toronto,2024-03-05 11:17:18,114.874,112.873,227.747,0.557,0.443,139,98,237,New Orleans,New Orleans,Win,228.5,Under,Loss
+San Antonio,Houston,2024-03-05 11:17:18,114.214,116.619,230.833,0.433,0.567,101,114,215,Houston,Houston,Win,229.0,Over,Loss
+Indiana,Dallas,2024-03-05 11:17:18,117.836,118.581,236.417,0.479,0.521,137,120,257,Dallas,Indiana,Loss,246.0,Under,Loss
+Phoenix,Denver,2024-03-05 11:17:18,113.0,114.097,227.097,0.469,0.531,117,107,224,Denver,Phoenix,Loss,224.0,Over,Tie
+Orlando,Washington,2024-03-06 11:15:45,115.377,112.82,228.197,0.571,0.429,119,109,228,Orlando,Orlando,Win,223.5,Over,Win
+Cleveland,Atlanta,2024-03-06 11:15:46,116.438,113.483,229.921,0.583,0.417,101,112,213,Cleveland,Atlanta,Loss,216.0,Over,Loss
+Memphis,Philadelphia,2024-03-06 11:15:46,111.499,114.043,225.542,0.429,0.571,115,109,224,Philadelphia,Memphis,Loss,209.0,Over,Win
+Chicago,Utah,2024-03-06 11:15:46,115.673,114.847,230.52,0.523,0.477,119,117,236,Chicago,Chicago,Win,223.0,Over,Win
+Milwaukee,Golden State,2024-03-06 11:15:46,118.044,116.866,234.91,0.533,0.467,90,125,215,Milwaukee,Golden State,Loss,226.5,Over,Loss
+Okla City,Portland,2024-03-06 11:15:46,117.818,112.679,230.497,0.642,0.358,128,120,248,Okla City,Okla City,Win,224.0,Over,Win
+Sacramento,LA Lakers,2024-03-06 11:15:47,117.742,117.299,235.04,0.512,0.488,130,120,250,Sacramento,Sacramento,Win,238.0,Under,Loss
+Brooklyn,Detroit,2024-03-07 11:15:39,115.914,112.146,228.06,0.605,0.395,112,118,230,Brooklyn,Detroit,Loss,215.0,Over,Win
+Minnesota,Indiana,2024-03-07 11:15:39,117.429,115.29,232.719,0.56,0.44,113,111,224,Minnesota,Minnesota,Win,228.0,Over,Loss
+Miami,Dallas,2024-03-07 11:15:39,113.032,112.896,225.928,0.504,0.496,108,114,222,Miami,Dallas,Loss,231.5,Under,Win
+Toronto,Phoenix,2024-03-07 11:15:40,113.35,115.024,228.374,0.453,0.547,113,120,233,Phoenix,Phoenix,Win,231.5,Under,Loss
+Boston,Denver,2024-03-07 11:15:40,114.727,112.578,227.304,0.56,0.44,109,115,224,Boston,Denver,Loss,221.5,Over,Win
+Chicago,Golden State,2024-03-07 11:15:40,114.479,115.335,229.814,0.476,0.524,125,122,247,Golden State,Chicago,Loss,223.5,Over,Win
+San Antonio,Sacramento,2024-03-07 11:15:40,115.195,120.419,235.614,0.356,0.644,129,131,260,Sacramento,Sacramento,Win,238.5,Under,Loss
+Charlotte,Washington,2024-03-08 11:14:40,114.208,115.636,229.844,0.46,0.54,100,112,212,Washington,Washington,Win,226.0,Over,Loss
+New Orleans,Philadelphia,2024-03-08 11:14:40,113.711,113.639,227.35,0.503,0.497,103,95,198,New Orleans,New Orleans,Win,221.5,Over,Loss
+Minnesota,Cleveland,2024-03-08 11:14:40,111.057,111.772,222.829,0.48,0.52,104,113,217,Cleveland,Cleveland,Win,207.5,Over,Win
+Orlando,New York,2024-03-08 11:14:41,111.024,112.696,223.72,0.452,0.548,74,98,172,New York,New York,Win,206.5,Over,Loss
+Atlanta,Memphis,2024-03-08 11:14:41,115.904,115.538,231.443,0.511,0.489,99,92,191,Atlanta,Atlanta,Win,215.5,Over,Loss
+Miami,Okla City,2024-03-08 11:14:41,112.397,114.223,226.62,0.449,0.551,100,107,207,Okla City,Okla City,Win,223.5,Over,Loss
+Houston,Portland,2024-03-08 11:14:41,114.199,113.146,227.345,0.529,0.471,123,107,230,Houston,Houston,Win,218.5,Over,Win
+Milwaukee,LA Lakers,2024-03-08 11:14:41,117.693,116.098,233.792,0.545,0.455,122,123,245,Milwaukee,LA Lakers,Loss,232.0,Over,Win
+Chicago,LA Clippers,2024-03-09 11:16:56,112.749,113.94,226.69,0.467,0.533,102,112,214,LA Clippers,LA,Loss,222.0,Over,Loss
+Brooklyn,Charlotte,2024-03-09 11:16:56,114.771,111.082,225.853,0.603,0.397,99,110,209,Brooklyn,Charlotte,Loss,208.0,Over,Win
+Dallas,Detroit,2024-03-09 11:16:56,118.039,113.649,231.688,0.622,0.378,142,124,266,Dallas,Dallas,Win,234.5,Under,Loss
+Boston,Phoenix,2024-03-09 11:16:56,115.992,112.872,228.864,0.587,0.413,117,107,224,Boston,Boston,Win,226.0,Over,Loss
+San Antonio,Golden State,2024-03-09 11:16:56,114.707,120.063,234.77,0.353,0.647,126,113,239,Golden State,San Antonio,Loss,229.0,Over,Win
+Utah,Denver,2024-03-09 11:16:56,114.001,117.005,231.006,0.416,0.584,121,142,263,Denver,Denver,Win,230.0,Over,Win
+Toronto,Portland,2024-03-09 11:16:56,115.064,112.607,227.67,0.569,0.431,118,128,246,Toronto,Portland,Loss,226.0,Over,Win
+Milwaukee,LA Clippers,2024-03-10 11:19:28,115.937,115.475,231.412,0.513,0.487,124,117,241,Milwaukee,Milwaukee,Win,226.5,Over,Win
+New Orleans,Atlanta,2024-03-10 11:19:28,117.604,115.42,233.024,0.561,0.439,116,103,219,New Orleans,New Orleans,Win,223.0,Over,Loss
+Houston,Sacramento,2024-03-10 11:19:28,114.86,117.511,232.37,0.425,0.575,112,104,216,Sacramento,Houston,Loss,233.5,Under,Win
+Indiana,Orlando,2024-03-10 11:19:28,115.631,115.803,231.433,0.495,0.505,111,97,208,Orlando,Indiana,Loss,225.0,Over,Loss
+Washington,Miami,2024-03-10 11:19:29,111.628,114.451,226.08,0.422,0.578,110,108,218,Miami,Washington,Loss,229.0,Under,Win
+Brooklyn,Cleveland,2024-03-10 11:19:29,110.005,112.85,222.855,0.421,0.579,120,101,221,Cleveland,Brooklyn,Loss,209.0,Over,Win
+Memphis,Okla City,2024-03-10 11:19:29,112.934,115.78,228.714,0.42,0.58,93,124,217,Okla City,Okla City,Win,219.5,Over,Loss
+Philadelphia,New York,2024-03-10 11:19:29,112.726,112.697,225.422,0.5,0.5,79,73,152,Philadelphia,Philadelphia,Win,210.5,Over,Loss
+Minnesota,LA Lakers,2024-03-10 11:19:29,115.319,113.863,229.182,0.541,0.459,109,120,229,Minnesota,LA Lakers,Loss,222.5,Over,Win
+Charlotte,Detroit,2024-03-11 11:18:12,114.325,114.236,228.561,0.502,0.498,97,114,211,Charlotte,Detroit,Loss,215.0,Over,Loss
+Phoenix,Cleveland,2024-03-11 11:18:13,111.615,112.874,224.489,0.465,0.535,117,111,228,Cleveland,Phoenix,Loss,221.0,Over,Win
+Dallas,Chicago,2024-03-11 11:18:13,114.506,114.209,228.715,0.508,0.492,127,92,219,Dallas,Dallas,Win,233.0,Under,Win
+Golden State,San Antonio,2024-03-11 11:18:13,120.039,114.783,234.821,0.645,0.355,112,102,214,Golden State,Golden State,Win,227.0,Over,Loss
+Toronto,Denver,2024-03-11 11:18:13,112.117,114.925,227.041,0.421,0.579,119,125,244,Denver,Denver,Win,230.5,Under,Loss
+Boston,Portland,2024-03-11 11:18:13,117.721,110.55,228.27,0.694,0.306,121,99,220,Boston,Boston,Win,217.0,Over,Win
+Philadelphia,New York,2024-03-12 11:15:16,112.451,112.397,224.848,0.502,0.498,79,106,185,Philadelphia,New York,Loss,208.5,Over,Loss
+Indiana,Okla City,2024-03-12 11:15:16,117.124,119.773,236.897,0.426,0.574,121,111,232,Okla City,Indiana,Loss,240.0,Under,Win
+Washington,Memphis,2024-03-12 11:15:16,113.249,114.977,228.226,0.452,0.548,97,109,206,Memphis,Memphis,Win,219.5,Over,Loss
+Houston,San Antonio,2024-03-12 11:15:16,116.623,114.191,230.814,0.568,0.432,103,101,204,Houston,Houston,Win,222.5,Over,Loss
+Boston,Utah,2024-03-12 11:15:16,119.075,113.795,232.869,0.645,0.355,123,107,230,Boston,Boston,Win,232.5,Over,Loss
+Minnesota,LA Clippers,2024-03-12 11:15:16,113.599,113.254,226.853,0.509,0.491,118,100,218,Minnesota,Minnesota,Win,215.0,Over,Win
+Milwaukee,Sacramento,2024-03-12 11:15:16,118.424,117.335,235.759,0.53,0.47,94,129,223,Milwaukee,Sacramento,Loss,236.0,Under,Win
+Brooklyn,Orlando,2024-03-13 11:17:40,111.925,111.996,223.92,0.499,0.501,106,114,220,Orlando,Orlando,Win,205.0,Over,Win
+Toronto,Detroit,2024-03-13 11:17:40,116.534,113.062,229.596,0.598,0.402,104,113,217,Toronto,Detroit,Loss,232.0,Under,Win
+Chicago,Indiana,2024-03-13 11:17:41,116.202,116.021,232.223,0.505,0.495,132,129,261,Chicago,Chicago,Win,230.5,Over,Win
+Denver,Miami,2024-03-13 11:17:41,112.264,110.324,222.588,0.554,0.446,100,88,188,Denver,Denver,Win,214.5,Over,Loss
+Charlotte,Memphis,2024-03-13 11:17:41,110.811,114.057,224.867,0.409,0.591,110,98,208,Memphis,Charlotte,Loss,205.5,Over,Win
+Cleveland,New Orleans,2024-03-13 11:17:41,112.15,111.69,223.84,0.513,0.487,116,95,211,Cleveland,Cleveland,Win,215.5,Over,Loss
+Golden State,Dallas,2024-03-13 11:17:41,117.119,116.675,233.794,0.513,0.487,99,109,208,Golden State,Dallas,Loss,235.0,Under,Win
+Atlanta,Portland,2024-03-13 11:17:42,117.82,115.184,233.004,0.574,0.426,102,106,208,Atlanta,Portland,Loss,216.5,Over,Loss
+LA Lakers,Sacramento,2024-03-13 11:17:42,117.274,117.841,235.115,0.484,0.516,107,120,227,Sacramento,Sacramento,Win,238.5,Under,Win
+Phoenix,Boston,2024-03-14 11:15:38,112.771,115.992,228.763,0.41,0.59,112,127,239,Boston,Boston,Win,227.0,Over,Win
+Washington,Houston,2024-03-14 11:15:40,114.621,115.342,229.964,0.479,0.521,119,135,254,Houston,Houston,Win,226.5,Over,Win
+Philadelphia,Milwaukee,2024-03-14 11:15:40,115.049,115.042,230.091,0.5,0.5,105,114,219,Philadelphia,Milwaukee,Loss,220.5,Over,Loss
+Dallas,Okla City,2024-03-14 11:15:40,115.671,117.389,233.06,0.452,0.548,119,126,245,Okla City,Okla City,Win,236.5,Under,Loss
+New York,Portland,2024-03-14 11:15:40,114.912,110.274,225.186,0.628,0.372,105,93,198,New York,New York,Win,206.0,Over,Loss
+Phoenix,Charlotte,2024-03-15 11:15:04,116.197,111.179,227.376,0.639,0.361,107,96,203,Phoenix,Phoenix,Win,216.5,Over,Loss
+Miami,Detroit,2024-03-15 11:15:04,114.469,110.371,224.84,0.615,0.385,108,95,203,Miami,Miami,Win,213.5,Over,Loss
+Orlando,Toronto,2024-03-15 11:15:04,112.885,112.546,225.431,0.509,0.491,113,103,216,Orlando,Orlando,Win,215.5,Over,Win
+Denver,San Antonio,2024-03-15 11:15:04,118.231,111.646,229.877,0.68,0.32,117,106,223,Denver,Denver,Win,221.0,Over,Win
+Atlanta,Utah,2024-03-15 11:15:04,119.075,118.519,237.594,0.516,0.484,122,124,246,Atlanta,Utah,Loss,222.0,Over,Win
+Cleveland,Houston,2024-03-16 11:14:10,114.039,109.932,223.971,0.615,0.385,103,117,220,Cleveland,Houston,Loss,215.0,Over,Win
+Brooklyn,Indiana,2024-03-16 11:14:10,116.224,116.253,232.477,0.499,0.501,100,121,221,Indiana,Indiana,Win,228.0,Over,Loss
+Charlotte,Philadelphia,2024-03-16 11:14:10,110.218,115.718,225.936,0.349,0.651,98,109,207,Philadelphia,Philadelphia,Win,207.5,Over,Loss
+Portland,New Orleans,2024-03-16 11:14:11,111.198,115.873,227.071,0.371,0.629,107,126,233,New Orleans,New Orleans,Win,212.0,Over,Win
+Washington,Chicago,2024-03-16 11:14:11,113.224,115.674,228.898,0.431,0.569,98,127,225,Chicago,Chicago,Win,226.0,Over,Loss
+Okla City,Memphis,2024-03-16 11:14:11,115.754,112.833,228.588,0.582,0.418,118,112,230,Okla City,Okla City,Win,218.5,Over,Win
+Golden State,LA Lakers,2024-03-16 11:14:11,117.297,116.7,233.997,0.516,0.484,128,121,249,Golden State,Golden State,Win,236.0,Under,Loss
+Minnesota,Utah,2024-03-16 11:14:11,116.745,114.181,230.926,0.572,0.428,119,100,219,Minnesota,Minnesota,Win,223.5,Over,Loss
+New York,Sacramento,2024-03-16 11:14:11,115.378,114.451,229.83,0.526,0.474,98,91,189,New York,New York,Win,219.5,Over,Loss
+Phoenix,Milwaukee,2024-03-17 11:18:27,115.375,115.917,231.292,0.485,0.515,129,140,269,Milwaukee,Milwaukee,Win,225.5,Over,Win
+Miami,Detroit,2024-03-17 11:18:27,114.395,110.246,224.641,0.615,0.385,104,101,205,Miami,Miami,Win,214.0,Over,Loss
+Denver,Dallas,2024-03-17 11:18:27,115.474,113.586,229.06,0.554,0.446,105,107,212,Denver,Dallas,Loss,229.0,Over,Loss
+Boston,Washington,2024-03-17 11:18:27,119.0,111.938,230.938,0.692,0.308,130,104,234,Boston,Boston,Win,231.0,Under,Loss
+Toronto,Orlando,2024-03-17 11:18:27,112.472,112.86,225.332,0.49,0.51,96,111,207,Orlando,Orlando,Win,215.0,Over,Loss
+Brooklyn,San Antonio,2024-03-17 11:18:27,116.655,112.825,229.48,0.607,0.393,115,122,237,Brooklyn,San Antonio,Loss,219.5,Over,Win
+Atlanta,LA Clippers,2024-03-17 11:18:27,115.941,117.478,233.419,0.457,0.543,110,93,203,LA Clippers,Atlanta,Loss,223.0,Over,Loss
+Cleveland,Indiana,2024-03-18 11:16:20,116.307,113.678,229.985,0.574,0.426,108,103,211,Cleveland,Cleveland,Win,224.5,Over,Loss
+Detroit,Boston,2024-03-18 11:16:20,110.699,119.1,229.799,0.276,0.724,94,119,213,Boston,Boston,Win,224.0,Over,Loss
+Miami,Philadelphia,2024-03-18 11:16:20,110.446,111.77,222.216,0.463,0.537,91,98,189,Philadelphia,Philadelphia,Win,208.5,Over,Loss
+Portland,Chicago,2024-03-18 11:16:20,111.57,114.531,226.101,0.417,0.583,107,110,217,Chicago,Chicago,Win,214.0,Over,Win
+Minnesota,Utah,2024-03-18 11:16:20,116.747,114.082,230.829,0.575,0.425,114,104,218,Minnesota,Minnesota,Win,223.0,Over,Loss
+New York,Golden State,2024-03-18 11:16:20,114.835,113.869,228.704,0.527,0.473,119,112,231,New York,New York,Win,211.0,Over,Win
+Memphis,Sacramento,2024-03-18 11:16:20,114.178,115.804,229.982,0.455,0.545,111,121,232,Sacramento,Sacramento,Win,225.0,Over,Win
+Atlanta,LA Lakers,2024-03-18 11:16:20,117.62,118.142,235.762,0.486,0.514,105,136,241,LA Lakers,LA Lakers,Win,226.0,Over,Win
+Charlotte,Orlando,2024-03-19 11:16:16,110.192,113.962,224.154,0.395,0.605,92,112,204,Orlando,Orlando,Win,203.0,Over,Win
+Houston,Washington,2024-03-19 11:16:16,115.518,114.52,230.039,0.528,0.472,137,114,251,Houston,Houston,Win,228.5,Over,Win
+New Orleans,Brooklyn,2024-03-19 11:16:16,114.17,111.925,226.095,0.563,0.437,104,91,195,New Orleans,New Orleans,Win,216.5,Over,Loss
+Dallas,San Antonio,2024-03-19 11:16:16,118.949,114.239,233.189,0.63,0.37,113,107,220,Dallas,Dallas,Win,231.5,Over,Loss
+Denver,Minnesota,2024-03-19 11:16:16,112.982,112.386,225.368,0.517,0.483,115,112,227,Denver,Denver,Win,212.5,Over,Win
+Miami,Cleveland,2024-03-20 11:15:56,108.723,110.738,219.461,0.444,0.556,107,104,211,Cleveland,Miami,Loss,203.0,Over,Win
+Indiana,Detroit,2024-03-20 11:15:56,119.375,115.532,234.907,0.607,0.393,122,103,225,Indiana,Indiana,Win,232.5,Over,Loss
+Milwaukee,Boston,2024-03-20 11:15:56,114.391,117.238,231.63,0.42,0.58,119,122,241,Boston,Boston,Win,225.5,Over,Win
+Sacramento,Toronto,2024-03-20 11:15:56,116.854,115.331,232.185,0.542,0.458,123,89,212,Sacramento,Sacramento,Win,231.5,Over,Loss
+Utah,Okla City,2024-03-20 11:15:56,115.969,119.15,235.119,0.411,0.589,107,119,226,Okla City,Okla City,Win,230.5,Over,Loss
+Memphis,Golden State,2024-03-20 11:15:56,113.814,115.392,229.206,0.456,0.544,116,137,253,Golden State,Golden State,Win,219.0,Over,Win
+Philadelphia,Phoenix,2024-03-20 11:15:57,113.824,113.231,227.056,0.517,0.483,102,115,217,Philadelphia,Phoenix,Loss,220.0,Over,Loss
+New Orleans,Orlando,2024-03-21 11:18:06,113.284,111.375,224.659,0.553,0.447,106,121,227,New Orleans,Orlando,Loss,207.5,Over,Win
+Sacramento,Washington,2024-03-21 11:18:06,119.225,115.36,234.585,0.608,0.392,102,109,211,Sacramento,Washington,Loss,237.0,Under,Win
+Brooklyn,Milwaukee,2024-03-21 11:18:06,113.735,115.888,229.623,0.439,0.561,108,115,223,Milwaukee,Milwaukee,Win,222.5,Over,Win
+Chicago,Houston,2024-03-21 11:18:06,113.964,112.375,226.339,0.544,0.456,117,127,244,Chicago,Houston,Loss,218.0,Over,Win
+Utah,Dallas,2024-03-21 11:18:06,116.373,117.866,234.239,0.458,0.542,97,113,210,Dallas,Dallas,Win,237.5,Under,Win
+New York,Denver,2024-03-21 11:18:06,111.818,112.319,224.137,0.486,0.514,100,113,213,Denver,Denver,Win,208.0,Over,Win
+Atlanta,Phoenix,2024-03-21 11:18:06,115.92,117.455,233.375,0.457,0.543,115,128,243,Phoenix,Phoenix,Win,226.5,Over,Win
+Boston,Detroit,2024-03-22 11:15:24,119.1,110.574,229.674,0.727,0.273,129,102,231,Boston,Boston,Win,223.0,Over,Win
+Okla City,Toronto,2024-03-22 11:15:25,116.83,113.897,230.727,0.582,0.418,123,103,226,Okla City,Okla City,Win,230.5,Over,Loss
+Cleveland,Minnesota,2024-03-22 11:15:25,111.673,111.031,222.704,0.518,0.482,91,104,195,Cleveland,Minnesota,Loss,207.5,Over,Loss
+Memphis,San Antonio,2024-03-22 11:15:25,116.11,112.75,228.86,0.594,0.406,99,97,196,Memphis,Memphis,Win,217.0,Over,Loss
+New Orleans,Miami,2024-03-22 11:15:25,112.06,110.569,222.629,0.541,0.459,111,88,199,New Orleans,New Orleans,Win,206.5,Over,Loss
+Indiana,Golden State,2024-03-22 11:15:25,118.067,119.222,237.289,0.467,0.533,123,111,234,Golden State,Indiana,Loss,240.5,Under,Win
+Philadelphia,LA Lakers,2024-03-22 11:15:26,115.32,114.04,229.36,0.537,0.463,94,101,195,Philadelphia,LA Lakers,Loss,224.0,Over,Loss
+Brooklyn,New York,2024-03-23 11:14:28,110.82,113.025,223.845,0.438,0.562,93,105,198,New York,New York,Win,205.0,Over,Loss
+Sacramento,Orlando,2024-03-23 11:14:28,115.161,114.135,229.296,0.529,0.471,109,107,216,Sacramento,Sacramento,Win,216.5,Over,Loss
+Charlotte,Atlanta,2024-03-23 11:14:28,114.12,117.772,231.892,0.399,0.601,91,132,223,Atlanta,Atlanta,Win,214.5,Over,Win
+Boston,Chicago,2024-03-23 11:14:28,115.757,111.294,227.051,0.624,0.376,124,113,237,Boston,Boston,Win,221.0,Over,Win
+Utah,Houston,2024-03-23 11:14:28,116.273,115.697,231.97,0.516,0.484,119,147,266,Utah,Houston,Loss,228.5,Over,Win
+Phoenix,San Antonio,2024-03-23 11:14:28,118.289,112.924,231.213,0.648,0.352,131,106,237,Phoenix,Phoenix,Win,228.5,Over,Win
+Toronto,Washington,2024-03-23 11:14:28,116.034,114.098,230.133,0.554,0.446,109,112,221,Toronto,Washington,Loss,232.0,Under,Win
+Denver,Portland,2024-03-23 11:14:29,115.822,110.575,226.397,0.644,0.356,114,111,225,Denver,Denver,Win,210.5,Over,Win
+New Orleans,Detroit,2024-03-24 11:13:51,117.206,111.199,228.405,0.664,0.336,114,101,215,New Orleans,New Orleans,Win,215.5,Over,Loss
+Philadelphia,LA Clippers,2024-03-24 11:13:51,113.549,113.132,226.681,0.512,0.488,121,107,228,Philadelphia,Philadelphia,Win,214.5,Over,Win
+Cleveland,Miami,2024-03-24 11:13:51,110.614,108.573,219.187,0.558,0.442,84,121,205,Cleveland,Miami,Loss,203.0,Over,Win
+Golden State,Minnesota,2024-03-24 11:13:51,114.566,115.417,229.983,0.475,0.525,110,114,224,Minnesota,Minnesota,Win,219.0,Over,Win
+Okla City,Milwaukee,2024-03-24 11:13:51,117.262,116.732,233.994,0.515,0.485,93,118,211,Okla City,Milwaukee,Loss,231.0,Over,Loss
+Indiana,LA Lakers,2024-03-24 11:13:51,117.839,118.414,236.253,0.484,0.516,145,150,295,LA Lakers,LA Lakers,Win,241.5,Under,Loss
+Charlotte,Cleveland,2024-03-25 11:16:23,108.349,114.446,222.795,0.333,0.667,92,115,207,Cleveland,Cleveland,Win,205.5,Over,Win
+Boston,Atlanta,2024-03-25 11:16:23,119.225,114.345,233.57,0.635,0.365,118,120,238,Boston,Atlanta,Loss,226.0,Over,Win
+Brooklyn,Toronto,2024-03-25 11:16:24,113.215,112.95,226.165,0.507,0.493,96,88,184,Brooklyn,Brooklyn,Win,216.0,Over,Loss
+Detroit,New York,2024-03-25 11:16:24,110.224,116.082,226.305,0.34,0.66,99,124,223,New York,New York,Win,208.5,Over,Win
+Washington,Chicago,2024-03-25 11:16:24,113.099,115.703,228.802,0.427,0.573,107,105,212,Chicago,Washington,Loss,225.0,Over,Loss
+Portland,Houston,2024-03-25 11:16:24,113.097,114.556,227.653,0.459,0.541,92,110,202,Houston,Houston,Win,223.0,Over,Loss
+Phoenix,San Antonio,2024-03-25 11:16:24,118.364,112.874,231.239,0.65,0.35,102,104,206,Phoenix,San Antonio,Loss,233.0,Under,Win
+Dallas,Utah,2024-03-25 11:16:25,117.915,116.248,234.163,0.546,0.454,115,105,220,Dallas,Dallas,Win,236.0,Under,Win
+Memphis,Denver,2024-03-25 11:16:25,110.775,113.845,224.619,0.414,0.586,103,128,231,Denver,Denver,Win,214.5,Over,Win
+Philadelphia,Sacramento,2024-03-25 11:16:25,115.59,114.982,230.572,0.517,0.483,96,108,204,Philadelphia,Sacramento,Loss,220.5,Over,Loss
+Indiana,LA Clippers,2024-03-25 11:16:25,116.33,117.647,233.977,0.464,0.536,133,116,249,LA Clippers,Indiana,Loss,233.0,Over,Win
+Golden State,Miami,2024-03-26 11:16:32,113.481,112.965,226.446,0.514,0.486,113,92,205,Golden State,Golden State,Win,218.5,Over,Loss
+LA Lakers,Milwaukee,2024-03-26 11:16:32,116.222,117.619,233.841,0.46,0.54,128,124,252,Milwaukee,LA Lakers,Loss,232.0,Over,Win
+Okla City,New Orleans,2024-03-26 11:16:32,115.092,114.875,229.967,0.507,0.493,119,112,231,Okla City,Okla City,Win,223.0,Over,Win
+Dallas,Sacramento,2024-03-26 11:16:33,116.7,117.188,233.887,0.487,0.513,132,96,228,Sacramento,Dallas,Loss,234.0,Under,Win
+Brooklyn,Washington,2024-03-27 11:15:27,115.218,113.125,228.343,0.559,0.441,122,119,241,Brooklyn,Brooklyn,Win,223.0,Over,Win
+Cleveland,Charlotte,2024-03-27 11:15:27,114.447,108.249,222.697,0.669,0.331,111,118,229,Cleveland,Charlotte,Loss,206.5,Over,Win
+Golden State,Orlando,2024-03-27 11:15:28,114.75,113.792,228.542,0.527,0.473,101,93,194,Golden State,Golden State,Win,216.5,Over,Loss
+Portland,Atlanta,2024-03-27 11:15:28,114.888,117.645,232.533,0.423,0.577,106,120,226,Atlanta,Atlanta,Win,217.0,Over,Win
+New York,Toronto,2024-03-27 11:15:28,113.772,111.163,224.935,0.573,0.427,145,101,246,New York,New York,Win,210.5,Over,Win
+Indiana,Chicago,2024-03-27 11:15:28,116.147,116.235,232.382,0.497,0.503,99,125,224,Chicago,Chicago,Win,234.5,Under,Win
+Detroit,Minnesota,2024-03-27 11:15:28,110.825,116.721,227.546,0.337,0.663,91,106,197,Minnesota,Minnesota,Win,216.0,Over,Loss
+Houston,Okla City,2024-03-27 11:15:28,113.569,117.138,230.708,0.401,0.599,132,126,258,Okla City,Houston,Loss,230.5,Over,Win
+LA Lakers,Memphis,2024-03-27 11:15:28,114.955,113.717,228.672,0.534,0.466,136,124,260,LA Lakers,LA Lakers,Win,221.5,Over,Win
+San Antonio,Utah,2024-03-27 11:15:28,115.873,119.005,234.878,0.412,0.588,118,111,229,Utah,San Antonio,Loss,230.0,Over,Loss
+Phoenix,Denver,2024-03-27 11:15:28,112.923,114.096,227.019,0.466,0.534,104,97,201,Denver,Phoenix,Loss,226.5,Over,Loss
+Boston,Atlanta,2024-03-28 11:17:00,119.15,114.397,233.547,0.632,0.368,122,123,245,Boston,Atlanta,Loss,227.5,Over,Win
+Milwaukee,New Orleans,2024-03-28 11:17:00,115.118,115.25,230.368,0.497,0.503,100,107,207,New Orleans,New Orleans,Win,224.0,Over,Loss
+Golden State,Charlotte,2024-03-29 11:18:10,117.524,112.458,229.982,0.64,0.36,115,97,212,Golden State,Golden State,Win,217.0,Over,Loss
+Detroit,Washington,2024-03-29 11:18:10,114.649,116.314,230.963,0.454,0.546,96,87,183,Washington,Detroit,Loss,227.5,Over,Loss
+LA Lakers,Indiana,2024-03-29 11:18:10,118.715,118.016,236.731,0.519,0.481,90,109,199,LA Lakers,Indiana,Loss,242.5,Under,Win
+Chicago,Brooklyn,2024-03-29 11:18:11,112.65,112.149,224.799,0.515,0.485,108,125,233,Chicago,Brooklyn,Loss,216.0,Over,Win
+Philadelphia,Cleveland,2024-03-29 11:18:11,110.885,111.499,222.384,0.483,0.517,114,117,231,Cleveland,Cleveland,Win,212.5,Over,Win
+New York,San Antonio,2024-03-29 11:18:11,117.133,110.965,228.099,0.668,0.332,126,130,256,New York,San Antonio,Loss,211.5,Over,Win
+Portland,Miami,2024-03-29 11:18:11,109.722,112.839,222.562,0.413,0.587,82,142,224,Miami,Miami,Win,209.5,Over,Win
+Phoenix,Okla City,2024-03-29 11:18:11,115.075,115.914,230.989,0.476,0.524,103,128,231,Okla City,Okla City,Win,225.5,Over,Win
+Minnesota,Denver,2024-03-29 11:18:11,112.26,112.881,225.142,0.483,0.517,111,98,209,Denver,Minnesota,Loss,212.0,Over,Loss
+Houston,Utah,2024-03-29 11:18:11,115.924,116.198,232.123,0.492,0.508,101,100,201,Utah,Houston,Loss,229.5,Over,Loss
+Dallas,Sacramento,2024-03-29 11:18:11,116.8,117.038,233.837,0.494,0.506,107,103,210,Sacramento,Dallas,Loss,230.0,Over,Loss
+Boston,New Orleans,2024-03-30 11:15:35,115.165,112.651,227.816,0.57,0.43,104,92,196,Boston,Boston,Win,223.0,Over,Loss
+Memphis,Orlando,2024-03-30 11:15:36,111.175,111.945,223.12,0.478,0.522,88,118,206,Orlando,Orlando,Win,207.0,Over,Loss
+Milwaukee,Atlanta,2024-03-30 11:15:36,118.999,117.038,236.038,0.555,0.445,122,113,235,Milwaukee,Milwaukee,Win,225.5,Over,Win
+Cleveland,Denver,2024-03-31 11:16:28,111.197,111.347,222.544,0.496,0.504,101,130,231,Denver,Denver,Win,215.5,Over,Win
+LA Lakers,Brooklyn,2024-03-31 11:16:28,114.905,114.126,229.031,0.523,0.477,116,104,220,LA Lakers,LA Lakers,Win,226.0,Over,Loss
+Miami,Washington,2024-03-31 11:16:28,113.981,111.002,224.983,0.583,0.417,119,107,226,Miami,Miami,Win,218.0,Over,Win
+Philadelphia,Toronto,2024-03-31 11:16:28,114.299,111.897,226.196,0.567,0.433,135,120,255,Philadelphia,Philadelphia,Win,218.5,Over,Win
+Chicago,Minnesota,2024-03-31 11:16:28,111.622,113.348,224.97,0.451,0.549,109,101,210,Minnesota,Chicago,Loss,213.5,Over,Loss
+Dallas,Houston,2024-03-31 11:16:28,115.949,113.867,229.816,0.559,0.441,125,107,232,Dallas,Dallas,Win,230.0,Under,Loss
+Golden State,San Antonio,2024-03-31 11:16:28,119.615,114.41,234.025,0.643,0.357,117,113,230,Golden State,Golden State,Win,227.0,Over,Win
+Okla City,New York,2024-03-31 11:16:28,114.181,114.048,228.229,0.504,0.496,113,112,225,Okla City,Okla City,Win,215.0,Over,Win
+Utah,Sacramento,2024-03-31 11:16:28,116.875,118.95,235.824,0.441,0.559,106,127,233,Sacramento,Sacramento,Win,223.0,Over,Win
+Brooklyn,Indiana,2024-04-01 11:17:14,115.826,116.077,231.903,0.493,0.507,111,133,244,Indiana,Indiana,Win,228.5,Over,Win
+Boston,Charlotte,2024-04-01 11:17:15,117.947,109.447,227.394,0.727,0.273,118,104,222,Boston,Boston,Win,219.0,Over,Win
+Memphis,Detroit,2024-04-01 11:17:15,114.93,111.742,226.673,0.59,0.41,110,108,218,Memphis,Memphis,Win,215.0,Over,Win
+Portland,Orlando,2024-04-01 11:17:15,110.724,113.837,224.562,0.413,0.587,103,104,207,Orlando,Orlando,Win,208.0,Over,Loss
+Atlanta,Chicago,2024-04-01 11:17:15,115.61,115.849,231.458,0.493,0.507,113,101,214,Chicago,Atlanta,Loss,224.5,Over,Loss
+Phoenix,New Orleans,2024-04-01 11:17:15,113.309,113.972,227.282,0.481,0.519,124,111,235,New Orleans,Phoenix,Loss,225.0,Over,Win
+LA Lakers,Toronto,2024-04-02 11:16:21,115.945,114.56,230.505,0.54,0.46,128,111,239,LA Lakers,LA Lakers,Win,231.0,Under,Loss
+Milwaukee,Washington,2024-04-02 11:16:21,118.7,114.295,232.995,0.623,0.377,113,117,230,Milwaukee,Washington,Loss,229.0,Over,Win
+New York,Miami,2024-04-02 11:16:21,111.026,109.6,220.626,0.541,0.459,99,109,208,New York,Miami,Loss,208.0,Over,Tie
+Okla City,Philadelphia,2024-04-02 11:16:21,114.936,114.399,229.335,0.516,0.484,105,109,214,Okla City,Philadelphia,Loss,225.5,Over,Loss
+Houston,Minnesota,2024-04-02 11:16:21,111.622,114.797,226.419,0.412,0.588,106,113,219,Minnesota,Minnesota,Win,216.0,Over,Win
+Cleveland,Utah,2024-04-02 11:16:21,115.541,112.294,227.834,0.591,0.409,129,113,242,Cleveland,Cleveland,Win,215.5,Over,Win
+San Antonio,Denver,2024-04-02 11:16:22,111.495,118.009,229.504,0.323,0.677,105,110,215,Denver,Denver,Win,222.5,Over,Loss
+Dallas,Golden State,2024-04-02 11:16:22,116.35,116.616,232.966,0.493,0.507,100,104,204,Golden State,Golden State,Win,233.0,Under,Win
+Portland,Charlotte,2024-04-03 11:16:07,113.625,112.603,226.228,0.528,0.472,89,86,175,Portland,Portland,Win,212.0,Over,Loss
+LA Lakers,Washington,2024-04-03 11:16:08,117.848,114.79,232.637,0.586,0.414,125,120,245,LA Lakers,LA Lakers,Win,235.0,Under,Loss
+Detroit,Atlanta,2024-04-03 11:16:08,114.766,118.8,233.566,0.388,0.612,113,121,234,Atlanta,Atlanta,Win,223.0,Over,Win
+Okla City,Boston,2024-04-03 11:16:08,114.369,116.782,231.151,0.432,0.568,100,135,235,Boston,Boston,Win,230.5,Over,Win
+Indiana,Brooklyn,2024-04-03 11:16:08,116.179,115.777,231.956,0.511,0.489,111,115,226,Indiana,Brooklyn,Loss,230.5,Over,Loss
+Memphis,Milwaukee,2024-04-03 11:16:08,113.154,115.791,228.945,0.427,0.573,111,101,212,Milwaukee,Memphis,Loss,222.5,Over,Loss
+Toronto,Minnesota,2024-04-03 11:16:08,111.771,114.449,226.22,0.424,0.576,85,133,218,Minnesota,Minnesota,Win,216.0,Over,Win
+Orlando,New Orleans,2024-04-03 11:16:08,111.225,112.935,224.159,0.452,0.548,117,108,225,New Orleans,Orlando,Loss,208.5,Over,Win
+Cleveland,Phoenix,2024-04-03 11:16:08,112.574,111.644,224.217,0.526,0.474,101,122,223,Cleveland,Phoenix,Loss,226.5,Under,Win
+Atlanta,Dallas,2024-04-04 11:15:38,116.862,117.766,234.628,0.474,0.526,95,109,204,Dallas,Dallas,Win,229.5,Over,Loss
+Philadelphia,Miami,2024-04-04 11:15:38,111.318,110.297,221.616,0.529,0.471,109,105,214,Philadelphia,Philadelphia,Win,210.0,Over,Win
+Sacramento,New York,2024-04-04 11:15:38,114.087,115.011,229.099,0.474,0.526,109,120,229,New York,New York,Win,216.0,Over,Win
+Golden State,Houston,2024-04-04 11:15:38,116.769,114.235,231.004,0.571,0.429,133,110,243,Golden State,Golden State,Win,226.5,Over,Win
+Denver,LA Clippers,2024-04-04 11:15:38,114.022,112.603,226.625,0.54,0.46,100,102,202,Denver,LA,Loss,218.5,Over,Loss
+Orlando,Charlotte,2024-04-05 11:15:30,113.886,109.818,223.704,0.613,0.387,115,124,239,Orlando,Charlotte,Loss,206.0,Over,Win
+Okla City,Indiana,2024-04-05 11:15:31,119.273,117.153,236.426,0.56,0.44,112,126,238,Okla City,Indiana,Loss,233.0,Over,Win
+Portland,Washington,2024-04-05 11:15:31,114.321,114.889,229.21,0.484,0.516,108,102,210,Washington,Portland,Loss,220.0,Over,Loss
+Sacramento,Boston,2024-04-05 11:15:32,114.271,117.871,232.142,0.4,0.6,100,101,201,Boston,Boston,Win,226.0,Over,Loss
+New York,Chicago,2024-04-05 11:15:32,112.949,111.017,223.967,0.554,0.446,100,108,208,New York,Chicago,Loss,212.5,Over,Loss
+Detroit,Memphis,2024-04-05 11:15:32,111.668,114.932,226.6,0.408,0.592,90,108,198,Memphis,Memphis,Win,211.0,Over,Loss
+Miami,Houston,2024-04-05 11:15:32,112.532,110.51,223.042,0.557,0.443,119,104,223,Miami,Miami,Win,215.0,Over,Win
+Toronto,Milwaukee,2024-04-05 11:15:32,113.941,116.737,230.678,0.422,0.578,117,111,228,Milwaukee,Toronto,Loss,225.5,Over,Win
+San Antonio,New Orleans,2024-04-05 11:15:32,112.074,117.882,229.956,0.34,0.66,111,109,220,New Orleans,San Antonio,Loss,219.5,Over,Win
+Golden State,Dallas,2024-04-05 11:15:32,116.49,116.175,232.665,0.509,0.491,106,108,214,Golden State,Dallas,Loss,227.5,Over,Loss
+Minnesota,Phoenix,2024-04-05 11:15:33,113.574,112.977,226.55,0.516,0.484,87,97,184,Minnesota,Phoenix,Loss,217.0,Over,Loss
+Utah,LA Clippers,2024-04-05 11:15:33,114.811,117.027,231.839,0.437,0.563,102,131,233,LA Clippers,LA,Loss,223.5,Over,Win
+Cleveland,LA Lakers,2024-04-06 11:14:45,114.103,112.586,226.689,0.542,0.458,97,116,213,Cleveland,LA Lakers,Loss,228.5,Under,Win
+Detroit,Brooklyn,2024-04-06 11:14:45,111.618,115.295,226.913,0.397,0.603,103,113,216,Brooklyn,Brooklyn,Win,215.0,Over,Win
+Philadelphia,Memphis,2024-04-06 11:14:45,113.348,111.05,224.398,0.564,0.436,116,96,212,Philadelphia,Philadelphia,Win,209.0,Over,Win
+Atlanta,Denver,2024-04-06 11:14:45,114.327,116.93,231.257,0.427,0.573,110,142,252,Denver,Denver,Win,221.5,Over,Win
+Cleveland,LA Clippers,2024-04-07 11:16:01,112.398,111.501,223.9,0.525,0.475,118,120,238,Cleveland,LA,Loss,219.5,Over,Win
+Houston,Dallas,2024-04-07 11:16:01,113.593,115.975,229.567,0.433,0.567,136,147,283,Dallas,Dallas,Win,227.0,Over,Win
+Miami,Indiana,2024-04-07 11:16:01,114.582,113.948,228.53,0.518,0.482,115,117,232,Miami,Indiana,Loss,225.0,Over,Win
+Portland,Boston,2024-04-07 11:16:01,110.1,117.619,227.719,0.298,0.702,107,124,231,Boston,Boston,Win,216.0,Over,Win
+Okla City,Charlotte,2024-04-07 11:16:01,117.697,111.756,229.453,0.662,0.338,121,118,239,Okla City,Okla City,Win,218.0,Over,Win
+Chicago,Orlando,2024-04-07 11:16:01,111.774,111.747,223.521,0.501,0.499,98,113,211,Chicago,Orlando,Loss,210.0,Over,Win
+New Orleans,Phoenix,2024-04-07 11:16:01,113.771,113.361,227.132,0.511,0.489,113,105,218,New Orleans,New Orleans,Win,222.0,Over,Loss
+Washington,Toronto,2024-04-07 11:16:01,114.097,115.537,229.634,0.46,0.54,122,130,252,Toronto,Toronto,Win,229.5,Over,Win
+Philadelphia,San Antonio,2024-04-07 11:16:01,117.472,111.747,229.219,0.657,0.343,133,126,259,Philadelphia,Philadelphia,Win,226.0,Over,Win
+New York,Milwaukee,2024-04-07 11:16:02,114.27,113.991,228.261,0.508,0.492,122,109,231,New York,New York,Win,220.0,Over,Win
+Sacramento,Brooklyn,2024-04-07 11:16:02,115.64,114.248,229.889,0.539,0.461,107,77,184,Sacramento,Sacramento,Win,219.0,Over,Loss
+Utah,Golden State,2024-04-07 11:16:02,116.3,118.673,234.973,0.433,0.567,110,118,228,Golden State,Golden State,Win,228.5,Over,Loss
+Minnesota,LA Lakers,2024-04-07 11:16:02,115.094,113.804,228.898,0.538,0.462,127,117,244,Minnesota,Minnesota,Win,220.0,Over,Win
+Dallas,Charlotte,2024-04-08 11:16:04,116.65,111.83,228.48,0.634,0.366,0,0,0,Dallas,Tie,Loss,219.5,Over,Loss
+Detroit,Philadelphia,2024-04-08 11:16:04,110.674,116.451,227.125,0.342,0.658,0,0,0,Philadelphia,Tie,Loss,219.5,Over,Loss
+Indiana,Toronto,2024-04-08 11:16:04,117.154,116.22,233.374,0.525,0.475,0,0,0,Indiana,Tie,Loss,240.0,Under,Win
+Boston,Milwaukee,2024-04-08 11:16:04,117.062,114.125,231.187,0.582,0.418,0,0,0,Boston,Tie,Loss,228.0,Over,Loss
+Miami,Atlanta,2024-04-08 11:16:05,114.297,113.496,227.794,0.522,0.478,0,0,0,Miami,Tie,Loss,221.5,Over,Loss
+New York,Chicago,2024-04-08 11:16:05,112.899,110.993,223.892,0.554,0.446,0,0,0,New York,Tie,Loss,213.0,Over,Loss
+Orlando,Houston,2024-04-08 11:16:05,113.448,111.798,225.246,0.546,0.454,0,0,0,Orlando,Tie,Loss,211.5,Over,Loss
+San Antonio,Memphis,2024-04-08 11:16:05,112.725,115.964,228.689,0.409,0.591,0,0,0,Memphis,Tie,Loss,215.0,Over,Loss
+Washington,Minnesota,2024-04-08 11:16:05,111.992,116.303,228.295,0.38,0.62,0,0,0,Minnesota,Tie,Loss,222.5,Over,Loss
+Sacramento,Okla City,2024-04-08 11:16:05,116.712,117.521,234.233,0.477,0.523,0,0,0,Okla City,Tie,Loss,228.5,Over,Loss
+Denver,Utah,2024-04-08 11:16:05,117.179,113.383,230.563,0.606,0.394,0,0,0,Denver,Tie,Loss,224.5,Over,Loss
+Golden State,LA Lakers,2024-04-08 11:16:05,117.122,116.549,233.671,0.516,0.484,0,0,0,Golden State,Tie,Loss,232.5,Over,Loss
+New Orleans,Portland,2024-04-08 11:16:06,115.596,110.848,226.444,0.631,0.369,0,0,0,New Orleans,Tie,Loss,210.5,Over,Loss
+Dallas,Charlotte,2024-04-09 11:15:36,116.65,111.83,228.48,0.633,0.367,130,104,234,Dallas,Dallas,Win,221.5,Over,Win
+Detroit,Philadelphia,2024-04-09 11:15:36,110.674,116.451,227.125,0.342,0.658,102,120,222,Philadelphia,Philadelphia,Win,221.5,Over,Win
+Indiana,Toronto,2024-04-09 11:15:36,117.154,116.22,233.374,0.526,0.474,140,123,263,Indiana,Indiana,Win,238.0,Under,Loss
+Boston,Milwaukee,2024-04-09 11:15:37,117.062,114.125,231.187,0.582,0.418,91,104,195,Boston,Milwaukee,Loss,228.0,Over,Loss
+Miami,Atlanta,2024-04-09 11:15:37,114.297,113.496,227.794,0.523,0.477,117,111,228,Miami,Miami,Win,222.0,Over,Win
+San Antonio,Memphis,2024-04-09 11:15:37,112.725,115.964,228.689,0.41,0.59,102,87,189,Memphis,San Antonio,Loss,214.5,Over,Loss
+New York,Chicago,2024-04-09 11:15:37,112.899,110.993,223.892,0.554,0.446,128,117,245,New York,New York,Win,212.5,Over,Win
+Orlando,Houston,2024-04-09 11:15:37,113.448,111.798,225.246,0.547,0.453,106,118,224,Orlando,Houston,Loss,214.5,Over,Win
+Washington,Minnesota,2024-04-09 11:15:37,111.992,116.303,228.295,0.38,0.62,121,130,251,Minnesota,Minnesota,Win,224.0,Over,Win
+Sacramento,Okla City,2024-04-09 11:15:37,116.712,117.521,234.233,0.476,0.524,105,112,217,Okla City,Okla City,Win,227.0,Over,Loss
+Denver,Utah,2024-04-09 11:15:38,117.179,113.383,230.563,0.607,0.393,111,95,206,Denver,Denver,Win,225.0,Over,Loss
+Golden State,LA Lakers,2024-04-09 11:15:38,117.122,116.549,233.671,0.516,0.484,134,120,254,Golden State,Golden State,Win,235.0,Under,Loss
+New Orleans,Portland,2024-04-09 11:15:38,115.596,110.848,226.444,0.631,0.369,110,100,210,New Orleans,New Orleans,Win,213.0,Over,Loss
+Memphis,Cleveland,2024-04-10 11:18:24,109.592,112.299,221.891,0.425,0.575,98,110,208,Cleveland,Cleveland,Win,212.0,Over,Loss
+Charlotte,Atlanta,2024-04-10 11:18:24,113.853,117.698,231.551,0.394,0.606,115,114,229,Atlanta,Charlotte,Loss,219.5,Over,Win
+Toronto,Brooklyn,2024-04-10 11:18:24,112.775,113.336,226.111,0.484,0.516,102,106,208,Brooklyn,Brooklyn,Win,221.5,Over,Loss
+Dallas,Miami,2024-04-10 11:18:24,112.534,112.243,224.777,0.508,0.492,111,92,203,Dallas,Dallas,Win,215.5,Over,Loss
+Orlando,Milwaukee,2024-04-10 11:18:24,113.055,114.671,227.726,0.454,0.546,99,117,216,Milwaukee,Milwaukee,Win,216.0,Over,Tie
+San Antonio,Okla City,2024-04-10 11:18:24,113.744,119.719,233.462,0.337,0.663,89,127,216,Okla City,Okla City,Win,226.5,Over,Loss
+Minnesota,Denver,2024-04-10 11:18:24,112.183,112.856,225.039,0.481,0.519,107,116,223,Denver,Denver,Win,212.5,Over,Win
+Phoenix,LA Clippers,2024-04-10 11:18:25,113.896,113.796,227.691,0.503,0.497,124,108,232,Phoenix,Phoenix,Win,227.0,Over,Win
+Chicago,Detroit,2024-04-11 11:16:48,115.529,111.419,226.947,0.615,0.385,127,105,232,Chicago,Chicago,Win,217.5,Over,Win
+New York,Boston,2024-04-11 11:16:48,111.687,114.115,225.802,0.432,0.568,118,109,227,Boston,New York,Loss,214.5,Over,Win
+Houston,Utah,2024-04-11 11:16:48,115.849,116.15,231.998,0.492,0.508,121,124,245,Utah,Utah,Win,227.5,Over,Win
+Golden State,Portland,2024-04-11 11:16:48,117.247,113.036,230.283,0.618,0.382,100,92,192,Golden State,Golden State,Win,222.5,Over,Loss
+New Orleans,Sacramento,2024-04-11 11:16:48,115.571,114.874,230.445,0.52,0.48,135,123,258,New Orleans,New Orleans,Win,217.5,Over,Win
+Chicago,Washington,2024-04-12 11:18:36,115.483,112.949,228.432,0.571,0.429,129,127,256,Chicago,Chicago,Win,223.0,Over,Win
+Orlando,Philadelphia,2024-04-12 11:18:36,110.95,112.691,223.641,0.45,0.55,113,125,238,Philadelphia,Philadelphia,Win,211.5,Over,Win
+Charlotte,Boston,2024-04-12 11:18:36,109.398,117.747,227.145,0.277,0.723,98,131,229,Boston,Boston,Win,218.0,Over,Win
+Brooklyn,New York,2024-04-12 11:18:36,110.672,113.075,223.746,0.433,0.567,107,111,218,New York,New York,Win,211.5,Over,Win
+Indiana,Cleveland,2024-04-12 11:18:36,113.736,115.781,229.517,0.443,0.557,120,129,249,Cleveland,Cleveland,Win,233.0,Under,Loss
+Atlanta,Minnesota,2024-04-12 11:18:36,114.539,116.622,231.161,0.441,0.559,106,109,215,Minnesota,Minnesota,Win,226.0,Over,Loss
+Denver,San Antonio,2024-04-12 11:18:36,117.962,111.319,229.281,0.681,0.319,120,121,241,Denver,San Antonio,Loss,223.0,Over,Win
+LA Lakers,Memphis,2024-04-12 11:18:36,114.903,113.591,228.495,0.537,0.463,123,120,243,LA Lakers,LA Lakers,Win,225.5,Over,Win
+Toronto,Miami,2024-04-12 11:18:36,110.707,112.216,222.924,0.457,0.543,103,125,228,Miami,Miami,Win,218.5,Over,Win
+Milwaukee,Okla City,2024-04-12 11:18:36,116.512,116.812,233.324,0.491,0.509,107,125,232,Okla City,Okla City,Win,223.5,Over,Win
+Detroit,Dallas,2024-04-12 11:18:37,112.476,117.643,230.12,0.358,0.642,107,89,196,Dallas,Detroit,Loss,218.0,Over,Loss
+New Orleans,Golden State,2024-04-12 11:18:37,115.349,114.705,230.054,0.519,0.481,114,109,223,New Orleans,New Orleans,Win,220.0,Over,Win
+Houston,Portland,2024-04-12 11:18:37,114.409,112.986,227.395,0.54,0.46,116,107,223,Houston,Houston,Win,218.0,Over,Win
+Utah,LA Clippers,2024-04-12 11:18:37,114.662,117.027,231.689,0.433,0.567,110,109,219,LA Clippers,Utah,Loss,224.0,Over,Loss
+Phoenix,Sacramento,2024-04-12 11:18:37,115.772,115.566,231.338,0.506,0.494,108,107,215,Phoenix,Phoenix,Win,225.5,Over,Loss
+Atlanta,Indiana,2024-04-13 11:13:18,119.097,119.325,238.422,0.494,0.506,0,0,0,Indiana,Tie,Loss,235.5,Over,Loss
+Brooklyn,Philadelphia,2024-04-13 11:13:18,111.275,113.448,224.722,0.439,0.561,0,0,0,Philadelphia,Tie,Loss,212.5,Over,Loss
+Charlotte,Cleveland,2024-04-13 11:13:18,108.5,114.472,222.971,0.336,0.664,0,0,0,Cleveland,Tie,Loss,206.5,Over,Loss
+Chicago,New York,2024-04-13 11:13:19,111.142,112.999,224.141,0.448,0.552,0,0,0,New York,Tie,Loss,214.5,Over,Loss
+Milwaukee,Orlando,2024-04-13 11:13:19,114.724,113.005,227.729,0.548,0.452,0,0,0,Milwaukee,Tie,Loss,214.5,Over,Loss
+LA Lakers,New Orleans,2024-04-13 11:13:19,114.316,115.622,229.938,0.462,0.538,0,0,0,New Orleans,Tie,Loss,229.5,Over,Loss
+Phoenix,Minnesota,2024-04-13 11:13:19,112.857,113.423,226.28,0.484,0.516,0,0,0,Minnesota,Tie,Loss,216.5,Over,Loss
+Atlanta,Chicago,2024-04-13 11:13:19,115.415,115.777,231.192,0.491,0.509,0,0,0,Chicago,Tie,Loss,218.5,Over,Loss
+Atlanta,Indiana,2024-04-14 14:30:34,119.097,119.325,238.422,0.494,0.506,115,157,272,Indiana,Indiana,Win,240.0,Under,Loss
+Washington,Boston,2024-04-14 14:30:34,111.687,118.625,230.312,0.312,0.688,122,132,254,Boston,Boston,Win,227.0,Over,Win
+Brooklyn,Philadelphia,2024-04-14 14:30:34,111.275,113.448,224.722,0.438,0.562,86,107,193,Philadelphia,Philadelphia,Win,215.0,Over,Loss
+Charlotte,Cleveland,2024-04-14 14:30:34,108.5,114.472,222.971,0.336,0.664,120,110,230,Cleveland,Charlotte,Loss,209.0,Over,Win
+Chicago,New York,2024-04-14 14:30:34,111.142,112.999,224.141,0.447,0.553,119,120,239,New York,New York,Win,216.5,Over,Win
+Toronto,Miami,2024-04-14 14:30:34,110.683,112.266,222.949,0.456,0.544,103,118,221,Miami,Miami,Win,220.5,Over,Win
+Milwaukee,Orlando,2024-04-14 14:30:35,114.724,113.005,227.729,0.548,0.452,88,113,201,Milwaukee,Orlando,Loss,214.5,Over,Loss
+Dallas,Okla City,2024-04-14 14:30:35,115.473,116.659,232.132,0.466,0.534,86,135,221,Okla City,Okla City,Win,224.5,Over,Loss
+Denver,Memphis,2024-04-14 14:30:35,113.895,110.625,224.519,0.592,0.408,126,111,237,Denver,Denver,Win,218.0,Over,Win
+Detroit,San Antonio,2024-04-14 14:30:35,115.474,115.558,231.032,0.497,0.503,95,123,218,San Antonio,San Antonio,Win,215.0,Over,Win
+Utah,Golden State,2024-04-14 14:30:35,116.125,118.573,234.698,0.431,0.569,116,123,239,Golden State,Golden State,Win,223.0,Over,Win
+Houston,LA Clippers,2024-04-14 14:30:35,112.725,115.348,228.073,0.427,0.573,116,105,221,LA Clippers,Houston,Loss,221.0,Over,Tie
+LA Lakers,New Orleans,2024-04-14 14:30:35,114.316,115.622,229.938,0.463,0.537,124,108,232,New Orleans,LA Lakers,Loss,230.0,Under,Loss
+Phoenix,Minnesota,2024-04-14 14:30:35,112.857,113.423,226.28,0.484,0.516,125,106,231,Minnesota,Phoenix,Loss,217.0,Over,Win
+Portland,Sacramento,2024-04-14 14:30:35,113.253,117.346,230.599,0.386,0.614,82,121,203,Sacramento,Sacramento,Win,213.5,Over,Loss
+Atlanta,Chicago,2024-04-14 14:30:35,115.415,115.777,231.192,0.49,0.51,115,157,272,Chicago,Indiana,Loss,218.5,Over,Win
+LA Lakers,New Orleans,2024-04-15 11:16:30,114.391,115.547,229.939,0.468,0.532,0,0,0,New Orleans,Tie,Loss,226.0,Over,Loss
+Golden State,Sacramento,2024-04-15 11:16:30,117.147,117.143,234.291,0.501,0.499,0,0,0,Golden State,Tie,Loss,225.5,Over,Loss
+LA Lakers,New Orleans,2024-04-16 11:16:05,114.391,115.547,229.939,0.467,0.533,110,106,216,New Orleans,LA Lakers,Loss,223.5,Over,Loss
+Golden State,Sacramento,2024-04-16 11:16:06,117.147,117.143,234.291,0.5,0.5,94,118,212,Golden State,Sacramento,Loss,224.0,Over,Loss
+Miami,Philadelphia,2024-04-17 11:17:07,110.198,111.392,221.59,0.467,0.533,104,105,209,Philadelphia,Philadelphia,Win,207.5,Over,Win
+Atlanta,Chicago,2024-04-17 11:17:07,115.416,115.9,231.316,0.487,0.513,116,131,247,Chicago,Chicago,Win,221.5,Over,Win
+Chicago,Miami,2024-04-18 11:15:44,110.632,111.115,221.746,0.486,0.514,0,0,0,Miami,Tie,Loss,209.5,Over,Loss
+Sacramento,New Orleans,2024-04-18 11:15:44,114.975,115.472,230.448,0.486,0.514,0,0,0,New Orleans,Tie,Loss,213.5,Over,Loss
+Chicago,Miami,2024-04-19 11:15:53,110.632,111.115,221.746,0.486,0.514,91,112,203,Miami,Miami,Win,205.0,Over,Loss
+Sacramento,New Orleans,2024-04-19 11:15:54,114.975,115.472,230.448,0.486,0.514,98,105,203,New Orleans,New Orleans,Win,210.0,Over,Loss
+Orlando,Cleveland,2024-04-20 11:15:18,109.642,111.549,221.192,0.446,0.554,83,97,180,Cleveland,Cleveland,Win,207.5,Over,Loss
+Phoenix,Minnesota,2024-04-20 11:15:18,112.932,113.373,226.305,0.488,0.512,95,120,215,Minnesota,Minnesota,Win,214.0,Over,Win
+Philadelphia,New York,2024-04-20 11:15:18,111.955,112.117,224.072,0.495,0.505,104,111,215,New York,New York,Win,209.0,Over,Win
+LA Lakers,Denver,2024-04-20 11:15:18,113.673,115.698,229.372,0.443,0.557,103,114,217,Denver,Denver,Win,223.5,Over,Loss
+Miami,Boston,2024-04-21 11:14:59,109.825,113.512,223.336,0.396,0.604,94,114,208,Boston,Boston,Win,209.0,Over,Loss
+Dallas,LA Clippers,2024-04-21 11:14:59,114.49,114.75,229.239,0.492,0.508,97,109,206,LA Clippers,LA,Loss,223.0,Over,Loss
+Indiana,Milwaukee,2024-04-21 11:14:59,117.403,118.946,236.349,0.457,0.543,94,109,203,Milwaukee,Milwaukee,Win,231.5,Over,Loss
+New Orleans,Okla City,2024-04-21 11:14:59,114.6,115.069,229.669,0.486,0.514,92,94,186,Okla City,Okla City,Win,214.5,Over,Loss
+Orlando,Cleveland,2024-04-22 11:15:32,109.468,111.475,220.942,0.444,0.556,86,96,182,Cleveland,Cleveland,Win,203.0,Over,Loss
+Philadelphia,New York,2024-04-22 11:15:32,111.93,112.117,224.047,0.494,0.506,101,104,205,New York,New York,Win,207.5,Over,Loss
+LA Lakers,Denver,2024-04-22 11:15:32,113.599,115.673,229.272,0.442,0.558,99,101,200,Denver,Denver,Win,223.0,Over,Loss
+Phoenix,Minnesota,2024-04-23 11:16:36,112.858,113.423,226.281,0.485,0.515,93,105,198,Minnesota,Minnesota,Win,211.5,Over,Loss
+Indiana,Milwaukee,2024-04-23 11:16:36,117.253,118.871,236.124,0.455,0.545,125,108,233,Milwaukee,Indiana,Loss,220.5,Over,Win
+Dallas,LA Clippers,2024-04-23 11:16:36,114.39,114.725,229.115,0.491,0.509,96,93,189,LA Clippers,Dallas,Loss,215.5,Over,Loss
+Miami,Boston,2024-04-24 11:17:37,109.725,113.514,223.239,0.394,0.606,111,101,212,Boston,Miami,Loss,202.5,Over,Win
+New Orleans,Okla City,2024-04-24 11:17:37,114.475,114.945,229.42,0.486,0.514,92,124,216,Okla City,Okla City,Win,210.5,Over,Win
+Cleveland,Orlando,2024-04-25 11:15:43,111.425,109.318,220.742,0.559,0.441,83,121,204,Cleveland,Orlando,Loss,198.5,Over,Win
+New York,Philadelphia,2024-04-25 11:15:43,112.067,111.856,223.923,0.505,0.495,114,125,239,New York,Philadelphia,Loss,201.5,Over,Win
+Denver,LA Lakers,2024-04-25 11:15:44,115.598,113.525,229.123,0.558,0.442,112,105,217,Denver,Denver,Win,215.0,Over,Win
+Milwaukee,Indiana,2024-04-26 11:15:51,118.796,117.278,236.075,0.543,0.457,118,121,239,Milwaukee,Indiana,Loss,221.0,Over,Win
+Minnesota,Phoenix,2024-04-26 11:15:51,113.373,112.733,226.106,0.519,0.481,126,109,235,Minnesota,Minnesota,Win,206.5,Over,Win
+Cleveland,Orlando,2024-04-27 11:14:19,111.25,109.392,220.642,0.552,0.448,89,112,201,Cleveland,Orlando,Loss,201.5,Over,Loss
+Okla City,New Orleans,2024-04-27 11:14:19,114.997,114.35,229.347,0.519,0.481,106,85,191,Okla City,Okla City,Win,208.5,Over,Loss
+Boston,Miami,2024-04-27 11:14:19,113.44,109.75,223.19,0.602,0.398,104,84,188,Boston,Boston,Win,202.5,Over,Loss
+Denver,LA Lakers,2024-04-27 11:14:20,115.548,113.475,229.023,0.559,0.441,108,119,227,Denver,LA Lakers,Loss,218.0,Over,Win
+New York,Philadelphia,2024-04-28 11:14:50,112.067,111.931,223.998,0.503,0.497,97,92,189,New York,New York,Win,209.0,Over,Loss
+Milwaukee,Indiana,2024-04-28 11:14:51,118.796,117.278,236.075,0.543,0.457,113,126,239,Milwaukee,Indiana,Loss,216.5,Over,Win
+Minnesota,Phoenix,2024-04-28 11:14:51,113.423,112.734,226.157,0.52,0.48,122,116,238,Minnesota,Minnesota,Win,210.5,Over,Win
+Boston,Miami,2024-04-29 11:17:27,113.392,109.6,222.992,0.606,0.394,102,88,190,Boston,Boston,Win,203.5,Over,Loss
+Okla City,New Orleans,2024-04-29 11:17:27,114.947,114.2,229.147,0.521,0.479,97,89,186,Okla City,Okla City,Win,204.5,Over,Loss
+LA Lakers,Denver,2024-04-29 11:17:27,113.526,115.524,229.05,0.443,0.557,106,108,214,Denver,Denver,Win,217.0,Over,Loss
+Philadelphia,New York,2024-04-30 11:17:51,111.831,111.967,223.798,0.496,0.504,112,106,218,New York,Philadelphia,Loss,203.0,Over,Win
+Orlando,Cleveland,2024-04-30 11:17:51,109.418,111.1,220.517,0.452,0.548,103,104,207,Cleveland,Cleveland,Win,200.5,Over,Win
+Indiana,Milwaukee,2024-04-30 11:17:51,117.329,118.771,236.101,0.46,0.54,92,115,207,Milwaukee,Milwaukee,Win,215.0,Over,Loss
+Miami,Boston,2024-05-01 11:15:58,109.475,113.318,222.793,0.394,0.606,84,118,202,Boston,Boston,Win,198.5,Over,Win
+Dallas,LA Clippers,2024-05-01 11:15:58,114.165,114.45,228.615,0.492,0.508,123,93,216,LA Clippers,Dallas,Loss,207.5,Over,Win
+Milwaukee,Indiana,2024-05-02 11:15:54,118.721,117.179,235.901,0.543,0.457,98,120,218,Milwaukee,Indiana,Loss,212.5,Over,Win
+New York,Philadelphia,2024-05-02 11:15:54,111.942,111.807,223.749,0.504,0.496,118,115,233,New York,New York,Win,198.5,Over,Win
+Cleveland,Orlando,2024-05-03 11:16:07,111.1,109.368,220.467,0.548,0.452,96,103,199,Cleveland,Orlando,Loss,199.0,Over,Tie
+Minnesota,Denver,2024-05-04 11:14:43,112.158,112.882,225.04,0.48,0.52,106,99,205,Denver,Minnesota,Loss,208.5,Over,Loss
+Orlando,Cleveland,2024-05-05 11:15:49,109.318,111.025,220.342,0.451,0.549,94,106,200,Cleveland,Cleveland,Win,194.5,Over,Win
+Indiana,New York,2024-05-06 11:15:51,114.502,116.383,230.885,0.448,0.552,117,121,238,New York,New York,Win,217.0,Over,Win
+Minnesota,Denver,2024-05-06 11:15:51,112.133,112.808,224.941,0.481,0.519,106,80,186,Denver,Minnesota,Loss,205.0,Over,Loss
+Cleveland,Boston,2024-05-07 11:17:55,110.422,113.007,223.428,0.428,0.572,95,120,215,Boston,Boston,Win,208.5,Over,Win
+Dallas,Okla City,2024-05-07 11:17:55,114.847,116.333,231.18,0.458,0.542,95,117,212,Okla City,Okla City,Win,218.0,Over,Loss
+Indiana,New York,2024-05-08 11:17:54,114.528,116.409,230.936,0.447,0.553,121,130,251,New York,New York,Win,222.5,Over,Win
+Cleveland,Boston,2024-05-09 11:16:40,110.322,113.059,223.381,0.424,0.576,118,94,212,Boston,Cleveland,Loss,212.0,Over,Tie
+Dallas,Okla City,2024-05-09 11:16:40,114.747,116.333,231.08,0.456,0.544,119,110,229,Okla City,Dallas,Loss,218.5,Over,Win
+New York,Indiana,2024-05-10 11:17:00,116.484,114.554,231.038,0.554,0.446,106,111,217,New York,Indiana,Loss,222.5,Over,Loss
+Denver,Minnesota,2024-05-10 11:17:00,112.633,112.108,224.741,0.515,0.485,117,90,207,Denver,Denver,Win,204.5,Over,Win
+Okla City,Dallas,2024-05-11 11:17:38,116.308,114.772,231.081,0.543,0.457,101,105,206,Okla City,Dallas,Loss,218.0,Over,Loss
+Boston,Cleveland,2024-05-11 11:17:39,112.959,110.372,223.331,0.573,0.427,106,93,199,Boston,Boston,Win,211.0,Over,Loss
+New York,Indiana,2024-05-12 11:16:00,116.434,114.532,230.966,0.554,0.446,89,121,210,New York,Indiana,Loss,218.0,Over,Loss
+Denver,Minnesota,2024-05-12 11:16:00,112.683,111.983,224.666,0.519,0.481,115,107,222,Denver,Denver,Win,204.5,Over,Win
+Boston,Cleveland,2024-05-13 11:16:23,112.885,110.272,223.157,0.573,0.427,109,102,211,Boston,Boston,Win,206.0,Over,Win
+Okla City,Dallas,2024-05-13 11:16:23,116.208,114.722,230.931,0.543,0.457,100,96,196,Okla City,Okla City,Win,213.5,Over,Loss
+Indiana,New York,2024-05-14 11:16:30,114.558,116.26,230.818,0.452,0.548,91,121,212,New York,New York,Win,216.0,Over,Loss
+Minnesota,Denver,2024-05-14 11:16:30,111.958,112.709,224.667,0.479,0.521,97,112,209,Denver,Denver,Win,205.5,Over,Win
+Cleveland,Boston,2024-05-15 11:16:21,110.247,112.861,223.108,0.427,0.573,98,113,211,Boston,Boston,Win,204.5,Over,Win
+Dallas,Okla City,2024-05-15 11:16:21,114.598,116.109,230.707,0.458,0.542,104,92,196,Okla City,Dallas,Loss,213.0,Over,Loss
+Denver,Minnesota,2024-05-16 11:18:12,112.734,111.908,224.642,0.523,0.477,70,115,185,Denver,Minnesota,Loss,204.5,Over,Loss
+New York,Indiana,2024-05-17 11:17:14,116.31,114.434,230.744,0.553,0.447,103,116,219,New York,Indiana,Loss,215.5,Over,Win
+Okla City,Dallas,2024-05-18 11:15:21,115.959,114.573,230.532,0.539,0.461,116,117,233,Okla City,Dallas,Loss,208.5,Over,Win
+Indiana,New York,2024-05-19 11:16:21,114.436,116.236,230.671,0.449,0.551,130,109,239,New York,Indiana,Loss,208.0,Over,Win
+Minnesota,Denver,2024-05-19 11:16:21,111.908,112.509,224.418,0.483,0.517,98,90,188,Denver,Minnesota,Loss,198.0,Over,Loss
+Indiana,Boston,2024-05-20 11:17:32,114.147,118.623,232.77,0.376,0.624,0,0,0,Boston,Tie,Loss,222.0,Over,Loss
+Indiana,Boston,2024-05-21 11:18:52,114.147,118.623,232.77,0.375,0.625,128,133,261,Boston,Boston,Win,221.0,Over,Win
+Dallas,Minnesota,2024-05-22 11:18:54,112.9,113.925,226.825,0.471,0.529,108,105,213,Minnesota,Dallas,Loss,208.0,Over,Win
+Indiana,Boston,2024-05-23 11:18:03,114.223,118.698,232.922,0.377,0.623,110,126,236,Boston,Boston,Win,224.5,Over,Win
+Dallas,Minnesota,2024-05-24 11:19:00,112.876,113.9,226.775,0.471,0.529,109,108,217,Minnesota,Dallas,Loss,207.5,Over,Win
+Boston,Indiana,2024-05-25 11:17:26,118.723,114.199,232.923,0.625,0.375,114,111,225,Boston,Boston,Win,222.5,Over,Win
+Minnesota,Dallas,2024-05-26 11:16:38,113.85,112.877,226.726,0.527,0.473,107,116,223,Minnesota,Dallas,Loss,207.5,Over,Win
+Boston,Indiana,2024-05-27 11:17:43,118.723,114.151,232.875,0.627,0.373,105,102,207,Boston,Boston,Win,222.5,Over,Loss
+Minnesota,Dallas,2024-05-28 11:16:32,113.825,112.902,226.727,0.526,0.474,105,100,205,Minnesota,Minnesota,Win,210.5,Over,Loss
+Dallas,Minnesota,2024-05-29 11:17:16,112.852,113.775,226.627,0.474,0.526,0,0,0,Minnesota,Tie,Loss,209.5,Over,Loss
+Dallas,Minnesota,2024-05-30 11:17:02,112.852,113.775,226.627,0.474,0.526,124,103,227,Minnesota,Dallas,Loss,209.5,Over,Win
+Dallas,Boston,2024-05-31 11:17:13,112.314,115.906,228.22,0.4,0.6,0,0,0,Boston,Tie,Loss,214.5,Over,Loss
+Dallas,Boston,2024-06-01 11:19:46,112.314,115.906,228.22,0.4,0.6,0,0,0,Boston,Tie,Loss,214.5,Over,Loss
+Dallas,Boston,2024-06-02 11:17:34,112.314,115.906,228.22,0.4,0.6,0,0,0,Boston,Tie,Loss,214.5,Over,Loss
+Dallas,Boston,2024-06-03 11:17:14,112.314,115.906,228.22,0.399,0.601,0,0,0,Boston,Tie,Loss,214.5,Over,Loss
+Dallas,Boston,2024-06-04 11:18:19,112.314,115.906,228.22,0.399,0.601,0,0,0,Boston,Tie,Loss,214.5,Over,Loss
+Dallas,Boston,2024-06-05 11:17:01,112.314,115.906,228.22,0.4,0.6,0,0,0,Boston,Tie,Loss,214.5,Over,Loss
+Dallas,Boston,2024-06-06 11:17:46,112.314,115.906,228.22,0.399,0.601,89,107,196,Boston,Boston,Win,215.0,Over,Loss
+Dallas,Boston,2024-06-07 11:17:53,112.189,115.882,228.071,0.397,0.603,0,0,0,Boston,Tie,Loss,214.5,Over,Loss
+Dallas,Boston,2024-06-08 11:16:46,112.189,115.882,228.071,0.396,0.604,0,0,0,Boston,Tie,Loss,214.5,Over,Loss
+Dallas,Boston,2024-06-09 11:15:52,112.189,115.882,228.071,0.397,0.603,98,105,203,Boston,Boston,Win,214.5,Over,Loss
+Boston,Dallas,2024-06-10 11:18:48,115.832,112.115,227.947,0.604,0.396,0,0,0,Boston,Tie,Loss,213.5,Over,Loss
+Boston,Dallas,2024-06-11 11:18:23,115.832,112.115,227.947,0.604,0.396,0,0,0,Boston,Tie,Loss,213.0,Over,Loss
+Boston,Dallas,2024-06-12 11:19:21,115.832,112.115,227.947,0.604,0.396,106,99,205,Boston,Boston,Win,213.0,Over,Loss
+Boston,Dallas,2024-06-13 11:18:01,115.757,112.041,227.798,0.603,0.397,0,0,0,Boston,Tie,Loss,211.5,Over,Loss
+Boston,Dallas,2024-06-14 08:44:01,115.757,112.041,227.798,0.603,0.397,84,122,206,Boston,Dallas,Loss,211.5,Over,Loss
+Dallas,Boston,2024-06-15 11:16:44,112.091,115.607,227.698,0.402,0.598,0,0,0,Boston,Tie,Loss,209.5,Over,Loss
+Dallas,Boston,2024-06-16 11:17:20,112.091,115.607,227.698,0.401,0.599,0,0,0,Boston,Tie,Loss,209.5,Over,Loss
+Dallas,Boston,2024-06-17 11:17:27,112.091,115.607,227.698,0.402,0.598,88,106,194,Boston,Boston,Win,209.5,Over,Loss

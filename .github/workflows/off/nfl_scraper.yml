@@ -1,0 +1,43 @@
+name: Execute NFL data scrapers.
+
+on:
+  schedule:
+    - cron: "00 12 * * 2"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11.1' # install the python version needed
+
+      - name: install python packages
+        run: |
+          pip install selenium requests pandas python-dotenv
+
+      - name: execute py script # run main.py
+        run: |
+          python nfl/nfl_monte_carlo/nfl_data_scraper/weekly_matchups.py
+          python nfl/nfl_monte_carlo/nfl_data_scraper/points_forced.py
+          python nfl/nfl_monte_carlo/nfl_data_scraper/points_allowed.py
+        env:
+          NFL_WM_URL: ${{ secrets.NFL_WM_URL }}
+          NFL_PA_URL: ${{ secrets.NFL_PA_URL }}
+          NFL_PF_URL: ${{ secrets.NFL_PF_URL }}
+
+      - name: Pull latest changes from remote
+        run: git pull origin main
+
+      - name: commit files
+        run: |
+          git config user.name "jonasnatividad"
+          git config user.email "jonas.natividad.ii@gmail.com"
+          git add .
+          git commit -m "Weekly NFL data update." || echo "No changes to commit"
+          git push origin main

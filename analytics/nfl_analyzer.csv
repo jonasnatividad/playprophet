@@ -1,0 +1,207 @@
+team_name_1,team_name_2,timestamp,team_1_adj_pts,team_2_adj_pts,total_adj_pts,team_1_win_percentage,team_2_win_percentage,team_1_actual_points,team_2_actual_points,total_actual_points,moneyline_prediction,actual_winner,moneyline_result,total_o_u_points,o_u_prediction,o_u_result,,
+Denver,Kansas City,10/12/23,21.36,24.04,45.4,0.41,0.59,8,19,27,Kansas City,,Win,48,Under,Win,,
+Baltimore,Tennessee,10/15/23,21.1,18.16,39.26,0.59,0.41,24,16,40,Baltimore,,Win,42.5,Under,Win,,
+Carolina,Miami,10/15/23,21.57,25.69,47.26,0.39,0.61,21,42,63,Miami,,Win,47.5,Under,Loss,,
+Indianapolis,Jacksonville,10/15/23,20.95,23.74,44.69,0.42,0.58,20,37,57,Jacksonville,,Win,43.5,Over,Win,,
+New Orleans,Houston,10/15/23,21.83,20.15,41.98,0.54,0.46,13,20,33,New Orleans,,Loss,41.5,Over,Loss,,
+San Francisco,Cleveland,10/15/23,25.77,18.59,44.36,0.69,0.31,17,19,36,San Francisco,,Loss,35.5,Over,Win,,
+Seattle,Cincinatti,10/15/23,22.51,22.81,45.32,0.48,0.52,13,17,30,Cincinatti,,Win,45.5,Under,Win,,
+Minnesota,Chicago,10/15/23,25.26,23.15,48.41,0.54,0.46,19,13,32,Minnesota,,Win,44.5,Over,Loss,,
+Washington,Atlanta,10/15/23,21.49,19.62,41.11,0.57,0.43,24,16,40,Washington,,Win,41.5,Under,Win,,
+New England,Las Vegas,10/15/23,19.96,19.94,39.9,0.47,0.53,17,21,38,Las Vegas,,Win,41.5,Under,Win,,
+Detroit,Tampa Bay,10/15/23,24.64,22.18,46.82,0.58,0.42,20,6,26,Detroit,,Win,43.5,Over,Loss,,
+Arizona,LA Rams,10/15/23,21.68,23.12,44.8,0.46,0.54,9,26,35,LA Rams,,Win,47.5,Under,Win,,
+Philadelphia,NY Jets,10/15/23,23.08,18.88,41.96,0.64,0.36,14,20,34,Philadelphia,,Loss,43.5,Under,Win,,
+NY Giants,Buffalo,10/15/23,17.91,26.04,43.95,0.28,0.72,9,14,23,Buffalo,,Win,43.5,Over,Loss,,
+Dallas,LA Chargers,10/16/23,24.88,22.39,47.27,0.57,0.43,20,17,37,Dallas,,Win,50.5,Under,Win,,
+Jacksonville,New Orleans,10/19/23,20.81,19.78,40.59,0.53,0.47,31,24,55,Jacksonville,,Win,39.5,Over,Win,,
+Atlanta,Tampa Bay,10/22/23,19.298,19.681,38.979,0.49,0.51,16,13,29,Tampa Bay,,Loss,37.5,Over,Loss,,
+Washington,NY Giants,10/22/23,22.774,20.229,43.003,0.58,0.42,7,14,21,Washington,,Loss,37.5,Over,Loss,,
+Buffalo,New England,10/22/23,25.357,16.849,42.206,0.73,0.28,25,29,54,Buffalo,,Loss,40,Over,Win,,
+Cleveland,Indianapolis,10/22/23,22.506,19.539,42.045,0.58,0.42,39,38,77,Cleveland,,Win,41,Over,Win,,
+Las Vegas,Chicago,10/22/23,23.749,21.648,45.397,0.56,0.44,12,30,42,Las Vegas,,Loss,38,Over,Win,,
+Detroit,Baltimore,10/22/23,21.543,21.647,43.19,0.5,0.51,6,36,42,Baltimore,,Win,43,Over,Loss,,
+Pittsburgh,LA Rams,10/22/23,18.894,20.898,39.792,0.44,0.56,24,17,41,LA Rams,,Loss,44,Under,Win,,
+Arizona,Seattle,10/22/23,21.386,25.524,46.911,0.39,0.61,10,20,30,Seattle,,Win,44.5,Over,Loss,,
+Green Bay,Denver,10/22/23,24.573,20.646,45.219,0.61,0.39,17,19,36,Green Bay,,Loss,45,Over,Loss,,
+LA Chargers,Kansas City,10/22/23,21.189,25.361,46.55,0.38,0.62,17,31,48,Kansas City,,Win,47.5,Under,Loss,,
+Miami,Philadelphia,10/22/23,24.821,26.173,50.994,0.46,0.54,17,31,48,Philadelphia,,Win,51.5,Under,Win,,
+San Francisco,Minnesota,10/23/23,26.061,19.146,45.207,0.69,0.31,17,22,39,San Francisco,,Loss,44,Over,Loss,,
+Tampa Bay,Buffalo,10/26/23,17.849,23.337,41.186,0.35,0.65,18,24,42,Buffalo,,Win,42,Under,Loss,,
+Philadelphia,Washington,10/29/23,25.664,19.698,45.363,0.663,0.337,38,31,69,Philadelphia,,Win,42,Over,Win,,
+Atlanta,Tennessee,10/29/23,19.613,19.047,38.66,0.517,0.483,23,28,51,Atlanta,,Loss,35.5,Over,Win,,
+Jacksonville,Pittsburgh,10/29/23,22.482,19.321,41.803,0.588,0.412,20,43,63,Jacksonville,,Loss,41,Over,Win,,
+NY Jets,NY Giants,10/29/23,20.777,17.88,38.657,0.582,0.418,13,10,23,NY Jets,,Win,34,Over,Loss,,
+New England,Miami,10/29/23,21.323,25.764,47.087,0.377,0.623,17,31,48,Miami,,Win,46.5,Over,Win,,
+New Orleans,Indianapolis,10/29/23,22.429,20.175,42.604,0.563,0.437,38,27,65,New Orleans,,Win,44.5,Under,Loss,,
+Minnesota,Green Bay,10/29/23,22.565,22.632,45.197,0.498,0.502,24,10,34,Green Bay,,Loss,41.5,Over,Loss,,
+LA Rams,Dallas,10/29/23,19.126,23.674,42.8,0.373,0.627,20,43,63,Dallas,,Win,44,Under,Loss,,
+Houston,Carolina,10/29/23,22.877,20.621,43.498,0.563,0.437,13,15,28,Houston,,Loss,43,Over,Loss,,
+Cleveland,Seattle,10/29/23,21.949,22.319,44.269,0.489,0.511,20,24,44,Seattle,,Win,38.5,Over,Win,,
+Cincinnati,San Francisco,10/29/23,18.646,23.599,42.245,0.364,0.636,31,17,48,San Francisco,,Loss,44.5,Under,Loss,,
+Kansas City,Denver,10/29/23,26.668,18.799,45.467,0.711,0.289,9,24,33,Kansas City,,Loss,45,Over,Loss,,
+Baltimore,Arizona,10/29/23,24.226,17.648,41.874,0.678,0.322,31,24,55,Baltimore,,Win,44.5,Under,Loss,,
+Chicago,LA Chargers,10/29/23,22.605,25.32,47.925,0.423,0.577,13,30,43,LA Chargers,,Win,45.5,Over,Loss,,
+Las Vegas,Detroit,10/30/23,21.393,24.756,46.149,0.405,0.595,14,26,40,Detroit,,Win,46.5,Under,Win,,
+Tennessee,Pittsburgh,11/2/23,19.162,18.882,38.045,0.508,0.492,16,20,36,Tennessee,,Loss,37,Over,Loss,,
+Miami,Kansas City,11/5/23,23.505,25.539,49.044,0.442,0.558,14,21,35,Kansas City,,Win,50.5,Under,Win,,
+Chicago,New Orleans,11/5/23,20.048,23.578,43.626,0.403,0.597,17,24,41,New Orleans,,Win,42,Over,Loss,,
+Washington,New England,11/5/23,21.621,20.994,42.615,0.516,0.484,20,17,37,Washington,,Win,41,Over,Loss,,
+Tampa Bay,Houston,11/5/23,19.535,19.495,39.03,0.5,0.5,37,39,76,Tampa Bay,,Loss,40,Under,Loss,,
+LA Rams,Green Bay,11/5/23,21,21.829,42.829,0.477,0.523,3,20,23,Green Bay,,Win,38,Over,Loss,,
+Arizona,Cleveland,11/5/23,20.282,23.925,44.207,0.398,0.602,0,27,27,Cleveland,,Win,38,Over,Loss,,
+Seattle,Baltimore,11/5/23,20.148,22.497,42.646,0.435,0.565,3,37,40,Baltimore,,Win,44,Under,Win,,
+Minnesota,Atlanta,11/5/23,22.378,21.054,43.432,0.537,0.463,31,28,59,Minnesota,,Win,37.5,Over,Win,,
+Indianapolis,Carolina,11/5/23,23.168,22.735,45.903,0.512,0.488,27,13,40,Indianapolis,,Win,45,Over,Loss,,
+NY Giants,Las Vegas,11/5/23,19.93,21.224,41.154,0.463,0.537,6,30,36,Las Vegas,,Win,37.5,Over,Loss,,
+Dallas,Philadelphia,11/5/23,23.808,22.92,46.728,0.526,0.474,23,28,51,Dallas,,Loss,47,Under,Loss,,
+Buffalo,Cincinnati,11/5/23,23.617,20.018,43.635,0.6,0.4,18,24,42,Buffalo,,Loss,50.5,Under,Win,,
+LA Chargers,NY Jets,11/6/23,21.137,20.417,41.554,0.521,0.479,27,6,33,LA Chargers,,Win,39.5,Over,Loss,,
+Panthers,Bears,11/9/23,22.641,22.456,45.096,0.506,0.494,13,16,29,Panthers,,Loss,46,Under,Win,,
+Indianapolis,New England,11/7/23 11:38,22.113,21.753,43.866,0.51,0.49,10,6,16,Indianapolis,Indianapolis,Win,43.5,Over,Loss,,
+Tennessee,Tampa Bay,11/7/23 11:38,19.558,19.76,39.317,0.494,0.506,6,20,26,Tampa Bay,Tampa Bay,Win,38.5,Over,Loss,,
+Green Bay,Pittsburgh,11/7/23 11:38,20.648,19.02,39.668,0.546,0.454,19,23,42,Green Bay,Pittsburgh,Loss,39,Over,Win,,
+New Orleans,Minnesota,11/7/23 11:38,21.858,21.671,43.529,0.505,0.495,19,27,46,New Orleans,Minnesota,Loss,41,Over,Win,,
+San Francisco,Jacksonville,11/7/23 11:38,23.323,20.406,43.729,0.582,0.418,34,3,37,San Francisco,San Francisco,Win,46.5,Under,Win,,
+Houston,Cincinnati,11/7/23 11:38,20.075,22.6,42.675,0.43,0.57,30,27,57,Cincinnati,Houston,Loss,48,Under,Loss,,
+Cleveland,Baltimore,11/7/23 11:38,18.894,21.625,40.519,0.423,0.577,33,31,64,Baltimore,Cleveland,Loss,37.5,Over,Win,,
+Atlanta,Arizona,11/7/23 11:38,23.015,20.12,43.134,0.581,0.419,23,25,48,Atlanta,Arizona,Loss,42.5,Over,Win,,
+Detroit,LA Chargers,11/7/23 11:38,24.067,23.54,47.606,0.515,0.485,41,38,79,Detroit,Detroit,Win,48.5,Under,Loss,,
+NY Giants,Dallas,11/7/23 11:38,17.59,25.232,42.823,0.294,0.706,17,49,66,Dallas,Dallas,Win,38.5,Over,Win,,
+Washington,Seattle,11/7/23 11:38,21.591,23.169,44.76,0.455,0.545,26,29,55,Seattle,Seattle,Win,46.5,Under,Loss,,
+NY Jets,Las Vegas,11/7/23 11:38,19.745,19.641,39.385,0.503,0.497,12,16,28,NY Jets,Las Vegas,Loss,36,Over,Loss,,
+Denver,Buffalo,11/7/23 11:38,18.821,25.92,44.741,0.308,0.692,24,22,46,Buffalo,Denver,Loss,47,Under,Win,,
+Cincinnati,Baltimore,11/14/23 11:38,19.897,22.015,41.912,0.441,0.559,20,34,54,Baltimore,Baltimore,Win,46,Under,Loss,,
+NY Giants,Washington,11/14/23 11:38,19.817,22.392,42.209,0.428,0.572,31,19,50,Washington,NY Giants,Loss,37.5,Over,Win,,
+Las Vegas,Miami,11/14/23 11:38,22.269,25.015,47.284,0.423,0.577,13,20,33,Miami,Miami,Win,48,Under,Win,,
+Tennessee,Jacksonville,11/14/23 11:38,19.174,21.67,40.843,0.43,0.57,14,34,48,Jacksonville,Jacksonville,Win,39.5,Over,Win,,
+Arizona,Houston,11/14/23 11:38,20.794,23.27,44.064,0.43,0.57,16,21,37,Houston,Houston,Win,47.5,Under,Win,,
+LA Chargers,Green Bay,11/14/23 11:38,22.913,22.135,45.048,0.521,0.479,20,23,43,LA Chargers,Green Bay,Loss,44.5,Over,Loss,,
+Chicago,Detroit,11/14/23 11:38,21.731,26.524,48.255,0.367,0.633,26,31,57,Detroit,Detroit,Win,47,Over,Win,,
+Pittsburgh,Cleveland,11/14/23 11:38,19.118,21.372,40.49,0.436,0.564,10,13,23,Cleveland,Cleveland,Win,37,Over,Loss,,
+Dallas,Carolina,11/14/23 11:38,26.328,18.849,45.177,0.701,0.299,33,10,43,Dallas,Dallas,Win,42.5,Over,Win,,
+Tampa Bay,San Francisco,11/14/23 11:38,17.733,23.447,41.18,0.343,0.657,14,27,41,San Francisco,San Francisco,Win,41,Over,Tie,,
+NY Jets,Buffalo,11/14/23 11:38,17.695,22.539,40.234,0.366,0.634,6,32,38,Buffalo,Buffalo,Win,40,Over,Loss,,
+Seattle,LA Rams,11/14/23 11:38,22.849,21.08,43.929,0.549,0.451,16,17,33,Seattle,LA Rams,Loss,46,Under,Win,,
+Minnesota,Denver,11/14/23 11:38,24.225,21.165,45.39,0.585,0.415,20,21,41,Minnesota,Denver,Loss,43.5,Over,Loss,,
+Cincinnati,Baltimore,11/14/23 11:38,19.897,22.015,41.912,0.441,0.559,20,34,54,Baltimore,Baltimore,Win,46,Under,Loss,,
+NY Giants,Washington,11/14/23 11:38,19.817,22.392,42.209,0.428,0.572,31,19,50,Washington,NY Giants,Loss,37.5,Over,Win,,
+Las Vegas,Miami,11/14/23 11:38,22.269,25.015,47.284,0.423,0.577,13,20,33,Miami,Miami,Win,48,Under,Win,,
+Tennessee,Jacksonville,11/14/23 11:38,19.174,21.67,40.843,0.43,0.57,14,34,48,Jacksonville,Jacksonville,Win,39.5,Over,Win,,
+Arizona,Houston,11/14/23 11:38,20.794,23.27,44.064,0.43,0.57,16,21,37,Houston,Houston,Win,47.5,Under,Win,,
+LA Chargers,Green Bay,11/14/23 11:38,22.913,22.135,45.048,0.521,0.479,20,23,43,LA Chargers,Green Bay,Loss,44.5,Over,Loss,,
+Chicago,Detroit,11/14/23 11:38,21.731,26.524,48.255,0.367,0.633,26,31,57,Detroit,Detroit,Win,47,Over,Win,,
+Pittsburgh,Cleveland,11/14/23 11:38,19.118,21.372,40.49,0.436,0.564,10,13,23,Cleveland,Cleveland,Win,37,Over,Loss,,
+Dallas,Carolina,11/14/23 11:38,26.328,18.849,45.177,0.701,0.299,33,10,43,Dallas,Dallas,Win,42.5,Over,Win,,
+Tampa Bay,San Francisco,11/14/23 11:38,17.733,23.447,41.18,0.343,0.657,14,27,41,San Francisco,San Francisco,Win,41,Over,Tie,,
+NY Jets,Buffalo,11/14/23 11:38,17.695,22.539,40.234,0.366,0.634,6,32,38,Buffalo,Buffalo,Win,40,Over,Loss,,
+Seattle,LA Rams,11/14/23 11:38,22.849,21.08,43.929,0.549,0.451,16,17,33,Seattle,LA Rams,Loss,46,Under,Win,,
+Minnesota,Denver,11/14/23 11:38,24.225,21.165,45.39,0.585,0.415,20,21,41,Minnesota,Denver,Loss,43.5,Over,Loss,,
+Philadelphia,Kansas City,11/14/23 11:38,23.321,23.294,46.615,0.501,0.499,21,17,38,Philadelphia,Philadelphia,Win,45.5,Over,Loss,,
+Green Bay,Detroit,11/21/23 11:38,22.45,23.768,46.218,0.463,0.537,29,22,51,Detroit,Green Bay,Loss,47.5,Under,Loss,,
+Washington,Dallas,11/21/23 11:38,19.383,26.126,45.51,0.316,0.684,10,45,55,Dallas,Dallas,Win,48.5,Under,Loss,,
+San Francisco,Seattle,11/21/23 11:38,24.982,19.345,44.327,0.654,0.346,31,13,44,San Francisco,San Francisco,Win,43,Over,Win,,
+Miami,NY Jets,11/21/23 11:38,23.009,19.697,42.707,0.593,0.407,34,13,47,Miami,Miami,Win,40,Over,Win,,
+Carolina,Tennessee,11/21/23 11:38,19.747,20.602,40.349,0.477,0.523,10,17,27,Tennessee,Tennessee,Win,37,Over,Loss,,
+New England,NY Giants,11/21/23 11:38,20.79,19.581,40.371,0.533,0.467,7,10,17,New England,NY Giants,Loss,33.5,Over,Loss,,
+Tampa Bay,Indianapolis,11/21/23 11:38,21.6,20.7,42.3,0.525,0.475,20,27,47,Tampa Bay,Indianapolis,Loss,43.5,Under,Loss,,
+Jacksonville,Houston,11/21/23 11:38,23.097,20.648,43.746,0.569,0.431,24,21,45,Jacksonville,Jacksonville,Win,48.5,Under,Win,,
+Pittsburgh,Cincinnati,11/21/23 11:38,19.133,21.397,40.531,0.437,0.563,16,10,26,Cincinnati,Pittsburgh,Loss,34.5,Over,Loss,,
+New Orleans,Atlanta,11/21/23 11:38,21.281,20.125,41.406,0.532,0.468,15,24,39,New Orleans,Atlanta,Loss,42,Under,Win,,
+LA Rams,Arizona,11/21/23 11:38,22.151,20.448,42.599,0.548,0.452,37,14,51,LA Rams,LA Rams,Win,44.5,Under,Loss,,
+Cleveland,Denver,11/21/23 11:38,22.928,19.745,42.673,0.589,0.411,12,29,41,Cleveland,Denver,Loss,35.5,Over,Win,,
+Kansas City,Las Vegas,11/21/23 11:38,24.144,19.647,43.791,0.625,0.375,31,17,48,Kansas City,Kansas City,Win,44,Under,Loss,,
+Buffalo,Philadelphia,11/21/23 11:38,23.614,22.655,46.268,0.527,0.473,34,37,71,Buffalo,Philadelphia,Loss,47.5,Under,Loss,,
+Baltimore,LA Chargers,11/21/23 11:38,23.723,20.74,44.463,0.583,0.417,20,10,30,Baltimore,Baltimore,Win,47,Under,Win,,
+Chicago,Minnesota,11/21/23 11:38,21.544,25.24,46.785,0.397,0.603,12,10,22,Minnesota,Chicago,Loss,45,Over,Loss,,
+Seattle,Dallas,11/28/23 11:37,20.196,26.229,46.425,0.335,0.665,35,41,76,Dallas,Dallas,Win,46.5,Under,Loss,,
+Denver,Houston,11/28/23 11:37,21.213,21.722,42.934,0.486,0.514,17,22,39,Houston,Houston,Win,46.5,Under,Win,,
+Miami,Washington,11/28/23 11:37,25.967,21.493,47.461,0.624,0.376,45,15,60,Miami,Miami,Win,50.5,Under,Loss,,
+Indianapolis,Tennessee,11/28/23 11:37,20.75,20.602,41.352,0.504,0.496,31,28,59,Indianapolis,Indianapolis,Win,43,Under,Loss,,
+Arizona,Pittsburgh,11/28/23 11:37,19.045,21.452,40.496,0.433,0.567,24,10,34,Pittsburgh,Arizona,Loss,40,Over,Loss,,
+Atlanta,NY Jets,11/28/23 11:37,20.274,18.777,39.052,0.542,0.458,13,8,21,Atlanta,Atlanta,Win,34,Over,Loss,,
+Detroit,New Orleans,11/28/23 11:37,23.231,22.1,45.331,0.532,0.468,33,28,61,Detroit,Detroit,Win,46,Under,Loss,,
+LA Chargers,New England,11/28/23 11:37,22.666,20.164,42.83,0.57,0.43,6,0,6,LA Chargers,LA Chargers,Win,40,Over,Loss,,
+Carolina,Tampa Bay,11/28/23 11:37,19.516,21.323,40.839,0.45,0.55,18,21,39,Tampa Bay,Tampa Bay,Win,37,Over,Win,,
+Cleveland,LA Rams,11/28/23 11:37,21.699,20.142,41.841,0.544,0.456,19,36,55,Cleveland,LA Rams,Loss,39,Over,Win,,
+San Francisco,Philadelphia,11/28/23 11:37,23.89,21.643,45.534,0.563,0.437,42,19,61,San Francisco,San Francisco,Win,47,Under,Loss,,
+Kansas City,Green Bay,11/28/23 11:37,23.535,20.349,43.884,0.589,0.411,19,27,46,Kansas City,Green Bay,Loss,42,Over,Win,,
+Cincinnati,Jacksonville,11/28/23 11:37,21.711,22.109,43.82,0.489,0.511,34,31,65,Jacksonville,Cincinnati,Loss,38.5,Over,Win,,New England,Pittsburgh,2023-12-05 11:38:37,18.242,18.832,37.074,0.483,0.517,21,18,39,Pittsburgh,New England,Loss,30.0,Over,Win
+Houston,NY Jets,2023-12-05 11:38:37,19.974,18.989,38.963,0.527,0.473,6,30,36,Houston,NY Jets,Loss,34.5,Over,Win
+Carolina,New Orleans,2023-12-05 11:38:37,19.43,22.15,41.58,0.424,0.576,6,28,34,New Orleans,New Orleans,Win,37.5,Over,Loss
+Jacksonville,Cleveland,2023-12-05 11:38:37,22.592,21.425,44.017,0.534,0.466,27,31,58,Jacksonville,Cleveland,Loss,34.0,Over,Win
+Indianapolis,Cincinnati,2023-12-05 11:38:37,21.1,23.983,45.083,0.42,0.58,14,34,48,Cincinnati,Cincinnati,Win,42.5,Over,Win
+Detroit,Chicago,2023-12-05 11:38:37,26.445,21.947,48.392,0.625,0.375,13,28,41,Detroit,Chicago,Loss,41.0,Over,Tie
+LA Rams,Baltimore,2023-12-05 11:38:37,18.64,22.756,41.396,0.386,0.614,31,37,68,Baltimore,Baltimore,Win,43.0,Under,Loss
+Tampa Bay,Atlanta,2023-12-05 11:38:38,20.034,20.571,40.605,0.484,0.516,29,25,54,Atlanta,Tampa Bay,Loss,39.5,Over,Win
+Minnesota,Las Vegas,2023-12-05 11:38:38,23.174,21.354,44.528,0.551,0.449,3,0,3,Minnesota,Minnesota,Win,40.0,Over,Loss
+Seattle,San Francisco,2023-12-05 11:38:38,19.46,25.951,45.41,0.323,0.677,16,28,44,San Francisco,San Francisco,Win,47.0,Under,Win
+Denver,LA Chargers,2023-12-05 11:38:38,20.8,23.15,43.95,0.433,0.567,24,7,31,LA Chargers,Denver,Loss,43.0,Over,Loss
+Buffalo,Kansas City,2023-12-05 11:38:38,23.305,22.247,45.553,0.529,0.471,20,17,37,Buffalo,Buffalo,Win,47.5,Under,Win
+Philadelphia,Dallas,2023-12-05 11:38:38,23.168,25.439,48.607,0.437,0.563,13,33,46,Dallas,Dallas,Win,53.0,Under,Win
+Tennessee,Miami,2023-12-05 11:38:38,20.214,24.32,44.534,0.386,0.614,28,27,55,Miami,Tennessee,Loss,47.0,Under,Loss
+Green Bay,NY Giants,2023-12-05 11:38:38,22.58,19.056,41.636,0.598,0.402,22,24,46,Green Bay,NY Giants,Loss,37.0,Over,Win
+LA Chargers,Las Vegas,2023-12-12 11:38:06,22.399,20.819,43.219,0.544,0.456,21,63,84,LA Chargers,Las Vegas,Loss,33.5,Over,Win
+Minnesota,Cincinnati,2023-12-12 11:38:06,21.755,22.786,44.541,0.47,0.53,24,27,51,Cincinnati,Cincinnati,Win,38.5,Over,Win
+Pittsburgh,Indianapolis,2023-12-12 11:38:06,20.81,20.196,41.006,0.518,0.482,13,30,43,Pittsburgh,Indianapolis,Loss,42.0,Under,Loss
+Denver,Detroit,2023-12-12 11:38:06,21.924,24.345,46.269,0.432,0.568,17,42,59,Detroit,Detroit,Win,47.0,Under,Loss
+Houston,Tennessee,2023-12-12 11:38:06,20.454,20.391,40.845,0.502,0.498,19,16,35,Houston,Houston,Win,37.5,Over,Loss
+NY Giants,New Orleans,2023-12-12 11:38:06,18.882,22.029,40.911,0.412,0.588,6,24,30,New Orleans,New Orleans,Win,37.0,Over,Loss
+NY Jets,Miami,2023-12-12 11:38:07,19.599,23.062,42.66,0.403,0.597,0,30,30,Miami,Miami,Win,40.0,Over,Loss
+Tampa Bay,Green Bay,2023-12-12 11:38:07,20.151,21.424,41.575,0.464,0.536,34,20,54,Green Bay,Tampa Bay,Loss,42.5,Under,Loss
+Chicago,Cleveland,2023-12-12 11:38:07,20.809,23.523,44.332,0.424,0.576,17,20,37,Cleveland,Cleveland,Win,37.5,Over,Loss
+Atlanta,Carolina,2023-12-12 11:38:07,22.173,19.653,41.826,0.571,0.429,7,9,16,Atlanta,Carolina,Loss,35.5,Over,Loss
+Kansas City,New England,2023-12-12 11:38:07,23.104,18.478,41.582,0.628,0.372,27,17,44,Kansas City,Kansas City,Win,37.0,Over,Win
+San Francisco,Arizona,2023-12-12 11:38:07,26.738,17.636,44.374,0.739,0.261,45,29,74,San Francisco,San Francisco,Win,48.0,Under,Loss
+Washington,LA Rams,2023-12-12 11:38:07,20.923,22.802,43.725,0.447,0.553,20,28,48,LA Rams,LA Rams,Win,49.0,Under,Win
+Dallas,Buffalo,2023-12-12 11:38:07,23.684,22.634,46.318,0.529,0.471,10,31,41,Dallas,Buffalo,Loss,49.0,Under,Win
+Baltimore,Jacksonville,2023-12-12 11:38:07,22.947,20.647,43.595,0.564,0.436,23,7,30,Baltimore,Baltimore,Win,44.0,Under,Win
+Philadelphia,Seattle,2023-12-12 11:38:07,26.077,22.474,48.551,0.601,0.399,17,20,37,Philadelphia,Seattle,Loss,48.0,Over,Loss
+New Orleans,LA Rams,2023-12-19 11:50:39,21.535,20.218,41.753,0.538,0.462,22,30,52,New Orleans,LA Rams,Loss,44.5,Under,Loss
+Cincinnati,Pittsburgh,2023-12-19 11:50:39,21.926,18.849,40.776,0.585,0.415,11,34,45,Cincinnati,Pittsburgh,Loss,37.5,Over,Win
+Buffalo,LA Chargers,2023-12-19 11:50:39,25.563,20.457,46.021,0.641,0.359,24,22,46,Buffalo,Buffalo,Win,42.5,Over,Win
+Seattle,Tennessee,2023-12-19 11:50:39,21.965,20.864,42.828,0.532,0.468,20,17,37,Seattle,Seattle,Win,42.0,Over,Loss
+Washington,NY Jets,2023-12-19 11:50:39,19.525,20.017,39.542,0.486,0.514,28,30,58,NY Jets,NY Jets,Win,38.0,Over,Win
+Detroit,Minnesota,2023-12-19 11:50:40,24.515,23.562,48.077,0.527,0.473,30,24,54,Detroit,Detroit,Win,47.0,Over,Win
+Cleveland,Houston,2023-12-19 11:50:40,22.266,20.449,42.716,0.552,0.448,36,22,58,Cleveland,Cleveland,Win,42.5,Over,Win
+Green Bay,Carolina,2023-12-19 11:50:40,22.506,19.492,41.998,0.584,0.416,33,30,63,Green Bay,Green Bay,Win,36.5,Over,Win
+Indianapolis,Atlanta,2023-12-19 11:50:40,21.049,22.243,43.292,0.467,0.533,10,29,39,Atlanta,Atlanta,Win,44.0,Under,Win
+Jacksonville,Tampa Bay,2023-12-19 11:50:40,22.223,20.745,42.967,0.542,0.458,12,30,42,Jacksonville,Tampa Bay,Loss,43.5,Under,Win
+Dallas,Miami,2023-12-19 11:50:40,25.484,23.101,48.585,0.567,0.433,20,22,42,Dallas,Miami,Loss,51.5,Under,Win
+Arizona,Chicago,2023-12-19 11:50:40,22.09,23.0,45.09,0.474,0.526,16,27,43,Chicago,Chicago,Win,44.0,Over,Loss
+New England,Denver,2023-12-19 11:50:41,20.02,20.084,40.104,0.499,0.501,26,23,49,Denver,New England,Loss,34.0,Over,Win
+Las Vegas,Kansas City,2023-12-19 11:50:41,20.441,24.079,44.52,0.398,0.602,20,14,34,Kansas City,Las Vegas,Loss,41.5,Over,Loss
+NY Giants,Philadelphia,2023-12-19 11:50:41,19.581,25.325,44.907,0.342,0.658,25,33,58,Philadelphia,Philadelphia,Win,43.0,Over,Win
+Baltimore,San Francisco,2023-12-19 11:50:41,20.127,22.163,42.291,0.442,0.558,33,19,52,San Francisco,Baltimore,Loss,46.0,Under,Loss
+NY Jets,Cleveland,2023-12-26 12:10:27,18.799,20.918,39.718,0.441,0.559,20,37,57,Cleveland,Cleveland,Win,36.0,Over,Win
+Detroit,Dallas,2023-12-26 12:10:28,22.908,26.347,49.255,0.404,0.596,19,20,39,Dallas,Dallas,Win,53.5,Under,Win
+San Francisco,Washington,2023-12-26 12:10:28,26.444,18.591,45.035,0.71,0.29,27,10,37,San Francisco,San Francisco,Win,48.5,Under,Win
+New Orleans,Tampa Bay,2023-12-26 12:10:28,20.8,20.0,40.8,0.523,0.477,23,13,36,New Orleans,New Orleans,Win,42.5,Under,Win
+Arizona,Philadelphia,2023-12-26 12:10:29,20.572,27.121,47.693,0.321,0.679,35,31,66,Philadelphia,Arizona,Loss,47.5,Over,Win
+LA Rams,NY Giants,2023-12-26 12:10:29,22.306,19.918,42.224,0.568,0.432,26,25,51,LA Rams,LA Rams,Win,42.0,Over,Win
+Carolina,Jacksonville,2023-12-26 12:10:29,19.995,23.347,43.343,0.406,0.594,0,26,26,Jacksonville,Jacksonville,Win,37.5,Over,Loss
+Las Vegas,Indianapolis,2023-12-26 12:10:29,22.944,21.181,44.125,0.55,0.45,20,23,43,Las Vegas,Indianapolis,Loss,44.0,Over,Loss
+Tennessee,Houston,2023-12-26 12:10:29,20.466,20.33,40.796,0.504,0.496,3,26,29,Tennessee,Houston,Loss,42.5,Under,Win
+Atlanta,Chicago,2023-12-26 12:10:29,22.573,20.495,43.068,0.559,0.441,17,37,54,Atlanta,Chicago,Loss,39.0,Over,Win
+New England,Buffalo,2023-12-26 12:10:29,18.243,23.915,42.158,0.344,0.656,21,27,48,Buffalo,Buffalo,Win,40.5,Over,Win
+Miami,Baltimore,2023-12-26 12:10:29,21.909,23.286,45.195,0.462,0.538,19,56,75,Baltimore,Baltimore,Win,47.0,Under,Loss
+Pittsburgh,Seattle,2023-12-26 12:10:30,20.574,21.207,41.781,0.482,0.518,30,23,53,Seattle,Pittsburgh,Loss,41.5,Over,Win
+LA Chargers,Denver,2023-12-26 12:10:30,22.823,21.482,44.306,0.538,0.462,9,16,25,LA Chargers,Denver,Loss,38.5,Over,Loss
+Cincinnati,Kansas City,2023-12-26 12:10:30,21.629,23.397,45.026,0.45,0.55,17,25,42,Kansas City,Kansas City,Win,45.5,Under,Win
+Green Bay,Minnesota,2023-12-26 12:10:30,22.323,22.42,44.743,0.497,0.503,33,10,43,Minnesota,Green Bay,Loss,45.5,Under,Win
+Pittsburgh,Baltimore,2024-01-02 12:11:15,17.799,22.361,40.16,0.374,0.626,17,10,27,Baltimore,Pittsburgh,Loss,37.5,Over,Loss
+Houston,Indianapolis,2024-01-02 12:11:15,22.019,21.514,43.533,0.514,0.486,23,19,42,Houston,Houston,Win,47.5,Under,Win
+NY Jets,New England,2024-01-02 12:11:15,18.687,19.115,37.802,0.488,0.512,17,3,20,New England,NY Jets,Loss,31.0,Over,Loss
+Atlanta,New Orleans,2024-01-02 12:11:15,20.049,21.122,41.171,0.47,0.53,17,48,65,New Orleans,New Orleans,Win,41.5,Under,Loss
+Jacksonville,Tennessee,2024-01-02 12:11:15,22.234,19.297,41.53,0.583,0.417,20,28,48,Jacksonville,Tennessee,Loss,39.5,Over,Win
+Minnesota,Detroit,2024-01-02 12:11:16,23.41,24.858,48.269,0.459,0.541,20,30,50,Detroit,Detroit,Win,46.0,Over,Win
+Cleveland,Cincinnati,2024-01-02 12:11:16,21.942,22.408,44.35,0.486,0.514,14,31,45,Cincinnati,Cincinnati,Win,38.5,Over,Win
+Tampa Bay,Carolina,2024-01-02 12:11:16,21.608,19.202,40.81,0.567,0.433,9,0,9,Tampa Bay,Tampa Bay,Win,37.5,Over,Loss
+LA Rams,San Francisco,2024-01-02 12:11:16,19.033,24.915,43.948,0.339,0.661,21,20,41,San Francisco,LA Rams,Loss,42.5,Over,Loss
+Philadelphia,NY Giants,2024-01-02 12:11:16,25.699,20.13,45.829,0.653,0.347,10,27,37,Philadelphia,NY Giants,Loss,41.5,Over,Loss
+Seattle,Arizona,2024-01-02 12:11:16,24.615,21.857,46.472,0.577,0.423,21,20,41,Seattle,Seattle,Win,48.0,Under,Win
+Denver,Las Vegas,2024-01-02 12:11:16,20.619,21.863,42.482,0.465,0.535,14,27,41,Las Vegas,Las Vegas,Win,38.0,Over,Win
+Kansas City,LA Chargers,2024-01-02 12:11:17,24.675,20.995,45.67,0.603,0.397,13,12,25,Kansas City,Kansas City,Win,36.0,Over,Loss
+Chicago,Green Bay,2024-01-02 12:11:17,21.044,23.591,44.635,0.428,0.572,9,17,26,Green Bay,Green Bay,Win,44.0,Over,Loss
+Dallas,Washington,2024-01-02 12:11:17,26.558,19.4,45.958,0.694,0.306,38,10,48,Dallas,Dallas,Win,44.0,Over,Win
+Buffalo,Miami,2024-01-02 12:11:17,25.383,22.539,47.922,0.579,0.421,21,14,35,Buffalo,Buffalo,Win,50.5,Under,Win

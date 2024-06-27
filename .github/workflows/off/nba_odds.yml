@@ -1,0 +1,39 @@
+name: Execute NBA odds.
+
+on:
+  schedule:
+    - cron: "40 11 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11.1' # install the python version needed
+
+      - name: install python packages
+        run: |
+          pip install requests pandas python-dotenv
+
+      - name: execute py script # run main.py
+        run: |
+          python nba/nba_odds_api/nba_odds.py
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+
+      - name: Pull latest changes from remote
+        run: git pull origin main
+
+      - name: commit files
+        run: |
+          git config user.name "jonasnatividad"
+          git config user.email "jonas.natividad.ii@gmail.com"
+          git add .
+          git commit -m "Daily NBA odds update." || echo "No changes to commit"
+          git push origin main

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='favicon.png') }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ url_for('static', filename='apple-touch-icon-180x180.png') }}">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ url_for('static', filename='apple-touch-icon-120x120.png') }}">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ url_for('static', filename='apple-touch-icon-76x76.png') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Orbitron">
+
+    <!-- Google Analytics tracking code goes here -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LMWQVV0KCX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+    
+        gtag('config', 'G-LMWQVV0KCX');
+    </script>
+
+</head>
+<body>
+    <div class="emoji-header" style="font-family: 'Orbitron', sans-serif;">
+        <a href="/" style="text-decoration: none; color: inherit;">
+            🔮 playprophet
+        </a>
+    </div>
+
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <ul>
+            <li><a href="/" class="active">Home</a></li>
+            <li><a href="/nfl">NFL</a></li>
+            <li><a href="/nba">NBA</a></li>
+            <li><a href="/nhl">NHL</a></li>
+        </ul>
+    </nav>
+
+    <!-- Content Section -->
+    <section class="home-content">
+        <h1>1 Million. That's the Magic Number.</h1>
+        <li>Yep, that's the amount of times we simulate each matchup in our prediction model. 🔮</li>
+        <li>What's even cooler?  The model learns as it goes, getting smarter with every game played. 🧠</li>
+        <li>Don't take our word for it, we let the real-time prediction analytics do the talking. ⬇</li>
+    </section>
+
+    <!-- Data Tables Section -->
+    <section class="data-tables">
+        <!-- NFL Table -->
+        <table class="merged-header-table">
+            <thead>
+                <tr>
+                    <th colspan="2">
+                        <a href="/nfl">
+                            <img src="{{ url_for('static', filename='league_logos/NFL.svg') }}" alt="League Logo" class="nfl-league-logo">
+                        </a>
+                    </th>
+                </tr>
+                <tr>
+                    <th>Over / Under %</th>
+                    <th>Moneyline %</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for record in csv_data %}
+                    <tr>
+                        <td class="large-text {% if record['O/U Win Ratio'] == '100%' %}above-fifty{% elif record['O/U Win Ratio'][:-1]|float >= 50 %}above-fifty{% else %}below-fifty{% endif %}">{{ record['O/U Win Ratio'] }}</td>
+                        <td class="large-text {% if record['ML Win Ratio'] == '100%' %}above-fifty{% elif record['ML Win Ratio'][:-1]|float >= 50 %}above-fifty{% else %}below-fifty{% endif %}">{{ record['ML Win Ratio'] }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <!-- NBA Table -->
+        <table class="merged-header-table">
+            <thead>
+                <tr>
+                    <th colspan="2">
+                        <a href="/nba">
+                            <img src="{{ url_for('static', filename='league_logos/NBA.png') }}" alt="League Logo" class="nba-league-logo">
+                        </a>
+                    </th>
+                </tr>
+                <tr>
+                    <th>Over / Under %</th>
+                    <th>Moneyline %</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for record in csv_data_2 %}
+                    <tr>
+                        <td class="large-text {% if record['O/U Win Ratio'] == '100%' %}above-fifty{% elif record['O/U Win Ratio'][:-1]|float >= 50 %}above-fifty{% else %}below-fifty{% endif %}">{{ record['O/U Win Ratio'] }}</td>
+                        <td class="large-text {% if record['ML Win Ratio'] == '100%' %}above-fifty{% elif record['ML Win Ratio'][:-1]|float >= 50 %}above-fifty{% else %}below-fifty{% endif %}">{{ record['ML Win Ratio'] }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <!-- NHL Table -->
+        <table class="merged-header-table">
+            <thead>
+                <tr>
+                    <th colspan="2">
+                        <a href="/nhl">
+                            <img src="{{ url_for('static', filename='league_logos/NHL.svg') }}" alt="League Logo" class="nhl-league-logo">
+                        </a>
+                    </th>
+                </tr>
+                <tr>
+                    <th>Over / Under %</th>
+                    <th>Moneyline %</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for record in csv_data_3 %}
+                    <tr>
+                        <td class="large-text {% if record['O/U Win Ratio'] == '100%' %}above-fifty{% elif record['O/U Win Ratio'][:-1]|float >= 50 %}above-fifty{% else %}below-fifty{% endif %}">{{ record['O/U Win Ratio'] }}</td>
+                        <td class="large-text {% if record['ML Win Ratio'] == '100%' %}above-fifty{% elif record['ML Win Ratio'][:-1]|float >= 50 %}above-fifty{% else %}below-fifty{% endif %}">{{ record['ML Win Ratio'] }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </section>
+
+<footer>
+    <p class="footer-text">
+        playprophet.ai is an independent simulation and is not affiliated with, endorsed by, or sponsored by the National Football League (NFL), the National Basketball Association (NBA), or the National Hockey League (NHL). All NFL, NBA, and NHL team names, logos, and related marks are trademarks of their respective owners, and the use of such trademarks on this website does not imply any affiliation with or endorsement by their respective owners.
+    </p>
+</footer>
+
+</body>
+</html>

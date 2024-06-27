@@ -1,0 +1,43 @@
+name: Execute NHL data scrapers.
+
+on:
+  schedule:
+    - cron: "30 10 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11.1' # install the python version needed
+
+      - name: install python packages
+        run: |
+          pip install selenium requests pandas python-dotenv
+
+      - name: execute py script # run main.py
+        run: |
+          python nhl/nhl_monte_carlo/nhl_data_scraper/daily_matchups.py
+          python nhl/nhl_monte_carlo/nhl_data_scraper/points_forced.py
+          python nhl/nhl_monte_carlo/nhl_data_scraper/points_allowed.py
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          NHL_PA_URL: ${{ secrets.NHL_PA_URL }}
+          NHL_PF_URL: ${{ secrets.NHL_PF_URL }}
+
+      - name: Pull latest changes from remote
+        run: git pull origin main
+
+      - name: commit files
+        run: |
+          git config user.name "jonasnatividad"
+          git config user.email "jonas.natividad.ii@gmail.com"
+          git add .
+          git commit -m "Daily NHL data update." || echo "No changes to commit"
+          git push origin main

@@ -1,0 +1,37 @@
+name: Execute NBA monte carlo.
+
+on:
+  schedule:
+    - cron: "20 11 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11.1' # install the python version needed
+
+      - name: install python packages
+        run: |
+          pip install pandas numpy scipy
+
+      - name: execute py script # run main.py
+        run: |
+          python nba/nba_monte_carlo/nba_monte_carlo.py
+
+      - name: Pull latest changes from remote
+        run: git pull origin main
+
+      - name: commit files
+        run: |
+          git config user.name "jonasnatividad"
+          git config user.email "jonas.natividad.ii@gmail.com"
+          git add .
+          git commit -m "Daily NBA predictions update." || echo "No changes to commit"
+          git push origin main
