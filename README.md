@@ -32,3 +32,4 @@ To explore the deprecated version locally, follow these steps:
 
 ```bash
 git clone git@github.com:jonasnatividad/playprophet.git
+```
